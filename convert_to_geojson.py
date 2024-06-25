@@ -13,15 +13,19 @@ geojson = {
     "features": []
 }
 
-for segment in traffic_data['flowSegmentData']:
+# Ensure the correct path to the data
+if "flowSegmentData" in traffic_data:
+    segment = traffic_data["flowSegmentData"]
+    coordinates = segment["coordinates"]["coordinate"]
+    
+    # Create a list of coordinate pairs for the LineString
+    line_coordinates = [[coord["longitude"], coord["latitude"]] for coord in coordinates]
+
     feature = {
         "type": "Feature",
         "geometry": {
             "type": "LineString",
-            "coordinates": [
-                [segment["start"]["longitude"], segment["start"]["latitude"]],
-                [segment["end"]["longitude"], segment["end"]["latitude"]]
-            ]
+            "coordinates": line_coordinates
         },
         "properties": {
             "currentSpeed": segment["currentSpeed"],
@@ -31,6 +35,8 @@ for segment in traffic_data['flowSegmentData']:
         }
     }
     geojson["features"].append(feature)
+else:
+    print("No flowSegmentData found in the response.")
 
 # Save the GeoJSON to a file
 with open('traffic_data.geojson', 'w') as f:
