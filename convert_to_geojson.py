@@ -25,11 +25,15 @@ for index, row in df.iterrows():
     
     # Build the request URL
     url = f"{base_url}?point={lat},{lon}&unit=MPH&openLr=false&key={api_key}"
+    print(f"Fetching data for {lat}, {lon}")
     
     # Fetch the traffic data
     response = requests.get(url)
     if response.status_code == 200:
         traffic_data = response.json()
+        
+        # Print the response to debug
+        print(json.dumps(traffic_data, indent=2))
         
         # Ensure the correct path to the data
         if "flowSegmentData" in traffic_data:
@@ -53,6 +57,8 @@ for index, row in df.iterrows():
                 }
             }
             geojson["features"].append(feature)
+        else:
+            print("No flowSegmentData found in the response.")
     else:
         print(f"Failed to fetch data for {lat}, {lon}: {response.status_code}")
 
