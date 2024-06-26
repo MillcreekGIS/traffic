@@ -25,7 +25,7 @@ for index, row in df.iterrows():
     
     # Build the request URL
     url = f"{base_url}?point={lat},{lon}&unit=MPH&openLr=false&key={api_key}"
-    print(f"Fetching data for {lat}, {lon}")
+    print(f"Request URL: {url}")
     
     # Fetch the traffic data
     response = requests.get(url)
@@ -61,6 +61,7 @@ for index, row in df.iterrows():
             print("No flowSegmentData found in the response.")
     else:
         print(f"Failed to fetch data for {lat}, {lon}: {response.status_code}")
+        print(f"Response content: {response.content}")
 
 # Save the GeoJSON to a file
 with open('traffic_data.geojson', 'w') as f:
