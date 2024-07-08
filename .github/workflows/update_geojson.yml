@@ -2,7 +2,7 @@ name: Update GeoJSON
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Run every 3 hours
+    - cron: '34 * * * *' # every 34 minutes
   workflow_dispatch:
 
 jobs:
