@@ -1,32 +1,20 @@
-name: Update AGOL Feature Layer
+from arcgis.gis import GIS
+from arcgis.features import FeatureLayerCollection
+import json
+import os
 
-on:
-  schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes
-  workflow_dispatch:
+# Authenticate with AGOL
+gis = GIS("https://www.arcgis.com", os.getenv('AGOL_USERNAME'), os.getenv('AGOL_PASSWORD'))
 
-jobs:
-  update-agol-layer:
-    runs-on: ubuntu-latest
+# Get the Feature Layer
+item = gis.content.get(os.getenv('AGOL_ITEM_ID'))
+flc = FeatureLayerCollection.fromitem(item)
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+# Load the updated GeoJSON data
+with open("traffic_data.geojson", "r") as f:
+    geojson_data = json.load(f)
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+# Update the feature layer with new GeoJSON data
+flc.manager.overwrite(geojson_data)
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install arcgis
-
-      - name: Update AGOL Feature Layer
-        run: |
-          python update_agol_layer.py
-        env:
-          AGOL_USERNAME: ${{ secrets.AGOL_USERNAME }}
-          AGOL_PASSWORD: ${{ secrets.AGOL_PASSWORD }}
-          AGOL_ITEM_ID: ${{ secrets.AGOL_ITEM_ID }}
+print("Feature layer updated successfully.")
