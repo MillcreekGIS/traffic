@@ -1,2 +1,4 @@
 requests
 pandas
+keyring==21.8.0
+arcgis==1.9.1
