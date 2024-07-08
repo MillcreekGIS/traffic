@@ -8,7 +8,7 @@ base_url = "https://api.tomtom.com/traffic/services/4/flowSegmentData/relative0/
 api_key = os.getenv('tomtom_key')
 
 # Path to the CSV file in your GitHub repository
-csv_url = "https://raw.githubusercontent.com/MillcreekGIS/traffic/main/road_midpoints.csv"
+csv_url = "https://raw.githubusercontent.com/MillcreekGIS/traffic/main/road_midpoints1.csv"
 
 # Read the CSV file
 df = pd.read_csv(csv_url)
