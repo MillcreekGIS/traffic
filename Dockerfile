@@ -1,23 +1,28 @@
-FROM python:3.9
+# Use a lighter base image
+FROM python:3.9-slim
 
-# Install system dependencies
+# Install required packages
 RUN apt-get update && apt-get install -y \
     libgl1-mesa-glx \
-    libglib2.0-0
+    libglib2.0-0 \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
-# Install Python dependencies from requirements.txt
-COPY requirements.txt /tmp/
+# Upgrade pip
 RUN pip install --upgrade pip
-RUN pip install -r /tmp/requirements.txt
 
-# Install arcgis package separately
-RUN pip install arcgis
+# Copy the requirements file and install dependencies
+COPY requirements.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
 
-# Copy your Python scripts
-COPY update_agol_layer.py /usr/src/app/update_agol_layer.py
+# Install arcgis separately to manage its large number of dependencies
+RUN pip install --no-cache-dir arcgis
+
+# Copy the rest of the application code
+COPY . /app
 
 # Set the working directory
-WORKDIR /usr/src/app
+WORKDIR /app
 
-# Command to run the script
-CMD ["python", "update_agol_layer.py"]
+# Set the entry point
+CMD ["python", "main.py"]
