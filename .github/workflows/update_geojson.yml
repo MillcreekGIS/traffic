@@ -29,6 +29,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run conversion script
+        env: 
+          tomtom_key: ${{ secrets.tomtom_key }}
         run: |
           python convert_to_geojson.py
 
