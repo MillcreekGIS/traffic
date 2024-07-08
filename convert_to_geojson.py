@@ -4,7 +4,7 @@ import pandas as pd
 
 # URL to fetch traffic flow data
 base_url = "https://api.tomtom.com/traffic/services/4/flowSegmentData/relative0/10/json"
-api_key = ${{ secrets.tomtom_key }}
+api_key = os.getenv('tomtom_key')
 
 # Path to the CSV file in your GitHub repository
 csv_url = "https://raw.githubusercontent.com/MillcreekGIS/traffic/main/road_midpoints.csv"
