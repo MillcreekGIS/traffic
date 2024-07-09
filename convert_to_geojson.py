@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import pandas as pd
+from datetime import datetime
 
 # URL to fetch traffic flow data
 base_url = "https://api.tomtom.com/traffic/services/4/flowSegmentData/relative0/10/json"
@@ -44,6 +45,9 @@ for index, row in df.iterrows():
             # Create a list of coordinate pairs for the LineString
             line_coordinates = [[coord["longitude"], coord["latitude"]] for coord in coordinates]
 
+            # Get the current timestamp
+            last_updated = datetime.utcnow().isoformat() + 'Z'
+
             feature = {
                 "type": "Feature",
                 "geometry": {
@@ -54,7 +58,8 @@ for index, row in df.iterrows():
                     "currentSpeed": segment["currentSpeed"],
                     "freeFlowSpeed": segment["freeFlowSpeed"],
                     "confidence": segment["confidence"],
-                    "roadClosure": segment["roadClosure"]
+                    "roadClosure": segment["roadClosure"],
+                    "last_updated": last_updated
                 }
             }
             geojson["features"].append(feature)
