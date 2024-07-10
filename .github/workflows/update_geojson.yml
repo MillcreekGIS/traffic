@@ -1,4 +1,4 @@
-name: Update GeoJSON
+name: Update Traffic GeoJSON
 
 on:
   schedule:
