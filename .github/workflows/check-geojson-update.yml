@@ -2,7 +2,7 @@ name: Check GeoJSON Update
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/05 * * * *'
   workflow_dispatch:
 
 jobs:
