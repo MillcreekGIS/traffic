@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.556028,
-          40.375381
+          -111.899489,
+          40.564298
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181336",
+        "itemId": "UT-Incident--181339",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " US 189 at MP 15",
-        "areaName": "Wasatch County",
-        "lanesAffected": "None",
-        "roadwayName": "US 189",
-        "linkDesignator": "US 189",
-        "linkDirection": "BOTHDIR",
-        "startTime": "2024-07-10T11:20:00",
-        "endTime": "2024-07-10T12:20:00",
-        "lastUpdated": "2024-07-10T11:20:00",
+        "operatorComment": " I-15 at MP 294",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 4, Lane 5",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-07-10T12:21:00",
+        "endTime": "2024-07-10T13:20:00",
+        "lastUpdated": "2024-07-10T12:21:00",
         "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "Crash",
+        "headlineEventSubType": "Maintenance",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nUS 189 at MP 15 (10 mi SW of Charleston) Wasatch Co.\nEst. Clearance Time: 12:20 PM",
+        "eventDescription": "Maintenance\nNB I-15 at MP 294 (10200 S) Salt Lake Co.\n3 Right Lanes Closed\nEst. Clearance Time: 1:20 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Maintenance",
+        "eventSubTypeLongName": "Maintenance"
       }
     }
   ]
