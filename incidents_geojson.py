@@ -5,6 +5,14 @@ import requests
 incidents_url = "https://www.udottraffic.utah.gov/map/mapIcons/Incidents"
 incident_details_base_url = "https://www.udottraffic.utah.gov/map/data/Incidents/"
 
+# Bounding box coordinates
+nw_point = (40.90012110976349, -112.18707379615758)
+se_point = (40.46627775757053, -111.5244192742487)
+
+# Function to check if a point is within the bounding box
+def is_within_bounding_box(lat, lon, nw_point, se_point):
+    return nw_point[0] >= lat >= se_point[0] and nw_point[1] <= lon <= se_point[1]
+
 # Fetch the JSON data
 response = requests.get(incidents_url)
 data = response.json()
@@ -20,8 +28,15 @@ geojson = {
 
 # Loop through each incident and convert it to a GeoJSON feature
 for incident in incidents:
+    # Extract the latitude and longitude
+    lat, lon = incident["location"]
+    
+    # Check if the incident is within the bounding box
+    if not is_within_bounding_box(lat, lon, nw_point, se_point):
+        continue
+    
     # Flip the coordinates to (longitude, latitude)
-    coordinates = incident["location"][::-1]
+    coordinates = [lon, lat]
     
     # Fetch additional details for each incident
     item_id = incident["itemId"]
@@ -49,7 +64,7 @@ for incident in incidents:
             "endTime": details.get("dates", {}).get("endTime", ""),
             "lastUpdated": details.get("dates", {}).get("lastUpdated", ""),
             "headlineEventType": details.get("headline", {}).get("headlineEventType", ""),
-            "headlineEventSubType": details.get("headline", {}).get("headlineEventSubType", ""),
+            "headlineEventSubType": details.get("headlineEventSubType", ""),
             "isActive": details.get("isActive", ""),
             "isFullClosure": details.get("isFullClosure", "")
         })
