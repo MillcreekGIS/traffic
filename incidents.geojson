@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.899489,
-          40.564298
+          -111.874226,
+          41.254262
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181339",
+        "itemId": "UT-Incident--181340",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 294",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 4, Lane 5",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-10T12:21:00",
-        "endTime": "2024-07-10T13:20:00",
-        "lastUpdated": "2024-07-10T12:21:00",
+        "operatorComment": " SR 39 at MP 12",
+        "areaName": "Weber County",
+        "lanesAffected": "None",
+        "roadwayName": "SR 39",
+        "linkDesignator": "SR 39",
+        "linkDirection": "All",
+        "startTime": "2024-07-10T12:42:00",
+        "endTime": "2024-07-10T14:00:00",
+        "lastUpdated": "2024-07-10T12:42:00",
         "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "Maintenance",
+        "headlineEventSubType": "Crash",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Maintenance\nNB I-15 at MP 294 (10200 S) Salt Lake Co.\n3 Right Lanes Closed\nEst. Clearance Time: 1:20 PM",
+        "eventDescription": "Crash\nSR 39 at MP 12 (4 miles east of Ogden) Weber Co.\nEst. Clearance Time: 2:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Maintenance",
-        "eventSubTypeLongName": "Maintenance"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
