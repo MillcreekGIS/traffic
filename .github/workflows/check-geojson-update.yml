@@ -19,7 +19,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install pytz
+        run: pip install -r requirements.txt
 
       - name: Check GeoJSON update time
         run: python check_geojson_update.py
