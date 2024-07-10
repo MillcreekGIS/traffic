@@ -12,7 +12,49 @@ data = response.json()
 periods = data['properties']['periods'][:5]
 
 # Generate HTML
-html_content = "<div class='weather-forecast'>"
+html_content = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast</title>
+    <style>
+        /* Ensure the container takes full height of the parent */
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .weather-forecast {
+            height: 100%;
+            overflow-y: auto;
+            padding: 10px;
+        }
+
+        .weather-period {
+            margin-bottom: 10px;
+        }
+
+        .weather-period h3 {
+            margin: 5px 0;
+        }
+
+        .weather-period p {
+            margin: 3px 0;
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="weather-forecast">
+"""
 
 for period in periods:
     html_content += f"""
@@ -25,10 +67,14 @@ for period in periods:
     <hr>
     """
 
-html_content += "</div>"
+html_content += """
+    </div>
+</body>
+</html>
+"""
 
 # Save the HTML to a file
-with open('index.html', 'w') as file:
+with open('weather_forecast.html', 'w') as file:
     file.write(html_content)
 
-print("HTML file created successfully: index.html")
+print("HTML file created successfully: weather_forecast.html")
