@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.53585,
+          -111.892927
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181335",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.785355,
+          -109.470749
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181331",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.789416,
+          -111.949318
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181334",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      }
+    }
+  ]
+}
