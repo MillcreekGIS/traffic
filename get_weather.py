@@ -28,7 +28,7 @@ for period in periods:
 html_content += "</div>"
 
 # Save the HTML to a file
-with open('weather_forecast.html', 'w') as file:
+with open('index.html', 'w') as file:
     file.write(html_content)
 
-print("HTML file created successfully: weather_forecast.html")
+print("HTML file created successfully: index.html")
