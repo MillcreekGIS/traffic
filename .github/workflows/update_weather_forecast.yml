@@ -10,11 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Set up Node.js 20
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
       - name: Checkout repository
         uses: actions/checkout@v3
 
@@ -36,7 +31,9 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add weather_forecast.html
+          mkdir -p docs
+          mv weather_forecast.html docs/
+          git add docs/weather_forecast.html
           git commit -m "Update Weather Forecast HTML"
           git push origin main
         env:
