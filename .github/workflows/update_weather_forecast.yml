@@ -32,8 +32,8 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           mkdir -p docs
-          mv weather_forecast.html docs/
-          git add docs/weather_forecast.html
+          mv index.html docs/
+          git add docs/index.html
           git commit -m "Update Weather Forecast HTML"
           git push origin main
         env:
