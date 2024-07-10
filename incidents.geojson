@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.874226,
-          41.254262
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181340",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 39 at MP 12",
-        "areaName": "Weber County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 39",
-        "linkDesignator": "SR 39",
-        "linkDirection": "All",
-        "startTime": "2024-07-10T12:42:00",
-        "endTime": "2024-07-10T14:00:00",
-        "lastUpdated": "2024-07-10T12:42:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "Crash",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSR 39 at MP 12 (4 miles east of Ogden) Weber Co.\nEst. Clearance Time: 2:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.797475,
           40.682085
         ]
@@ -88,7 +39,7 @@
         "endTime": "2024-07-10T14:10:00",
         "lastUpdated": "2024-07-10T13:06:00",
         "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "Crash",
+        "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
