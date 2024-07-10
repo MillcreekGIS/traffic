@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.033859,
+          40.575563
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181343",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Mountain View Corr at MP 13",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "Mountain View Corr",
+        "linkDesignator": "Mountain View Corr",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-07-10T15:00:00",
+        "endTime": "2024-07-10T16:15:00",
+        "lastUpdated": "2024-07-10T15:00:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nBoth Directions Mountain View Corr at MP 13 (East of Old Bingham Hwy) Salt Lake Co.\nEst. Clearance Time: 4:15 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
