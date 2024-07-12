@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181407",
+        "itemId": "UT-Incident--181408",
         "icon": {
           "size": [
             29,
@@ -34,16 +34,16 @@
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-07-11T21:00:00",
+        "linkDirection": "N",
+        "startTime": "2024-07-11T22:55:00",
         "endTime": "2024-07-11T23:30:00",
-        "lastUpdated": "2024-07-11T22:46:00",
+        "lastUpdated": "2024-07-11T22:55:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 306 (900 S Onramp) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 11:30 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 306 (1300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
