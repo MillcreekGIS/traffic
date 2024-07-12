@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.890642,
-          40.61617
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181411",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " STATE ST at 7500 S/GREENWOOD AVE",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Left Exit 1 (closest to mainline), Lane 1, Lane 2, Lane 3, Lane 4",
-        "roadwayName": "STATE ST",
-        "linkDesignator": "STATE ST",
-        "linkDirection": "S",
-        "startTime": "2024-07-12T01:45:00",
-        "endTime": "2024-07-12T02:45:00",
-        "lastUpdated": "2024-07-12T01:50:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "CRASH\nSB STATE ST Closed\n at 7500 S/GREENWOOD AVE\nSalt Lake Co.\nUse Alt Route",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.888213,
           40.741617
         ]
