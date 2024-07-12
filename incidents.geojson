@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.821002,
-          40.634375
+          -111.938738,
+          40.591303
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181417",
+        "itemId": "UT-Incident--181419",
         "icon": {
           "size": [
             29,
@@ -29,74 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 7",
+        "operatorComment": " Redwood Rd at 9000 S",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
-        "linkDirection": "Ramp",
-        "startTime": "2024-07-12T08:25:00",
-        "endTime": "2024-07-12T09:22:00",
-        "lastUpdated": "2024-07-12T08:26:00",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "Redwood Rd",
+        "linkDesignator": "Redwood Rd",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-07-12T09:03:00",
+        "endTime": "2024-07-12T10:02:00",
+        "lastUpdated": "2024-07-12T09:03:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nRamp I-215 S at MP 7 (2300 E) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 9:22 AM",
+        "eventDescription": "Crash\nBoth Directions Redwood Rd at 9000 S Salt Lake Co.\n2 Left Lanes Closed NB/SB\nEst. Clearance Time: 10:02 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.906769,
-          40.699629
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181418",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 3300 S at 500 W",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 5, Lane 6",
-        "roadwayName": "3300 S",
-        "linkDesignator": "3300 S",
-        "linkDirection": "W",
-        "startTime": "2024-07-12T08:36:00",
-        "endTime": "2024-07-12T09:35:00",
-        "lastUpdated": "2024-07-12T08:36:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nWB 3300 S at 500 W Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 9:35 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
       }
     },
     {
