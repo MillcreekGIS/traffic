@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90976,
-          40.74966
+          -111.669212,
+          40.578354
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181441",
+        "itemId": "UT-Incident--181449",
         "icon": {
           "size": [
             29,
@@ -29,168 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 307",
+        "operatorComment": " SR 210 at MP 10",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-12T17:45:00",
-        "endTime": "2024-07-12T18:55:00",
-        "lastUpdated": "2024-07-12T17:45:00",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 1, Lane 2",
+        "roadwayName": "SR 210",
+        "linkDesignator": "SR 210",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-07-12T20:12:00",
+        "endTime": "2024-07-12T21:08:00",
+        "lastUpdated": "2024-07-12T20:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 307 (600 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:55 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.674521,
-          40.740268
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181438",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 136",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-07-12T17:15:00",
-        "endTime": "2024-07-12T18:15:00",
-        "lastUpdated": "2024-07-12T17:15:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:15 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.922481,
-          40.804836
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181440",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 311",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-12T17:27:00",
-        "endTime": "2024-07-12T18:30:00",
-        "lastUpdated": "2024-07-12T17:27:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 311 (2300 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.914284,
-          40.763745
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181436",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 308",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-07-12T17:00:00",
-        "endTime": "2024-07-12T18:15:00",
-        "lastUpdated": "2024-07-12T17:01:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 308 (N Temple) Salt Lake Co.\n Right Lanes Closed\nEst. Clearance Time: 6:15 PM",
+        "eventDescription": "Crash\nBoth Directions SR 210 Closed at MP 10 (Snowbird Entry 3) Salt Lake Co.\n",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
