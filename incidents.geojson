@@ -86,17 +86,66 @@
         "linkDirection": "W",
         "startTime": "2024-07-14T13:14:00",
         "endTime": "2024-07-14T14:15:00",
-        "lastUpdated": "2024-07-14T13:14:00",
+        "lastUpdated": "2024-07-14T13:37:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nWB I-80 700 E On Ramp (State St / Salt Lake City) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 2:15 PM",
+        "eventDescription": "Vehicle on fire\nWB I-80 700 E On Ramp (State St / Salt Lake City) Salt Lake Co.\nEst. Clearance Time: 2:15 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Vehicle on fire",
         "eventSubTypeLongName": "Vehicle on fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.808234,
+          40.641354
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181499",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 S at MP 6",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "Ramp",
+        "startTime": "2024-07-14T13:30:00",
+        "endTime": "2024-07-14T14:30:00",
+        "lastUpdated": "2024-07-14T13:30:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB Ramp I-215 S at MP 6 (6200 S)\nSalt Lake Co.\nEst. Clearance Time: 2:30 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
