@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.858352,
-          40.630157
+          -111.90475,
+          40.736823
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181483",
+        "itemId": "UT-Incident--181484",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 9",
+        "operatorComment": " I-15 at MP 306",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
-        "linkDirection": "W",
-        "startTime": "2024-07-13T21:45:00",
-        "endTime": "2024-07-13T22:45:00",
-        "lastUpdated": "2024-07-13T21:45:00",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-07-13T23:26:00",
+        "endTime": "2024-07-14T00:30:00",
+        "lastUpdated": "2024-07-13T23:26:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-215 S at MP 9 (Union Park Ave) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 10:45 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 306 (1300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7/14/2024 12:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
