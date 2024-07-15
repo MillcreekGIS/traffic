@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.02814,
-          40.593332
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181517",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Mountain View Corridor Hwy at 8680 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "Mountain View Corridor Hwy",
-        "linkDesignator": "Mountain View Corridor Hwy",
-        "linkDirection": "N",
-        "startTime": "2024-07-15T02:49:00",
-        "endTime": "2024-07-15T03:48:00",
-        "lastUpdated": "2024-07-15T03:40:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Mountain View Corridor Hwy at 8600 S Salt Lake Co.\nRight Lanes Closed\nEst. Clearance Time: 3:48 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.895937,
           40.588058
         ]
