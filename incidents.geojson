@@ -36,67 +36,18 @@
         "linkDesignator": "MONROE ST",
         "linkDirection": "S",
         "startTime": "2024-07-13T18:25:00",
-        "endTime": "2024-07-16T12:00:00",
-        "lastUpdated": "2024-07-15T13:18:00",
+        "endTime": "2024-07-20T12:00:00",
+        "lastUpdated": "2024-07-16T14:54:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Utility work\nSB MONROE ST Salt Lake Co.\n9000 S. Right Lane Closed\nEst. Clearance Time: 7/15/2024 12:00 PM",
+        "eventDescription": "Utility work\nSB MONROE ST Salt Lake Co.\n9000 S. Right Lane Closed\n",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Utility work",
         "eventSubTypeLongName": "Utility work"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.892927,
-          40.53585
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181568",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 292",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-16T13:37:00",
-        "endTime": "2024-07-16T14:36:00",
-        "lastUpdated": "2024-07-16T14:09:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 292 (11400 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:36 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
       }
     },
     {
@@ -142,6 +93,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nWB I-215S TO SB I-15 RAMP Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:36 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90152,
+          40.664677
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181572",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 301",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-07-16T14:50:00",
+        "endTime": "2024-07-16T15:45:00",
+        "lastUpdated": "2024-07-16T14:50:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 Offramp at MP 301 (4500 S) Salt Lake Co.\nEst. Clearance Time: 3:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
