@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.924637,
-          40.724236
+          -111.938789,
+          40.64301
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181574",
+        "itemId": "UT-Incident--181576",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 16",
+        "operatorComment": " REDWOOD RD 5951",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-07-16T15:15:00",
-        "endTime": "2024-07-16T16:15:00",
-        "lastUpdated": "2024-07-16T15:15:00",
+        "lanesAffected": "Lane 3",
+        "roadwayName": "REDWOOD RD",
+        "linkDesignator": "REDWOOD RD",
+        "linkDirection": "S",
+        "startTime": "2024-07-16T15:25:00",
+        "endTime": "2024-07-16T16:35:00",
+        "lastUpdated": "2024-07-16T15:30:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 16 (900 W) Salt Lake Co.\nEst. Clearance Time: 4:15 PM",
+        "eventDescription": "Crash\nSB Redwood Rd at 6100 S Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 4:35 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
