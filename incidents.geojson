@@ -49,55 +49,6 @@
         "eventSubTypeName": "Utility work",
         "eventSubTypeLongName": "Utility work"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.899695,
-          40.756332
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181544",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 300 W at 600 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "300 W",
-        "linkDesignator": "300 W",
-        "linkDirection": "All",
-        "startTime": "2024-07-15T20:09:00",
-        "endTime": "2024-07-22T21:08:00",
-        "lastUpdated": "2024-07-15T21:06:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Utility work\nAll Directions 200 W at 600 S Salt Lake Co.\nEB Left 2 Lanes Closed\nNB Right Lane Closed\nEst. Clearance Time: 7/22/2024 12:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Utility work",
-        "eventSubTypeLongName": "Utility work"
-      }
     }
   ]
 }
