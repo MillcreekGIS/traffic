@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181606",
+        "itemId": "UT-Incident--181609",
         "icon": {
           "size": [
             29,
@@ -35,15 +35,64 @@
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "E",
-        "startTime": "2024-07-17T08:40:00",
-        "endTime": "2024-07-17T09:38:00",
-        "lastUpdated": "2024-07-17T08:40:00",
+        "startTime": "2024-07-17T09:24:00",
+        "endTime": "2024-07-17T10:30:00",
+        "lastUpdated": "2024-07-17T09:24:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 131 (Quarry) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:38 AM",
+        "eventDescription": "Crash\nEB I-80 at MP 131 (Quarry) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:30 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.741641,
+          40.741134
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181608",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 132",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-07-17T08:59:00",
+        "endTime": "2024-07-17T09:58:00",
+        "lastUpdated": "2024-07-17T09:37:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:58 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
