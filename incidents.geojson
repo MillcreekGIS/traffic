@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90475,
-          40.736823
+          -111.755095,
+          40.732387
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181599",
+        "itemId": "UT-Incident--181606",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 306",
+        "operatorComment": " I-80 at MP 131",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-07-17T07:06:00",
-        "endTime": "2024-07-17T08:05:00",
-        "lastUpdated": "2024-07-17T07:06:00",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-07-17T08:40:00",
+        "endTime": "2024-07-17T09:38:00",
+        "lastUpdated": "2024-07-17T08:40:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Medical\nSB I-15 at MP 306 (1300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:05 AM",
+        "eventDescription": "Crash\nEB I-80 at MP 131 (Quarry) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:38 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Medical",
-        "eventSubTypeLongName": "Medical"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     },
     {
