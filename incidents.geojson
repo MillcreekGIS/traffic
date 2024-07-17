@@ -6,6 +6,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.892233,
+          40.877956
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181626",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " US 89 at MP 388",
+        "areaName": "Davis County",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "US 89",
+        "linkDesignator": "US 89",
+        "linkDirection": "N",
+        "startTime": "2024-07-17T17:14:00",
+        "endTime": "2024-07-17T18:15:00",
+        "lastUpdated": "2024-07-17T17:14:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB US 89 at MP 388 (800 S / Woods Cross) Davis Co.\nRight Lane Closed\nEst. Clearance Time: 6:15 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.903876,
+          40.621691
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181627",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 298",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-07-17T17:21:00",
+        "endTime": "2024-07-17T18:35:00",
+        "lastUpdated": "2024-07-17T17:21:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Stalled Vehicle\nSB I-15 at MP 298 (6600 S) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 6:35 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.895936,
           40.588065
         ]
