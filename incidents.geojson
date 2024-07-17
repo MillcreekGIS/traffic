@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.839435,
-          40.631583
+          -112.020546,
+          40.72572
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181589",
+        "itemId": "UT-Incident--181591",
         "icon": {
           "size": [
             29,
@@ -78,25 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 8",
+        "operatorComment": " SR 201 at MP 11",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
-        "linkDirection": "E",
-        "startTime": "2024-07-16T19:05:00",
-        "endTime": "2024-07-16T22:00:00",
-        "lastUpdated": "2024-07-16T19:10:00",
+        "lanesAffected": "",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-07-16T21:41:00",
+        "endTime": "2024-07-16T22:45:00",
+        "lastUpdated": "2024-07-16T22:17:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Road damage\nEB I-215 S Onramp at MP 8 (2000 E) Salt Lake Co.\nEst. Clearance Time: 10:00 PM",
+        "eventDescription": "Crash\nWB SR 201 at MP 11 (4600 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Road damage",
-        "eventSubTypeLongName": "Road damage"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
