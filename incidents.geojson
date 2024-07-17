@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905066,
-          40.63583
+          -111.943886,
+          40.724124
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181616",
+        "itemId": "UT-Incident--181621",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 299",
+        "operatorComment": " SR 201 at MP 15",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 6",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-17T14:53:00",
-        "endTime": "2024-07-17T15:52:00",
-        "lastUpdated": "2024-07-17T15:07:00",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-07-17T16:27:00",
+        "endTime": "2024-07-17T17:30:00",
+        "lastUpdated": "2024-07-17T16:27:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 3:52 PM",
+        "eventDescription": "Crash\nWB SR 201 at MP 15 (1300 W) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 5:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
