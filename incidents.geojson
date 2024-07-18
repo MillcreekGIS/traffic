@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.005715,
+          40.65263
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181638",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 5415 S at 5400 S/COUGAR LN",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "5415 S",
+        "linkDesignator": "5415 S",
+        "linkDirection": "W",
+        "startTime": "2024-07-17T21:02:00",
+        "endTime": "2024-07-17T22:35:00",
+        "lastUpdated": "2024-07-17T21:04:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nAll Directions 5400 S at 4800 W Salt Lake Co.\nEst. Clearance Time: 10:35 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.895936,
           40.588065
         ]
