@@ -33,7 +33,7 @@ html_content = """
             overflow-y: auto;
             padding: 10px;
             color: #fdf0d5;
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-family: Avenir Next;
         }
 
         .weather-period {
