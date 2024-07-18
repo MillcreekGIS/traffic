@@ -55,55 +55,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.809035,
-          40.716867
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181663",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 WB/I-215E NB OFF PARLEYS RAMP at PARLEYS WAY",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-80 WB/I-215E NB OFF PARLEYS RAMP",
-        "linkDesignator": "I-80 WB/I-215E NB OFF PARLEYS RAMP",
-        "linkDirection": "W",
-        "startTime": "2024-07-18T11:48:00",
-        "endTime": "2024-07-18T12:45:00",
-        "lastUpdated": "2024-07-18T11:48:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 /I-215E OFF PARLEYS RAMP at PARLEYS WAY Salt Lake Co.\nEst. Clearance Time: 12:45 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.895936,
           40.588065
         ]
