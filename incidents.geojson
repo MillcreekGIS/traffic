@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.900284,
-          40.578741
+          -111.891485,
+          40.492398
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181652",
+        "itemId": "UT-Incident--181653",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 295",
+        "operatorComment": " I-15 at MP 289",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
-        "startTime": "2024-07-18T09:18:00",
-        "endTime": "2024-07-18T10:17:00",
-        "lastUpdated": "2024-07-18T09:18:00",
+        "startTime": "2024-07-18T09:59:00",
+        "endTime": "2024-07-18T10:55:00",
+        "lastUpdated": "2024-07-18T09:59:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 295 (9000 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:17 AM",
+        "eventDescription": "Police incident\nSB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:55 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Police incident",
+        "eventSubTypeLongName": "Police incident"
       }
     },
     {
@@ -97,6 +97,104 @@
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Signal problems",
         "eventSubTypeLongName": "Signal problems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.95226,
+          40.723232
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181654",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 W at MP 19",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-07-18T10:02:00",
+        "endTime": "2024-07-18T11:01:00",
+        "lastUpdated": "2024-07-18T10:02:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-215 W at MP 19 (1900 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:01 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91064,
+          40.725537
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181657",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 EB X17 Off 900 W Ramp",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "SR 201 EB X17 Off 900 W Ramp",
+        "linkDesignator": "SR 201 EB X17 Off 900 W Ramp",
+        "linkDirection": "E",
+        "startTime": "2024-07-18T10:20:00",
+        "endTime": "2024-07-18T11:17:00",
+        "lastUpdated": "2024-07-18T10:20:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB SR 201 X17 Off 900 W Ramp Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 11:17 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     },
     {
