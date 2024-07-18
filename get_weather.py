@@ -33,7 +33,7 @@ html_content = """
             overflow-y: auto;
             padding: 10px;
             color: #fdf0d5;
-            font-family: Arial, sans-serif; /* Using Arial as a generic font-family */
+            font-family: Arial, sans-serif;
         }
 
         .weather-period {
@@ -76,7 +76,7 @@ html_content += """
 """
 
 # Save the HTML to a file
-with open('/mnt/data/index.html', 'w') as file:
+with open('index.html', 'w') as file:
     file.write(html_content)
 
 print("HTML file created successfully: index.html")
