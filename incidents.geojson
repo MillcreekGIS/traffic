@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902495,
-          40.592858
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181661",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 296",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-18T11:05:00",
-        "endTime": "2024-07-18T12:15:00",
-        "lastUpdated": "2024-07-18T11:05:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 Collector at MP 296 (8000 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 12:15 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.898961,
           40.526841
         ]
@@ -104,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.91064,
-          40.725537
+          -111.809035,
+          40.716867
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181657",
+        "itemId": "UT-Incident--181663",
         "icon": {
           "size": [
             29,
@@ -127,70 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 EB X17 Off 900 W Ramp",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "SR 201 EB X17 Off 900 W Ramp",
-        "linkDesignator": "SR 201 EB X17 Off 900 W Ramp",
-        "linkDirection": "E",
-        "startTime": "2024-07-18T10:20:00",
-        "endTime": "2024-07-18T11:17:00",
-        "lastUpdated": "2024-07-18T10:20:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 X17 Off 900 W Ramp Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 11:17 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.949195,
-          40.797994
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181660",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215w NB Fwy at 2100 N",
+        "operatorComment": " I-80 WB/I-215E NB OFF PARLEYS RAMP at PARLEYS WAY",
         "areaName": "Salt Lake County",
         "lanesAffected": "None",
-        "roadwayName": "I-215w NB Fwy",
-        "linkDesignator": "I-215w NB Fwy",
-        "linkDirection": "N",
-        "startTime": "2024-07-18T11:04:00",
-        "endTime": "2024-07-18T12:03:00",
-        "lastUpdated": "2024-07-18T11:04:00",
+        "roadwayName": "I-80 WB/I-215E NB OFF PARLEYS RAMP",
+        "linkDesignator": "I-80 WB/I-215E NB OFF PARLEYS RAMP",
+        "linkDirection": "W",
+        "startTime": "2024-07-18T11:48:00",
+        "endTime": "2024-07-18T12:45:00",
+        "lastUpdated": "2024-07-18T11:48:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215w Fwy at 2100 N Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 12:03 PM",
+        "eventDescription": "Crash\nWB I-80 /I-215E OFF PARLEYS RAMP at PARLEYS WAY Salt Lake Co.\nEst. Clearance Time: 12:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
