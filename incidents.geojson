@@ -6,6 +6,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.879449,
+          40.674338
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181702",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 266 at MP 4",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "SR 266",
+        "linkDesignator": "SR 266",
+        "linkDirection": "All",
+        "startTime": "2024-07-19T11:59:00",
+        "endTime": "2024-07-19T12:57:00",
+        "lastUpdated": "2024-07-19T11:59:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Utility work/Power Outage\nAll Directions SR 266 at MP 4 (Gordan Ln/400 E) Salt Lake Co.\nEst. Clearance Time: 12:57 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Utility work",
+        "eventSubTypeLongName": "Utility work"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.903876,
+          40.621691
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181704",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 298",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-07-19T12:11:00",
+        "endTime": "2024-07-19T13:10:00",
+        "lastUpdated": "2024-07-19T12:11:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 on I-215 Collector Ramp at MP 298 (6600 S) Salt Lake Co.\nEst. Clearance Time: 1:10 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.895936,
           40.588065
         ]
