@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.890166,
-          40.725446
+          -111.916128,
+          40.791232
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181715",
+        "itemId": "UT-Incident--181722",
         "icon": {
           "size": [
             29,
@@ -78,25 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 18",
+        "operatorComment": " I-15 at MP 310",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Left Exit 1 (closest to mainline), Lane 1",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-07-19T15:22:00",
-        "endTime": "2024-07-19T16:35:00",
-        "lastUpdated": "2024-07-19T15:54:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-07-19T16:26:00",
+        "endTime": "2024-07-19T17:30:00",
+        "lastUpdated": "2024-07-19T16:26:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Debris\nEB SR 201 at MP 18 (at I-15) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 4:35 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 310 (1000 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Debris",
-        "eventSubTypeLongName": "Debris"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     },
     {
