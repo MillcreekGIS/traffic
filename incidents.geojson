@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.808234,
-          40.641354
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181730",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 6",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
-        "linkDirection": "S",
-        "startTime": "2024-07-19T17:32:00",
-        "endTime": "2024-07-19T18:45:00",
-        "lastUpdated": "2024-07-19T17:32:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nSB I-215 S at MP 6 On Ramp (6200 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 6:45 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.902252,
           40.480607
         ]
@@ -93,6 +44,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nNB I-15 at MP 288 On Ramp (14600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:35 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.873941,
+          40.718459
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181732",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 124",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-07-19T17:37:00",
+        "endTime": "2024-07-19T18:45:00",
+        "lastUpdated": "2024-07-19T17:37:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB I-80 at MP 124 (500 E) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 6:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
