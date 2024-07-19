@@ -153,6 +153,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.858352,
+          40.630157
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181707",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 S at MP 9",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "Ramp",
+        "startTime": "2024-07-19T12:57:00",
+        "endTime": "2024-07-19T13:55:00",
+        "lastUpdated": "2024-07-19T12:58:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB Off Ramp I-215 S at MP 9 (Union Park Ave) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 1:55 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.895936,
           40.588065
         ]
