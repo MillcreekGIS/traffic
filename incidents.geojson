@@ -55,6 +55,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.890166,
+          40.725446
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181715",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 at MP 18",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "E",
+        "startTime": "2024-07-19T15:22:00",
+        "endTime": "2024-07-19T16:35:00",
+        "lastUpdated": "2024-07-19T15:22:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Debris\nEB SR 201 at MP 18 (at I-15) Salt Lake Co.\nEst. Clearance Time: 4:35 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Debris",
+        "eventSubTypeLongName": "Debris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902252,
+          40.480607
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181716",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 288",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-07-19T15:31:00",
+        "endTime": "2024-07-19T16:30:00",
+        "lastUpdated": "2024-07-19T15:31:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 288 (14600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:30 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.895936,
           40.588065
         ]
