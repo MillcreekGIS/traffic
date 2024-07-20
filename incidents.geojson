@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902252,
-          40.480607
+          -111.904691,
+          40.722344
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181728",
+        "itemId": "UT-Incident--181737",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 288",
+        "operatorComment": " I-15 at MP 305",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-07-19T17:15:00",
-        "endTime": "2024-07-19T18:35:00",
-        "lastUpdated": "2024-07-19T17:15:00",
+        "startTime": "2024-07-19T18:50:00",
+        "endTime": "2024-07-19T20:45:00",
+        "lastUpdated": "2024-07-19T20:15:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 288 On Ramp (14600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:35 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 305 (2100 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.873941,
-          40.718459
+          -111.905403,
+          40.607173
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181732",
+        "itemId": "UT-Incident--181739",
         "icon": {
           "size": [
             29,
@@ -78,123 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 124",
+        "operatorComment": " I-15 at MP 297",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-07-19T17:37:00",
-        "endTime": "2024-07-19T18:45:00",
-        "lastUpdated": "2024-07-19T17:37:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-07-19T20:06:00",
+        "endTime": "2024-07-19T21:00:00",
+        "lastUpdated": "2024-07-19T20:06:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 124 (500 E) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 6:45 PM",
+        "eventDescription": "Crash\nNB I-15 Onramp at MP 297 (7200 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.879449,
-          40.674338
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181702",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 266 at MP 4",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 266",
-        "linkDesignator": "SR 266",
-        "linkDirection": "All",
-        "startTime": "2024-07-19T11:59:00",
-        "endTime": "2024-07-19T18:00:00",
-        "lastUpdated": "2024-07-19T15:05:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Utility work/Power Outage\nEB 4500 S closed between State St and 500 E\nSalt Lake Co.\nEst. Clearance Time: 6:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Utility work",
-        "eventSubTypeLongName": "Utility work"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.895936,
-          40.588065
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--181475",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 9000 S at Monroe St",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3",
-        "roadwayName": "9000 S",
-        "linkDesignator": "9000 S",
-        "linkDirection": "W",
-        "startTime": "2024-07-13T18:25:00",
-        "endTime": "2024-07-20T12:00:00",
-        "lastUpdated": "2024-07-16T14:56:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Utility work\nWB 9000 S at Monroe St Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 7/20/2024 12:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Utility work",
-        "eventSubTypeLongName": "Utility work"
       }
     }
   ]
