@@ -49,6 +49,104 @@
         "eventSubTypeName": "Stalled Vehicle",
         "eventSubTypeLongName": "Stalled Vehicle"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.769184,
+          40.622807
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181755",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 190 at MP 3",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2",
+        "roadwayName": "SR 190",
+        "linkDesignator": "SR 190",
+        "linkDirection": "E",
+        "startTime": "2024-07-20T14:36:00",
+        "endTime": "2024-07-20T15:34:00",
+        "lastUpdated": "2024-07-20T14:36:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB SR 190 at MP 3 (Dogwood) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 3:34 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.867006,
+          40.622105
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181756",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Fort Union Blvd at 900 E",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 3",
+        "roadwayName": "Fort Union Blvd",
+        "linkDesignator": "Fort Union Blvd",
+        "linkDirection": "W",
+        "startTime": "2024-07-20T14:41:00",
+        "endTime": "2024-07-20T15:39:00",
+        "lastUpdated": "2024-07-20T14:45:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB Fort Union Blvd at 900 E Salt Lake Co.\n WB Right Lane Closed\nSB Right Lanes Closed \nEst. Clearance Time: 3:39 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
