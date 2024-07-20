@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.951472,
+          40.609475
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181746",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 7800 S 2600",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3",
+        "roadwayName": "7800 S",
+        "linkDesignator": "7800 S",
+        "linkDirection": "E",
+        "startTime": "2024-07-20T02:28:00",
+        "endTime": "2024-07-20T03:24:00",
+        "lastUpdated": "2024-07-20T02:31:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB 7800 S Closed at 2600 W (Salt Lake Co)\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
