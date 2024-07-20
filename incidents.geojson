@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.976969,
-          40.578804
+          -111.819005,
+          40.713146
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181752",
+        "itemId": "UT-Incident--181758",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " BANGERTER HWY 9425",
+        "operatorComment": " I-80 at MP 127",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2, Lane 3",
-        "roadwayName": "BANGERTER HWY",
-        "linkDesignator": "BANGERTER HWY",
-        "linkDirection": "S",
-        "startTime": "2024-07-20T14:17:00",
-        "endTime": "2024-07-20T15:16:00",
-        "lastUpdated": "2024-07-20T14:34:00",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-07-20T15:13:00",
+        "endTime": "2024-07-20T16:12:00",
+        "lastUpdated": "2024-07-20T15:13:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at 9800 S Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 3:16 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:12 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     },
     {
