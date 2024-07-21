@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.893095,
-          40.718332
+          -112.186092,
+          40.727579
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181787",
+        "itemId": "UT-Incident--181788",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 123",
+        "operatorComment": " SR 201 at MP 2",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-07-21T12:23:00",
-        "endTime": "2024-07-21T13:30:00",
-        "lastUpdated": "2024-07-21T12:23:00",
+        "lanesAffected": "None",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-07-21T12:34:00",
+        "endTime": "2024-07-21T13:45:00",
+        "lastUpdated": "2024-07-21T12:34:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nEB I-80 at MP 123 (I-15 Jct) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 1:30 PM",
+        "eventDescription": "Stalled Vehicle\nWB SR 201 at MP 2 (SR-202) Salt Lake Co.\nEst. Clearance Time: 1:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Stalled Vehicle",
