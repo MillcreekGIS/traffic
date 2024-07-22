@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905403,
-          40.607173
+          -111.911762,
+          40.884167
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181811",
+        "itemId": "UT-Incident--181813",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 297",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-22T08:35:00",
-        "endTime": "2024-07-22T09:45:00",
-        "lastUpdated": "2024-07-22T08:51:00",
+        "operatorComment": " 500 S at 1100 W",
+        "areaName": "Davis County",
+        "lanesAffected": "None",
+        "roadwayName": "500 S",
+        "linkDesignator": "500 S",
+        "linkDirection": "E",
+        "startTime": "2024-07-22T10:15:00",
+        "endTime": "2024-07-22T11:15:00",
+        "lastUpdated": "2024-07-22T10:15:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 297 (7200 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:45 AM",
+        "eventDescription": "Crash\nEB 500 S at 1100 W Davis Co.\nEst. Clearance Time: 11:15 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
