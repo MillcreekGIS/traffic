@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98568,
+          40.718325
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181820",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Bangerter Hwy at Lake Park Blvd",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "N",
+        "startTime": "2024-07-22T12:41:00",
+        "endTime": "2024-07-22T13:41:00",
+        "lastUpdated": "2024-07-22T12:41:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB Bangerter Hwy at Lake Park Blvd Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 1:41 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
