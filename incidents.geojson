@@ -104,12 +104,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.873941,
-          40.718459
+          -111.962907,
+          40.72606
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181862",
+        "itemId": "UT-Incident--181864",
         "icon": {
           "size": [
             29,
@@ -127,21 +127,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 124",
+        "operatorComment": " SR 201 at MP 14",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
         "linkDirection": "W",
-        "startTime": "2024-07-23T17:19:00",
-        "endTime": "2024-07-23T18:35:00",
-        "lastUpdated": "2024-07-23T17:19:00",
+        "startTime": "2024-07-23T17:31:00",
+        "endTime": "2024-07-23T18:45:00",
+        "lastUpdated": "2024-07-23T17:31:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:35 PM",
+        "eventDescription": "Crash\nWB SR 201 at MP 14 (3000 W) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 6:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
