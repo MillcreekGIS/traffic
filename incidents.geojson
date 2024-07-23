@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.030203,
-          40.68207
+          -111.877391,
+          40.63036
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181842",
+        "itemId": "UT-Incident--181843",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " MOUNTAIN VIEW CORR NB",
+        "operatorComment": " I-215 S at MP 10",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "MOUNTAIN VIEW CORR NB",
-        "linkDesignator": "MOUNTAIN VIEW CORR NB",
+        "lanesAffected": "",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
         "linkDirection": "W",
-        "startTime": "2024-07-23T08:03:00",
-        "endTime": "2024-07-23T09:00:00",
-        "lastUpdated": "2024-07-23T08:03:00",
+        "startTime": "2024-07-23T09:08:00",
+        "endTime": "2024-07-23T10:07:00",
+        "lastUpdated": "2024-07-23T09:08:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nMountain View Corr at 4100 S (West Valley) Salt Lake Co.\nAll Directions\nEst. Clearance Time: 9:00 AM",
+        "eventDescription": "Crash\nWB I-215 S at MP 10 (State St) Salt Lake Co.\nEst. Clearance Time: 10:07 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
