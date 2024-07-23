@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.030203,
+          40.68207
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181842",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " MOUNTAIN VIEW CORR NB",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "MOUNTAIN VIEW CORR NB",
+        "linkDesignator": "MOUNTAIN VIEW CORR NB",
+        "linkDirection": "W",
+        "startTime": "2024-07-23T08:03:00",
+        "endTime": "2024-07-23T09:00:00",
+        "lastUpdated": "2024-07-23T08:03:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nMountain View Corr at 4100 S (West Valley) Salt Lake Co.\nAll Directions\nEst. Clearance Time: 9:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
