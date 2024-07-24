@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.980252,
-          40.764238
+          -111.898482,
+          40.674477
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181889",
+        "itemId": "UT-Incident--181892",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 116",
+        "operatorComment": " SR 266 at MP 3",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
+        "lanesAffected": "None",
+        "roadwayName": "SR 266",
+        "linkDesignator": "SR 266",
         "linkDirection": "E",
-        "startTime": "2024-07-24T13:18:00",
-        "endTime": "2024-07-24T14:30:00",
-        "lastUpdated": "2024-07-24T14:18:00",
+        "startTime": "2024-07-24T14:28:00",
+        "endTime": "2024-07-24T15:30:00",
+        "lastUpdated": "2024-07-24T14:28:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:30 PM",
+        "eventDescription": "Crash\nEB SR 266 at MP 3 (260 W) Salt Lake Co.\nEst. Clearance Time: 3:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
