@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902495,
-          40.592858
+          -111.914012,
+          40.636258
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181931",
+        "itemId": "UT-Incident--181935",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 296",
+        "operatorComment": " I-215 S at MP 12",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-07-25T16:43:00",
-        "endTime": "2024-07-25T17:45:00",
-        "lastUpdated": "2024-07-25T16:43:00",
+        "lanesAffected": "",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "E",
+        "startTime": "2024-07-25T17:11:00",
+        "endTime": "2024-07-25T18:15:00",
+        "lastUpdated": "2024-07-25T17:11:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 296 (8000 S) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 5:45 PM",
+        "eventDescription": "Crash\nEB I-215 S at MP 12 (1200 W) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:15 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.893095,
+          40.718332
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181934",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 123",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-07-25T17:06:00",
+        "endTime": "2024-07-25T18:00:00",
+        "lastUpdated": "2024-07-25T17:06:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB I-80 at MP 123 (300 E) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
