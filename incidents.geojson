@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.939097,
-          40.765398
+          -112.143879,
+          40.770886
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181918",
+        "itemId": "UT-Incident--181922",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " REDWOOD RD 151",
+        "operatorComment": " I-80 at MP 107",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
-        "roadwayName": "REDWOOD RD",
-        "linkDesignator": "REDWOOD RD",
-        "linkDirection": "S",
-        "startTime": "2024-07-25T06:06:00",
-        "endTime": "2024-07-25T07:10:00",
-        "lastUpdated": "2024-07-25T06:06:00",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-07-25T07:12:00",
+        "endTime": "2024-07-25T08:10:00",
+        "lastUpdated": "2024-07-25T07:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB REDWOOD RD at I-80  (Salt Lake Co)\nRight Lane Closed\nEst. Clearance Time: 7:10 AM",
+        "eventDescription": "Crash\nWB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:10 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
