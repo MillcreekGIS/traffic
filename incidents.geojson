@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.833954,
+          40.626847
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--181963",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " HIGHLAND DR 6805",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 3",
+        "roadwayName": "HIGHLAND DR",
+        "linkDesignator": "HIGHLAND DR",
+        "linkDirection": "S",
+        "startTime": "2024-07-26T14:53:00",
+        "endTime": "2024-07-26T15:51:00",
+        "lastUpdated": "2024-07-26T14:55:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB Highland Dr at 6826 S Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 3:51 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.90976,
           40.74966
         ]
