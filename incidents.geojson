@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.039659,
-          40.724933
+          -111.910735,
+          40.777705
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--181992",
+        "itemId": "UT-Incident--181998",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 10",
+        "operatorComment": " I-15 at MP 309",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-07-27T11:02:00",
-        "endTime": "2024-07-27T12:00:00",
-        "lastUpdated": "2024-07-27T11:02:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-07-27T12:36:00",
+        "endTime": "2024-07-27T13:35:00",
+        "lastUpdated": "2024-07-27T12:36:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 at MP 10 (5600 W) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 12:00 PM",
+        "eventDescription": "Stalled Vehicle\nNB Off Ramp I-15 at MP 309 (600 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 1:35 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     },
     {
