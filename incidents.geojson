@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.904691,
-          40.722344
+          -111.95364,
+          40.717792
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182032",
+        "itemId": "UT-Incident--182033",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 305",
+        "operatorComment": " I-215 W at MP 19",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-07-28T08:19:00",
-        "endTime": "2024-07-28T09:30:00",
-        "lastUpdated": "2024-07-28T08:19:00",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-07-28T08:35:00",
+        "endTime": "2024-07-28T09:34:00",
+        "lastUpdated": "2024-07-28T08:35:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 305 (2100 S) Salt Lake Co.\nEst. Clearance Time: 9:30 AM",
+        "eventDescription": "Crash\nSB I-215 W at MP 19 (1900 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 9:34 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
