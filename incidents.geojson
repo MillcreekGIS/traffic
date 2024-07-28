@@ -49,6 +49,55 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.855009,
+          40.719771
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182021",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 125",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-07-27T22:48:00",
+        "endTime": "2024-07-28T00:00:00",
+        "lastUpdated": "2024-07-27T22:48:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 7/28/2024 12:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
