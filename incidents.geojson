@@ -49,55 +49,6 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.902179,
-          40.6999
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182026",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 171 at MP 10",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 171",
-        "linkDesignator": "SR 171",
-        "linkDirection": "BOTHDIR",
-        "startTime": "2024-07-28T02:04:00",
-        "endTime": "2024-07-28T03:00:00",
-        "lastUpdated": "2024-07-28T02:04:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nBoth Directions SR 171 at MP 10 (900 W (3300 S)) Salt Lake Co.\nEst. Clearance Time: 3:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
     }
   ]
 }
