@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.5442,
-          40.69088
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182019",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 224 at MP 9",
-        "areaName": "Summit County",
-        "lanesAffected": "",
-        "roadwayName": "SR 224",
-        "linkDesignator": "SR 224",
-        "linkDirection": "N",
-        "startTime": "2024-07-27T21:54:00",
-        "endTime": "2024-07-27T23:30:00",
-        "lastUpdated": "2024-07-27T23:04:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB SR 224 at MP 9 (Sun Peak Dr) Summit Co.\nRight Shoulder\nEst. Clearance Time: 11:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.855009,
           40.719771
         ]
