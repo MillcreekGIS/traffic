@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.004894,
+          40.523652
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182025",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Mountain View Corr at MP 9",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3",
+        "roadwayName": "Mountain View Corr",
+        "linkDesignator": "Mountain View Corr",
+        "linkDirection": "S",
+        "startTime": "2024-07-28T00:35:00",
+        "endTime": "2024-07-28T06:00:00",
+        "lastUpdated": "2024-07-28T00:35:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Mountain View Corridor Closed at MP 9 (12800 S) Salt Lake Co.\nEst. Clearance Time: 6:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
