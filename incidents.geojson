@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.021275,
-          40.696559
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182078",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 3500 S at 5600 W",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "3500 S",
-        "linkDesignator": "3500 S",
-        "linkDirection": "E",
-        "startTime": "2024-07-29T14:14:00",
-        "endTime": "2024-07-29T15:14:00",
-        "lastUpdated": "2024-07-29T14:14:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB 3500 S at 5600 W Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:14 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.902179,
           40.6999
         ]
@@ -97,6 +48,153 @@
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.855009,
+          40.719771
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182084",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 125",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-07-29T15:10:00",
+        "endTime": "2024-07-29T16:09:00",
+        "lastUpdated": "2024-07-29T15:10:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:09 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.034507,
+          40.696537
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182082",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 171 at MP 3",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "SR 171",
+        "linkDesignator": "SR 171",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-07-29T15:04:00",
+        "endTime": "2024-07-29T16:02:00",
+        "lastUpdated": "2024-07-29T15:04:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nBoth Directions SR 171 Closed\n at MP 3 (6400 W) Salt Lake Co.",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.952783,
+          40.659924
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182083",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 W at MP 15",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-07-29T15:08:00",
+        "endTime": "2024-07-29T16:07:00",
+        "lastUpdated": "2024-07-29T15:08:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Vehicle on fire\nSB I-215 W at MP 15 (4700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:07 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
       }
     }
   ]
