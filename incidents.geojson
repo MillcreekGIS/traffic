@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905403,
-          40.607173
+          -111.902495,
+          40.592858
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182051",
+        "itemId": "UT-Incident--182052",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 297",
+        "operatorComment": " I-15 at MP 296",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "Lane 1, Lane 2",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-07-28T21:09:00",
-        "endTime": "2024-07-28T22:09:00",
-        "lastUpdated": "2024-07-28T21:09:00",
+        "startTime": "2024-07-28T22:07:00",
+        "endTime": "2024-07-28T23:06:00",
+        "lastUpdated": "2024-07-28T22:07:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 297 (7200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 10:09 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 296 (8000 S) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 11:06 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
