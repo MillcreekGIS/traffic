@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902179,
-          40.6999
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182073",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 171 at MP 10",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Left Exit 2, Left Exit 1 (closest to mainline), Lane 1, Lane 2, Lane 3",
-        "roadwayName": "SR 171",
-        "linkDesignator": "SR 171",
-        "linkDirection": "BOTHDIR",
-        "startTime": "2024-07-29T12:24:00",
-        "endTime": "2024-07-29T17:00:00",
-        "lastUpdated": "2024-07-29T14:27:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nBoth Directions 3300 S at 500 W Salt Lake Co.\nWB 3300 S closed at 300 W\nEB Left lane closed at 500 W\nSB I-15 to EB 3300 S Closed\nEst. Clearance Time: 5:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.019892,
           40.653049
         ]
@@ -129,19 +80,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-215 W at MP 15",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4, Lane 5",
+        "lanesAffected": "",
         "roadwayName": "I-215 W",
         "linkDesignator": "I-215 W",
         "linkDirection": "S",
         "startTime": "2024-07-29T15:08:00",
         "endTime": "2024-07-29T16:07:00",
-        "lastUpdated": "2024-07-29T15:21:00",
+        "lastUpdated": "2024-07-29T15:40:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nSB I-215 W at MP 15 (4700 S) Salt Lake Co.\nRight 2 Lanes Closed\nEst. Clearance Time: 4:07 PM",
+        "eventDescription": "Vehicle on fire\nSB I-215 W at MP 15 (4700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:07 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Vehicle on fire",
