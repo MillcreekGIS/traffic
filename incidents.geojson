@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.529346,
-          40.723073
+          -112.021275,
+          40.696559
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182075",
+        "itemId": "UT-Incident--182078",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 145",
-        "areaName": "Summit County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2, Lane 3",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
+        "operatorComment": " 3500 S at 5600 W",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "3500 S",
+        "linkDesignator": "3500 S",
         "linkDirection": "E",
-        "startTime": "2024-07-29T13:24:00",
-        "endTime": "2024-07-29T14:23:00",
-        "lastUpdated": "2024-07-29T13:40:00",
+        "startTime": "2024-07-29T14:14:00",
+        "endTime": "2024-07-29T15:14:00",
+        "lastUpdated": "2024-07-29T14:14:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 145 (East of Kimball Jct) Summit Co.\n3 Right Lanes Closed\nEst. Clearance Time: 2:23 PM",
+        "eventDescription": "Crash\nEB 3500 S at 5600 W Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:14 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -97,6 +97,55 @@
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90397,
+          40.707874
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182076",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 304",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 1",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-07-29T14:07:00",
+        "endTime": "2024-07-29T15:03:00",
+        "lastUpdated": "2024-07-29T14:15:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Stalled Vehicle\nRamp NB I-15 to WB SR-201 \nRamp Closed\nSalt Lake Co.\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     }
   ]
