@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.913768,
+          40.763707
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182088",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 119",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "Ramp",
+        "startTime": "2024-07-29T16:39:00",
+        "endTime": "2024-07-29T17:38:00",
+        "lastUpdated": "2024-07-29T16:39:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nRamp EB I-80 at MP 119 (SB I-15 Exit) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:38 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -112.019892,
           40.653049
         ]
@@ -44,55 +93,6 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nBoth Directions SR 171 Closed\n at MP 3 (6400 W) Salt Lake Co.",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.905403,
-          40.607173
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182087",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 297",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "Ramp",
-        "startTime": "2024-07-29T16:08:00",
-        "endTime": "2024-07-29T17:07:00",
-        "lastUpdated": "2024-07-29T16:08:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nRamp NB I-15 at MP 297 (EB to NB 7200 S On ramp) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 5:07 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
