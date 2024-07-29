@@ -55,55 +55,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.952783,
-          40.659924
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182083",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 15",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-07-29T15:08:00",
-        "endTime": "2024-07-29T16:07:00",
-        "lastUpdated": "2024-07-29T15:40:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nSB I-215 W at MP 15 (4700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:07 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Vehicle on fire",
-        "eventSubTypeLongName": "Vehicle on fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.905403,
           40.607173
         ]
