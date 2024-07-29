@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.17388,
+          40.737464
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182054",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 202 at MP 1",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "SR 202",
+        "linkDesignator": "SR 202",
+        "linkDirection": "Unknown",
+        "startTime": "2024-07-29T01:22:00",
+        "endTime": "2024-07-29T02:30:00",
+        "lastUpdated": "2024-07-29T01:22:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Vehicle on fire\nSR 202 at MP 1 (I-80 Jct) Salt Lake Co.\nEst. Clearance Time: 2:30 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
+      }
+    }
+  ]
 }
