@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888118,
+          40.725412
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182096",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " State St at 2100 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Left Exit 1 (closest to mainline), Lane 1, Lane 2",
+        "roadwayName": "State St",
+        "linkDesignator": "State St",
+        "linkDirection": "All",
+        "startTime": "2024-07-29T21:05:00",
+        "endTime": "2024-07-29T22:03:00",
+        "lastUpdated": "2024-07-29T21:05:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nAll Directions State St at 2100 S Salt Lake Co.\nNB to WB closed\nWB Closed\nSB Closed\nEB to NB Closed\nEst. Clearance Time: 10:03 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
