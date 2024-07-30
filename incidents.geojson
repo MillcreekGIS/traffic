@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90397,
-          40.707874
+          -112.056887,
+          40.718554
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182123",
+        "itemId": "UT-Incident--182129",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 304",
+        "operatorComment": " SR 201 at MP 9",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-07-30T14:45:00",
-        "endTime": "2024-07-30T16:00:00",
-        "lastUpdated": "2024-07-30T14:45:00",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-07-30T15:36:00",
+        "endTime": "2024-07-30T16:45:00",
+        "lastUpdated": "2024-07-30T15:36:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 304 (2700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:00 PM",
+        "eventDescription": "Crash\nWB SR 201 at MP 9 (6800 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -104,55 +104,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90236,
-          40.649847
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182126",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 300",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-07-30T15:19:00",
-        "endTime": "2024-07-30T16:35:00",
-        "lastUpdated": "2024-07-30T15:19:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 300 (5200 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:35 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.544709,
           40.719592
         ]
@@ -195,6 +146,55 @@
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98612,
+          40.767964
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182128",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Bangerter Hwy at MP 24",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline)",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "N",
+        "startTime": "2024-07-30T15:35:00",
+        "endTime": "2024-07-30T16:45:00",
+        "lastUpdated": "2024-07-30T15:35:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Fire affecting roadway\nNB Bangerter Hwy at MP 24 (Airport/I-80 Jct) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 4:45 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Fire affecting roadway",
+        "eventSubTypeLongName": "Fire affecting roadway"
       }
     }
   ]
