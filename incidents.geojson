@@ -147,6 +147,55 @@
         "eventSubTypeName": "Utility work",
         "eventSubTypeLongName": "Utility work"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.69119,
+          40.745148
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182187",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 135",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-07-31T13:48:00",
+        "endTime": "2024-07-31T14:45:00",
+        "lastUpdated": "2024-07-31T13:48:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Stalled Vehicle\nEB I-80 at MP 135 (1 mi E of Mountaindale) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 2:45 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
+      }
     }
   ]
 }
