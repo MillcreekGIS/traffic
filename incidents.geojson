@@ -6,104 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.97204,
-          40.500911
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182156",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 5",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline)",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "W",
-        "startTime": "2024-07-30T19:27:00",
-        "endTime": "2024-07-30T20:30:00",
-        "lastUpdated": "2024-07-30T19:27:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB Bangerter Hwy at MP 5 (3100 W) Salt Lake Co.\nEst. Clearance Time: 8:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.95364,
-          40.717792
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182157",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 19",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "N",
-        "startTime": "2024-07-30T19:43:00",
-        "endTime": "2024-07-30T21:00:00",
-        "lastUpdated": "2024-07-30T19:43:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215 W at MP 19 (1900 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.911227,
           40.467787
         ]
@@ -135,17 +37,17 @@
         "linkDirection": "S",
         "startTime": "2024-07-30T18:51:00",
         "endTime": "2024-07-30T20:00:00",
-        "lastUpdated": "2024-07-30T18:51:00",
+        "lastUpdated": "2024-07-30T20:32:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 287 (15200 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:00 PM",
+        "eventDescription": "Stalled Vehicle\nSB I-15 at MP 287 (15200 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     }
   ]
