@@ -104,55 +104,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.039659,
-          40.724933
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182198",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 10",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-07-31T16:37:00",
-        "endTime": "2024-07-31T17:30:00",
-        "lastUpdated": "2024-07-31T16:37:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 10 (5600 W) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 5:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.9815,
           40.667559
         ]
