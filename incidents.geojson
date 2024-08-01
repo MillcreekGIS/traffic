@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.943886,
-          40.724124
+          -111.914284,
+          40.763745
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182218",
+        "itemId": "UT-Incident--182226",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 15",
+        "operatorComment": " I-15 at MP 308",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-08-01T05:32:00",
-        "endTime": "2024-08-01T07:00:00",
-        "lastUpdated": "2024-08-01T08:17:00",
+        "lanesAffected": "None",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-01T09:18:00",
+        "endTime": "2024-08-01T10:30:00",
+        "lastUpdated": "2024-08-01T09:18:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 at MP 15 (1300 W) Salt Lake Co.\nCleared at 7:34 AM\nEst. Clearance Time: 7:00 AM",
+        "eventDescription": "Crash\nSB I-15 at MP 308 (N Temple) Salt Lake Co.\nEst. Clearance Time: 10:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
