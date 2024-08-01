@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9815,
-          40.667559
+          -111.902252,
+          40.480607
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182189",
+        "itemId": "UT-Incident--182205",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at 4700 S",
+        "operatorComment": " I-15 at MP 288",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "N",
-        "startTime": "2024-07-31T14:33:00",
-        "endTime": "2024-07-31T17:00:00",
-        "lastUpdated": "2024-07-31T14:33:00",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-07-31T18:42:00",
+        "endTime": "2024-07-31T19:30:00",
+        "lastUpdated": "2024-07-31T18:42:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Bangerter Hwy at 4700 S Salt Lake Co.\nEst. Clearance Time: 5:00 PM",
+        "eventDescription": "Stalled Vehicle\nSB I-15 at MP 288 (14600 S) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 7:30 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.893095,
+          40.718332
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182203",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 123",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-07-31T17:59:00",
+        "endTime": "2024-07-31T19:00:00",
+        "lastUpdated": "2024-07-31T17:59:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 123 (I-15 Jct) Salt Lake Co.\nEst. Clearance Time: 7:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -93,55 +142,6 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Utility work\nEB 400 S at 500 E Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 8/1/2024 8:30 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Utility work",
-        "eventSubTypeLongName": "Utility work"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.938738,
-          40.591303
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182177",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Redwood Rd at 9000 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3",
-        "roadwayName": "Redwood Rd",
-        "linkDesignator": "Redwood Rd",
-        "linkDirection": "N",
-        "startTime": "2024-07-31T11:12:00",
-        "endTime": "2024-08-02T12:00:00",
-        "lastUpdated": "2024-07-31T11:12:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Utility work\nNB Redwood Rd at 9000 S Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8/2/2024 12:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Utility work",
