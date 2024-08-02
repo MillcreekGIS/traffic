@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.836246,
-          40.717537
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182257",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 126",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-08-02T07:50:00",
-        "endTime": "2024-08-02T08:48:00",
-        "lastUpdated": "2024-08-02T07:50:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:48 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.873941,
           40.718459
         ]
@@ -80,19 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-80 at MP 124",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 2, Right Exit 1 (closest to mainline), Lane 4",
+        "lanesAffected": "Right Exit 2",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "E",
         "startTime": "2024-08-02T07:54:00",
         "endTime": "2024-08-02T08:53:00",
-        "lastUpdated": "2024-08-02T07:54:00",
+        "lastUpdated": "2024-08-02T08:14:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\n3 Right Lanes Closed\nEst. Clearance Time: 8:53 AM",
+        "eventDescription": "Crash\nEB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:53 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
