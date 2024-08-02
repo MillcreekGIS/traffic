@@ -1,4 +1,103 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.860684,
+          40.758463
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182264",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 500 S at 1100 E",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "500 S",
+        "linkDesignator": "500 S",
+        "linkDirection": "W",
+        "startTime": "2024-08-02T11:07:00",
+        "endTime": "2024-08-04T12:00:00",
+        "lastUpdated": "2024-08-02T11:07:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Utility work\nWB 500 S at 1100 E Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 8/4/2024 12:00 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Utility work",
+        "eventSubTypeLongName": "Utility work"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.981256,
+          40.609489
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182262",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 7800 S 3931",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3",
+        "roadwayName": "7800 S",
+        "linkDesignator": "7800 S",
+        "linkDirection": "N",
+        "startTime": "2024-08-02T10:45:00",
+        "endTime": "2024-08-02T11:42:00",
+        "lastUpdated": "2024-08-02T10:45:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB 3800 W Closed 7800 S\n Salt Lake Co.",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
