@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.910735,
-          40.777705
+          -111.905403,
+          40.607173
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182278",
+        "itemId": "UT-Incident--182279",
         "icon": {
           "size": [
             29,
@@ -78,25 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 309",
+        "operatorComment": " I-15 at MP 297",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
+        "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-08-02T17:14:00",
+        "linkDirection": "N",
+        "startTime": "2024-08-02T17:25:00",
         "endTime": "2024-08-02T18:35:00",
-        "lastUpdated": "2024-08-02T17:14:00",
+        "lastUpdated": "2024-08-02T17:25:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Medical\nSB I-15 at MP 309 (600 N) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 6:35 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 297 On Ramp  (7200 S) Salt Lake Co.\nEst. Clearance Time: 6:35 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Medical",
-        "eventSubTypeLongName": "Medical"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
