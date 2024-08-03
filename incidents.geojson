@@ -55,8 +55,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.904841,
-          40.718568
+          -111.904128,
+          40.718382
         ]
       },
       "properties": {
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 EB TO I-80E EB RAMP at I-80E EB",
+        "operatorComment": " I-80 at MP 123",
         "areaName": "Salt Lake County",
         "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "SR 201 EB TO I-80E EB RAMP",
-        "linkDesignator": "SR 201 EB TO I-80E EB RAMP",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
         "linkDirection": "E",
         "startTime": "2024-08-03T16:59:00",
         "endTime": "2024-08-03T19:00:00",
-        "lastUpdated": "2024-08-03T16:59:00",
+        "lastUpdated": "2024-08-03T17:24:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 TO I-80E RAMP at I-80E EB Salt Lake Co.\nUse Alt Route\nEst. Clearance Time: 7:00 PM",
+        "eventDescription": "Crash\nEB I-80 at MP 123 (I-15 Jct) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 7:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
