@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.953251,
-          40.765438
+          -111.905066,
+          40.63583
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182301",
+        "itemId": "UT-Incident--182306",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 117",
+        "operatorComment": " I-15 at MP 299",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-08-03T13:57:00",
-        "endTime": "2024-08-03T14:56:00",
-        "lastUpdated": "2024-08-03T13:57:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-08-03T15:35:00",
+        "endTime": "2024-08-03T16:33:00",
+        "lastUpdated": "2024-08-03T15:35:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Fire affecting roadway\nWB I-80 at MP 117 (Redwood Rd) Salt Lake Co\nRight Shoulder.\nEst. Clearance Time: 2:56 PM",
+        "eventDescription": "Crash\nRamp SB I-15 at to EB I-215 S MP 299 Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:33 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Fire affecting roadway",
-        "eventSubTypeLongName": "Fire affecting roadway"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     },
     {
