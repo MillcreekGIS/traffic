@@ -49,6 +49,55 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.816076,
+          40.675375
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182293",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 4420 S 2501",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "4420 S",
+        "linkDesignator": "4420 S",
+        "linkDirection": "E",
+        "startTime": "2024-08-03T08:56:00",
+        "endTime": "2024-08-03T09:55:00",
+        "lastUpdated": "2024-08-03T09:00:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB 4500 S at 3300 E Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:55 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
