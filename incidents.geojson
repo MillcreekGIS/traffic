@@ -31,19 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-15 at MP 308",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "Right Exit 1 (closest to mainline)",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
         "startTime": "2024-08-05T16:21:00",
         "endTime": "2024-08-05T17:21:00",
-        "lastUpdated": "2024-08-05T16:21:00",
+        "lastUpdated": "2024-08-05T16:46:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 308 (N Temple) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:21 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 308 (N Temple) Salt Lake Co.\nEst. Clearance Time: 5:21 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -153,104 +153,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.899489,
-          40.564298
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182369",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 294",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-05T15:05:00",
-        "endTime": "2024-08-05T16:04:00",
-        "lastUpdated": "2024-08-05T15:05:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 294 (10200 S) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 4:04 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.935084,
-          40.587751
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182372",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 9000 S at Redwood Rd",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "9000 S",
-        "linkDesignator": "9000 S",
-        "linkDirection": "All",
-        "startTime": "2024-08-05T15:59:00",
-        "endTime": "2024-08-05T17:27:00",
-        "lastUpdated": "2024-08-05T15:59:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Signal problems/Treat as 4 way stop\nAll Directions 9000 S at Redwood Rd Salt Lake Co.\nLarge Power Outage",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Signal problems",
-        "eventSubTypeLongName": "Signal problems"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.90152,
           40.664677
         ]
@@ -300,12 +202,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905689,
-          40.588
+          -111.867006,
+          40.622105
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182371",
+        "itemId": "UT-Incident--182379",
         "icon": {
           "size": [
             29,
@@ -323,25 +225,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " 9000 S 459",
+        "operatorComment": " Fort Union Blvd at 900 E",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "9000 S",
-        "linkDesignator": "9000 S",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "Fort Union Blvd",
+        "linkDesignator": "Fort Union Blvd",
         "linkDirection": "W",
-        "startTime": "2024-08-05T15:57:00",
-        "endTime": "2024-08-05T18:53:00",
-        "lastUpdated": "2024-08-05T16:00:00",
+        "startTime": "2024-08-05T16:38:00",
+        "endTime": "2024-08-05T19:36:00",
+        "lastUpdated": "2024-08-05T16:38:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Signal problems/Treat as 4 way stop\nAll Directions 9000 S at 450 W\nSalt Lake Co.\nLarge area power outage",
+        "eventDescription": "Crash\nWB Fort Union Blvd Closed\n at 900 E Salt Lake Co.\nUse Alt Route",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Signal problems",
-        "eventSubTypeLongName": "Signal problems"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
