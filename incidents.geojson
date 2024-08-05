@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891228,
-          40.506678
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182367",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 290",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-05T14:53:00",
-        "endTime": "2024-08-05T15:52:00",
-        "lastUpdated": "2024-08-05T14:53:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nNB I-15 at MP 290 (13200 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:52 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.899489,
           40.564298
         ]
@@ -104,12 +55,159 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.935084,
+          40.587751
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182372",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 9000 S at Redwood Rd",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "9000 S",
+        "linkDesignator": "9000 S",
+        "linkDirection": "All",
+        "startTime": "2024-08-05T15:59:00",
+        "endTime": "2024-08-05T17:27:00",
+        "lastUpdated": "2024-08-05T15:59:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Signal problems/Treat as 4 way stop\nAll Directions 9000 S at Redwood Rd Salt Lake Co.\nLarge Power Outage",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Signal problems",
+        "eventSubTypeLongName": "Signal problems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90152,
+          40.664677
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182374",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 301",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-05T16:08:00",
+        "endTime": "2024-08-05T17:08:00",
+        "lastUpdated": "2024-08-05T16:08:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 at MP 301 (4500 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 5:08 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.905689,
+          40.588
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182371",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 9000 S 459",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "9000 S",
+        "linkDesignator": "9000 S",
+        "linkDirection": "W",
+        "startTime": "2024-08-05T15:57:00",
+        "endTime": "2024-08-05T18:53:00",
+        "lastUpdated": "2024-08-05T16:00:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Signal problems/Treat as 4 way stop\nAll Directions 9000 S at 450 W\nSalt Lake Co.\nLarge area power outage",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Signal problems",
+        "eventSubTypeLongName": "Signal problems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.900284,
           40.578741
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182365",
+        "itemId": "UT-Incident--182373",
         "icon": {
           "size": [
             29,
@@ -132,16 +230,16 @@
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-05T14:33:00",
-        "endTime": "2024-08-05T15:32:00",
-        "lastUpdated": "2024-08-05T15:20:00",
+        "linkDirection": "S",
+        "startTime": "2024-08-05T16:00:00",
+        "endTime": "2024-08-05T16:59:00",
+        "lastUpdated": "2024-08-05T16:00:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 295 (9000 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:32 PM",
+        "eventDescription": "Crash\nRamp SB I-15 at MP 295 (9000 S Exit) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:59 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
