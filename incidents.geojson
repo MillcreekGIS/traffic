@@ -31,68 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-15 at MP 308",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline)",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 3",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
         "startTime": "2024-08-05T16:21:00",
-        "endTime": "2024-08-05T17:21:00",
-        "lastUpdated": "2024-08-05T16:46:00",
+        "endTime": "2024-08-05T18:21:00",
+        "lastUpdated": "2024-08-05T17:11:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 308 (N Temple) Salt Lake Co.\nEst. Clearance Time: 5:21 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.913768,
-          40.763707
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182375",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 119",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "Ramp",
-        "startTime": "2024-08-05T16:14:00",
-        "endTime": "2024-08-05T17:12:00",
-        "lastUpdated": "2024-08-05T16:14:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nRamp EB I-80 at MP 119 (SB I-15 Exit) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:12 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 308 (N Temple) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 5:21 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -153,55 +104,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90152,
-          40.664677
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182374",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 301",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-08-05T16:08:00",
-        "endTime": "2024-08-05T17:08:00",
-        "lastUpdated": "2024-08-05T16:08:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 301 (4500 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 5:08 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.867006,
           40.622105
         ]
@@ -240,6 +142,104 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nWB Fort Union Blvd Closed\n at 900 E Salt Lake Co.\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.839435,
+          40.631583
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182381",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 S at MP 8",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 3",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "W",
+        "startTime": "2024-08-05T17:23:00",
+        "endTime": "2024-08-05T18:23:00",
+        "lastUpdated": "2024-08-05T17:23:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB I-215 S at MP 8 (1300 E) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 6:23 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90976,
+          40.74966
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182380",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 307",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-05T17:14:00",
+        "endTime": "2024-08-05T18:13:00",
+        "lastUpdated": "2024-08-05T17:14:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 at MP 307 (600 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:13 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
