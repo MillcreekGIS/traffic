@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.916128,
-          40.791232
+          -111.873941,
+          40.718459
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182432",
+        "itemId": "UT-Incident--182434",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 310",
+        "operatorComment": " I-80 at MP 124",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-06T16:48:00",
-        "endTime": "2024-08-06T17:45:00",
-        "lastUpdated": "2024-08-06T16:48:00",
+        "lanesAffected": "Lane 3, Lane 4",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-08-06T17:12:00",
+        "endTime": "2024-08-06T18:30:00",
+        "lastUpdated": "2024-08-06T17:15:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 310 (1600 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:45 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 6:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
