@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.98568,
-          40.718325
+          -111.916128,
+          40.791232
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182430",
+        "itemId": "UT-Incident--182432",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at Lake Park Blvd",
+        "operatorComment": " I-15 at MP 310",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "S",
-        "startTime": "2024-08-06T16:33:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-08-06T16:48:00",
         "endTime": "2024-08-06T17:45:00",
-        "lastUpdated": "2024-08-06T16:35:00",
+        "lastUpdated": "2024-08-06T16:48:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at Lake Park Blvd Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 5:45 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 310 (1600 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
