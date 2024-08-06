@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905355,
-          40.75825
+          -111.905403,
+          40.607173
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182382",
+        "itemId": "UT-Incident--182388",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " 500 S 341",
+        "operatorComment": " I-15 at MP 297",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "500 S",
-        "linkDesignator": "500 S",
-        "linkDirection": "W",
-        "startTime": "2024-08-05T17:33:00",
-        "endTime": "2024-08-05T21:31:00",
-        "lastUpdated": "2024-08-05T20:39:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-05T22:53:00",
+        "endTime": "2024-08-05T23:52:00",
+        "lastUpdated": "2024-08-05T22:53:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Signal problems\nAll Directions 500 S at 500 W Salt Lake Co.\nEst. Clearance Time: 6:31 PM",
+        "eventDescription": "Stalled Vehicle\nSB I-15 at MP 297 (7200 S On Ramp) Salt Lake Co.\nEst. Clearance Time: 11:52 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Signal problems",
-        "eventSubTypeLongName": "Signal problems"
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     }
   ]
