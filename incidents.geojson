@@ -36,8 +36,8 @@
         "linkDesignator": "500 S",
         "linkDirection": "W",
         "startTime": "2024-08-05T17:33:00",
-        "endTime": "2024-08-05T18:31:00",
-        "lastUpdated": "2024-08-05T17:36:00",
+        "endTime": "2024-08-05T20:31:00",
+        "lastUpdated": "2024-08-05T19:29:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
@@ -48,104 +48,6 @@
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Signal problems",
         "eventSubTypeLongName": "Signal problems"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.836246,
-          40.717537
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182385",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 126",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "Ramp",
-        "startTime": "2024-08-05T18:02:00",
-        "endTime": "2024-08-05T19:01:00",
-        "lastUpdated": "2024-08-05T18:02:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nRamp EB I-80 at MP 126 (1300 E Exit) Salt Lake Co.\nLeft Lane Blocked\nEst. Clearance Time: 7:01 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.867006,
-          40.622105
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182379",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Fort Union Blvd at 900 E",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "Fort Union Blvd",
-        "linkDesignator": "Fort Union Blvd",
-        "linkDirection": "W",
-        "startTime": "2024-08-05T16:38:00",
-        "endTime": "2024-08-05T19:36:00",
-        "lastUpdated": "2024-08-05T16:38:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB Fort Union Blvd Closed\n at 900 E Salt Lake Co.\nUse Alt Route",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
       }
     },
     {
@@ -191,6 +93,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nNB I-15 at MP 310 (1000 N) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 7:04 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934049,
+          40.765772
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182387",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 118",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "Ramp",
+        "startTime": "2024-08-05T19:32:00",
+        "endTime": "2024-08-05T20:31:00",
+        "lastUpdated": "2024-08-05T19:32:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nRamp I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:31 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
