@@ -49,55 +49,6 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.982034,
-          40.725733
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182394",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 13",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2, Lane 3",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-08-06T04:40:00",
-        "endTime": "2024-08-06T05:40:00",
-        "lastUpdated": "2024-08-06T04:40:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 at MP 13 (3200 W) Salt Lake Co.\nCenter Lanes Closed\nEst. Clearance Time: 5:40 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
     }
   ]
 }
