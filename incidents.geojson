@@ -1,4 +1,103 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.949828,
+          40.78517
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182393",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215w SB X23 Off 700 N Ramp at 700 N",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-215w SB X23 Off 700 N Ramp",
+        "linkDesignator": "I-215w SB X23 Off 700 N Ramp",
+        "linkDirection": "S",
+        "startTime": "2024-08-06T04:07:00",
+        "endTime": "2024-08-06T05:10:00",
+        "lastUpdated": "2024-08-06T04:07:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-215w 700 N Off Ramp MP 23 (Salt Lake Co)\nUse Alt Route\nEst. Clearance Time: 5:10 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.977119,
+          40.559826
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182392",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " BANGERTER HWY at SOUTH JORDAN PKWY",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "BANGERTER HWY",
+        "linkDesignator": "BANGERTER HWY",
+        "linkDirection": "S",
+        "startTime": "2024-08-06T03:57:00",
+        "endTime": "2024-08-06T04:50:00",
+        "lastUpdated": "2024-08-06T04:11:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Bangerter Hwy at South Jordan Pkwy (Salt Lake Co)\nCenter Lanes Closed\nEst. Clearance Time: 4:50 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
