@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.028398,
+          40.696762
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182417",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " MOUNTAIN VIEW CORR NB at 4100 S TO NORTH OF 3500 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "MOUNTAIN VIEW CORR NB",
+        "linkDesignator": "MOUNTAIN VIEW CORR NB",
+        "linkDirection": "N",
+        "startTime": "2024-08-06T13:20:00",
+        "endTime": "2024-08-06T14:18:00",
+        "lastUpdated": "2024-08-06T13:22:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB Mountain View Corridor Hwy at 3500 S Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:18 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.938782,
           40.646631
         ]
