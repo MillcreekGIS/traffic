@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.896677,
-          40.885849
+          -111.981592,
+          40.68297
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182444",
+        "itemId": "UT-Incident--182446",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 317",
-        "areaName": "Davis County",
-        "lanesAffected": "None",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-06T21:27:00",
-        "endTime": "2024-08-06T22:30:00",
-        "lastUpdated": "2024-08-06T21:27:00",
+        "operatorComment": " Bangerter Hwy at MP 18",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 3",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "S",
+        "startTime": "2024-08-06T22:01:00",
+        "endTime": "2024-08-06T22:58:00",
+        "lastUpdated": "2024-08-06T22:01:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 317 (400 N, W Bntfl) Davis Co.\nOfframp\nEst. Clearance Time: 10:30 PM",
+        "eventDescription": "Crash\nSB Bangerter Hwy at MP 18 (4300 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 10:58 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
