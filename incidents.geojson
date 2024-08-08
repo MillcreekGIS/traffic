@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.949915,
-          40.731947
+          -111.929407,
+          40.64406
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182491",
+        "itemId": "UT-Incident--182494",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 20",
+        "operatorComment": " I-215 S at MP 13",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-08-07T21:55:00",
-        "endTime": "2024-08-07T23:00:00",
-        "lastUpdated": "2024-08-07T21:55:00",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "E",
+        "startTime": "2024-08-07T22:32:00",
+        "endTime": "2024-08-07T23:30:00",
+        "lastUpdated": "2024-08-07T22:32:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 20 (California Ave) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 11:00 PM",
+        "eventDescription": "Crash\nEB I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
