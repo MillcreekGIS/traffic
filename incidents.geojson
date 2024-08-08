@@ -98,6 +98,55 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.900284,
+          40.578741
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182509",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 295",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-08T11:35:00",
+        "endTime": "2024-08-08T12:45:00",
+        "lastUpdated": "2024-08-08T11:35:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 at MP 295 (9000 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 12:45 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
