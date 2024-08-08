@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90475,
-          40.736823
+          -111.904912,
+          40.85851
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182483",
+        "itemId": "UT-Incident--182485",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 306",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "operatorComment": " I-15 at MP 315",
+        "areaName": "Davis County",
+        "lanesAffected": "Right Exit 2",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-08-07T18:56:00",
-        "endTime": "2024-08-07T20:00:00",
-        "lastUpdated": "2024-08-07T18:56:00",
+        "startTime": "2024-08-07T20:04:00",
+        "endTime": "2024-08-07T21:30:00",
+        "lastUpdated": "2024-08-07T20:04:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 306 (1300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:00 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 315 (2600 S, Woods X) Davis Co.\nEst. Clearance Time: 9:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
