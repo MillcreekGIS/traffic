@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.160062,
-          40.764195
+          -111.836246,
+          40.717537
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182522",
+        "itemId": "UT-Incident--182532",
         "icon": {
           "size": [
             29,
@@ -29,172 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 106",
+        "operatorComment": " I-80 at MP 126",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2",
+        "lanesAffected": "Lane 3",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-08-08T16:29:00",
-        "endTime": "2024-08-08T17:30:00",
-        "lastUpdated": "2024-08-08T16:29:00",
+        "linkDirection": "W",
+        "startTime": "2024-08-08T19:29:00",
+        "endTime": "2024-08-08T20:28:00",
+        "lastUpdated": "2024-08-08T19:29:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nEB I-80 at MP 106 (2 mi E of Saltair) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 5:30 PM",
+        "eventDescription": "Vehicle on fire\nWB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:28 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Vehicle on fire",
         "eventSubTypeLongName": "Vehicle on fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.529346,
-          40.723073
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182527",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 145",
-        "areaName": "Summit County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-08-08T18:05:00",
-        "endTime": "2024-08-08T19:00:00",
-        "lastUpdated": "2024-08-08T18:05:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 145 (East of Kimball Jct) Summit Co.\nLeft Shoulder\nEst. Clearance Time: 7:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.943886,
-          40.724124
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182526",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 15",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-08-08T18:00:00",
-        "endTime": "2024-08-08T19:00:00",
-        "lastUpdated": "2024-08-08T18:01:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 15 (1600 W) Salt Lake Co.\nEst. Clearance Time: 7:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.904691,
-          40.722344
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182529",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 305",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-08T18:34:00",
-        "endTime": "2024-08-08T19:30:00",
-        "lastUpdated": "2024-08-08T18:34:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 305 (2100 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 7:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
       }
     }
   ]
