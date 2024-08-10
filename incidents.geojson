@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.877391,
-          40.63036
+          -111.897275,
+          40.87142
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182591",
+        "itemId": "UT-Incident--182592",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 10",
-        "areaName": "Salt Lake County",
+        "operatorComment": " I-15 at MP 316",
+        "areaName": "Davis County",
         "lanesAffected": "None",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
         "linkDirection": "Ramp",
-        "startTime": "2024-08-10T11:17:00",
-        "endTime": "2024-08-10T12:15:00",
-        "lastUpdated": "2024-08-10T11:17:00",
+        "startTime": "2024-08-10T12:48:00",
+        "endTime": "2024-08-10T13:50:00",
+        "lastUpdated": "2024-08-10T12:48:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB ON Ramp I-215 S at MP 10 (State St) \nSalt Lake Co.\nEst. Clearance Time: 12:15 PM",
+        "eventDescription": "Crash\nNB Off Ramp I-15 at MP 316 (1500 S, Woods X) Davis Co.\nEst. Clearance Time: 1:50 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
