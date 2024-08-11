@@ -37,13 +37,13 @@
         "linkDirection": "S",
         "startTime": "2024-08-10T21:33:00",
         "endTime": "2024-08-10T22:45:00",
-        "lastUpdated": "2024-08-10T21:33:00",
+        "lastUpdated": "2024-08-10T21:56:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 293 (10600 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 10:45 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 293 (10600 S) Salt Lake Co.\nCleared at 9:56 PM\nEst. Clearance Time: 10:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -142,6 +142,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nNB I-215 W at MP 19 On Ramp (1900 S) Salt Lake Co.\nEst. Clearance Time: 11:00 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.904691,
+          40.722344
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182620",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 305",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-08-10T22:13:00",
+        "endTime": "2024-08-10T23:07:00",
+        "lastUpdated": "2024-08-10T22:13:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 305 (2100 S) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 11:07 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
