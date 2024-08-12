@@ -31,19 +31,68 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-15 at MP 302",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4, Lane 5, Lane 6",
+        "lanesAffected": "Lane 5, Lane 6",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
         "startTime": "2024-08-12T13:59:00",
         "endTime": "2024-08-12T14:58:00",
-        "lastUpdated": "2024-08-12T14:03:00",
+        "lastUpdated": "2024-08-12T14:45:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 302 (4100 S) Salt Lake Co.\n3 Right Lanes Closed\nEst. Clearance Time: 2:58 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 302 (4100 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 2:58 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.903876,
+          40.621691
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182684",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 298",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-08-12T14:40:00",
+        "endTime": "2024-08-12T15:39:00",
+        "lastUpdated": "2024-08-12T14:40:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 298 (I-215 Collector Ramp) Salt Lake Co.\nLeft Lane Blocked\nEst. Clearance Time: 3:39 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
