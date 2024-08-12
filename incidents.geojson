@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902252,
-          40.480607
+          -111.90475,
+          40.736823
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182654",
+        "itemId": "UT-Incident--182656",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 288",
+        "operatorComment": " I-15 at MP 306",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "Lane 5, Lane 6",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-08-11T21:02:00",
-        "endTime": "2024-08-11T22:10:00",
-        "lastUpdated": "2024-08-11T21:02:00",
+        "startTime": "2024-08-11T22:01:00",
+        "endTime": "2024-08-11T22:59:00",
+        "lastUpdated": "2024-08-11T22:01:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 288 (14600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:10 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 306 (1300 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 10:59 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
