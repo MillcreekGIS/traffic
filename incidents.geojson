@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.938764,
-          40.610961
+          -111.988903,
+          40.765114
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182663",
+        "itemId": "UT-Incident--182666",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Redwood Rd 8200 S",
+        "operatorComment": " I-80 WB X115 OFF BANGERTER SB RAMP at BANGERTER SB HWY",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3",
-        "roadwayName": "Redwood Rd",
-        "linkDesignator": "Redwood Rd",
-        "linkDirection": "N",
-        "startTime": "2024-08-12T03:08:00",
-        "endTime": "2024-08-12T05:00:00",
-        "lastUpdated": "2024-08-12T04:57:00",
+        "lanesAffected": "",
+        "roadwayName": "I-80 WB X115 OFF BANGERTER SB RAMP",
+        "linkDesignator": "I-80 WB X115 OFF BANGERTER SB RAMP",
+        "linkDirection": "W",
+        "startTime": "2024-08-12T05:40:00",
+        "endTime": "2024-08-12T06:39:00",
+        "lastUpdated": "2024-08-12T05:40:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Fire affecting roadway\nNB Redwood Rd at Sugar Factor Rd/8200 S (Salt Lake Co)\nRight Lane Closed\nEst. Clearance Time: 5:00 AM",
+        "eventDescription": "Crash\nWB I-80  to SB Bangerter Hwy Ramp Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:39 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Fire affecting roadway",
-        "eventSubTypeLongName": "Fire affecting roadway"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
