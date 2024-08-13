@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.949563,
-          40.726751
+          -112.160062,
+          40.764195
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182727",
+        "itemId": "UT-Incident--182728",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215W NB TO SR 201 WB RAMP at SR 201 WB",
+        "operatorComment": " I-80 at MP 106",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-215W NB TO SR 201 WB RAMP",
-        "linkDesignator": "I-215W NB TO SR 201 WB RAMP",
-        "linkDirection": "N",
-        "startTime": "2024-08-13T05:02:00",
-        "endTime": "2024-08-13T06:10:00",
-        "lastUpdated": "2024-08-13T05:02:00",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-08-13T06:37:00",
+        "endTime": "2024-08-13T07:45:00",
+        "lastUpdated": "2024-08-13T06:37:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215W TO SR 201 WB On Ramp (Salt Lake Co)\nEst. Clearance Time: 6:10 AM",
+        "eventDescription": "Crash\nEB I-80 at MP 106 (2 mi E of Saltair) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 7:45 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
