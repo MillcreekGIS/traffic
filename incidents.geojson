@@ -55,6 +55,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.981588,
+          40.682086
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182733",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Bangerter Hwy at 4100 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "S",
+        "startTime": "2024-08-13T07:22:00",
+        "endTime": "2024-08-13T08:20:00",
+        "lastUpdated": "2024-08-13T07:22:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Bangerter Hwy at 4100 S Salt Lake Co.\nEst. Clearance Time: 8:20 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -112.027852,
           40.726543
         ]
@@ -93,6 +142,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nWB SR 201 Exit 10  Mountain View Hwy Off Ramp Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 8:15 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902181,
+          40.679062
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182732",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 302",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-08-13T07:08:00",
+        "endTime": "2024-08-13T08:06:00",
+        "lastUpdated": "2024-08-13T07:08:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 302 (4100 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:06 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
