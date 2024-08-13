@@ -49,6 +49,55 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.027852,
+          40.726543
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182731",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 WB X 10 OFF MOUNTAIN VIEW HWY RMP at MOUNTAIN VIEW CORRIDOR",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "SR 201 WB X 10 OFF MOUNTAIN VIEW HWY RMP",
+        "linkDesignator": "SR 201 WB X 10 OFF MOUNTAIN VIEW HWY RMP",
+        "linkDirection": "W",
+        "startTime": "2024-08-13T06:52:00",
+        "endTime": "2024-08-13T08:15:00",
+        "lastUpdated": "2024-08-13T06:52:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB SR 201 Exit 10  Mountain View Hwy Off Ramp Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 8:15 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
