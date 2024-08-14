@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.797477,
-          40.683284
+          -111.903876,
+          40.621691
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182789",
+        "itemId": "UT-Incident--182790",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 E at MP 3",
+        "operatorComment": " I-15 at MP 298",
         "areaName": "Salt Lake County",
         "lanesAffected": "None",
-        "roadwayName": "I-215 E",
-        "linkDesignator": "I-215 E",
-        "linkDirection": "N",
-        "startTime": "2024-08-14T10:11:00",
-        "endTime": "2024-08-14T11:15:00",
-        "lastUpdated": "2024-08-14T10:11:00",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-14T11:15:00",
+        "endTime": "2024-08-14T12:15:00",
+        "lastUpdated": "2024-08-14T11:15:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215 E at MP 3 (4500 S) Salt Lake Co.\nEst. Clearance Time: 11:15 AM",
+        "eventDescription": "Crash\nSB I-15 at MP 298 (6600 S) Salt Lake Co.\nEst. Clearance Time: 12:15 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
