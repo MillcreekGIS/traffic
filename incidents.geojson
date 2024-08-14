@@ -6,8 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.924637,
-          40.724236
+          -111.895376,
+          40.634373
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182813",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 S at MP 11",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "E",
+        "startTime": "2024-08-14T17:20:00",
+        "endTime": "2024-08-14T18:15:00",
+        "lastUpdated": "2024-08-14T17:20:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-215 S at MP 11 (State St) Salt Lake Co.\nOfframp- Right Shoulder\nEst. Clearance Time: 6:15 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.911043,
+          40.724505
         ]
       },
       "properties": {
@@ -29,15 +78,15 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 16",
+        "operatorComment": " HWY 201 at 900 W",
         "areaName": "Salt Lake County",
         "lanesAffected": "Lane 1, Lane 2, Lane 3",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
+        "roadwayName": "HWY 201",
+        "linkDesignator": "HWY 201",
         "linkDirection": "W",
         "startTime": "2024-08-14T16:39:00",
         "endTime": "2024-08-14T17:45:00",
-        "lastUpdated": "2024-08-14T16:39:00",
+        "lastUpdated": "2024-08-14T16:59:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
@@ -55,12 +104,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.952751,
-          40.674449
+          -111.90236,
+          40.649847
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182809",
+        "itemId": "UT-Incident--182815",
         "icon": {
           "size": [
             29,
@@ -78,74 +127,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 16",
+        "operatorComment": " I-15 at MP 300",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
+        "lanesAffected": "Lane 2",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
         "linkDirection": "S",
-        "startTime": "2024-08-14T16:42:00",
-        "endTime": "2024-08-14T18:00:00",
-        "lastUpdated": "2024-08-14T16:42:00",
+        "startTime": "2024-08-14T17:39:00",
+        "endTime": "2024-08-14T18:45:00",
+        "lastUpdated": "2024-08-14T17:39:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 16 (3900 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:00 PM",
+        "eventDescription": "Stalled Vehicle\nSB I-15 at MP 300 (5200 S) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 6:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.949915,
-          40.731947
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182806",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 20",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-08-14T16:17:00",
-        "endTime": "2024-08-14T17:15:00",
-        "lastUpdated": "2024-08-14T16:17:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 20 (California Ave Onramp) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:15 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     }
   ]
