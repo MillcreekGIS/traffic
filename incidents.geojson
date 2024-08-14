@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.839435,
-          40.631583
+          -111.949915,
+          40.731947
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182802",
+        "itemId": "UT-Incident--182806",
         "icon": {
           "size": [
             29,
@@ -29,70 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 8",
+        "operatorComment": " I-215 W at MP 20",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
-        "linkDirection": "E",
-        "startTime": "2024-08-14T15:08:00",
-        "endTime": "2024-08-14T16:06:00",
-        "lastUpdated": "2024-08-14T15:08:00",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-08-14T16:17:00",
+        "endTime": "2024-08-14T17:15:00",
+        "lastUpdated": "2024-08-14T16:17:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-215 S at MP 8 (1300 E) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 4:06 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.674521,
-          40.740268
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182796",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 136",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-08-14T14:25:00",
-        "endTime": "2024-08-14T15:24:00",
-        "lastUpdated": "2024-08-14T14:25:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 3:24 PM",
+        "eventDescription": "Crash\nSB I-215 W at MP 20 (California Ave Onramp) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:15 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
