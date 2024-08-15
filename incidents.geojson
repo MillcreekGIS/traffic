@@ -31,19 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-80 at MP 137",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2, Lane 3, Lane 4",
+        "lanesAffected": "",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "E",
         "startTime": "2024-08-15T07:13:00",
         "endTime": "2024-08-15T08:15:00",
-        "lastUpdated": "2024-08-15T07:13:00",
+        "lastUpdated": "2024-08-15T07:53:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.\n3 Right Lanes Closed\nEst. Clearance Time: 8:15 AM",
+        "eventDescription": "Crash\nEB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:15 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -97,6 +97,55 @@
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Debris",
         "eventSubTypeLongName": "Debris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.906587,
+          40.634973
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182835",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215S EB X12 TO I-15 NB RAMP at I-15 NB",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-215S EB X12 TO I-15 NB RAMP",
+        "linkDesignator": "I-215S EB X12 TO I-15 NB RAMP",
+        "linkDirection": "E",
+        "startTime": "2024-08-15T07:49:00",
+        "endTime": "2024-08-15T09:15:00",
+        "lastUpdated": "2024-08-15T07:49:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-215 S Exit 12 To I-15 NB Salt Lake Co.\nEst. Clearance Time: 9:15 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
