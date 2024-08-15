@@ -153,104 +153,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.906587,
-          40.634973
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182835",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215S EB X12 TO I-15 NB RAMP at I-15 NB",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-215S EB X12 TO I-15 NB RAMP",
-        "linkDesignator": "I-215S EB X12 TO I-15 NB RAMP",
-        "linkDirection": "E",
-        "startTime": "2024-08-15T07:49:00",
-        "endTime": "2024-08-15T09:15:00",
-        "lastUpdated": "2024-08-15T07:49:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-215 S Exit 12 To I-15 NB Salt Lake Co.\nEst. Clearance Time: 9:15 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.891246,
-          40.52103
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182836",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 291",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-15T08:05:00",
-        "endTime": "2024-08-15T09:05:00",
-        "lastUpdated": "2024-08-15T08:05:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 291 (12300 S) Salt Lake Co.\nEst. Clearance Time: 9:05 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.951947,
           40.688869
         ]
@@ -300,55 +202,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.020546,
-          40.72572
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182839",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 11",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-08-15T08:18:00",
-        "endTime": "2024-08-15T09:17:00",
-        "lastUpdated": "2024-08-15T08:19:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 at MP 11 (4600 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:17 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.986287,
           40.720911
         ]
@@ -387,6 +240,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nNB Bangerter Hwy at 2100 S Salt Lake Co.\nEst. Clearance Time: 9:30 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.819005,
+          40.713146
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182842",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 127",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-08-15T08:52:00",
+        "endTime": "2024-08-15T10:00:00",
+        "lastUpdated": "2024-08-15T08:52:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.\nEst. Clearance Time: 10:00 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
