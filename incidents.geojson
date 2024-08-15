@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.962907,
-          40.72606
+          -111.943886,
+          40.724124
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182853",
+        "itemId": "UT-Incident--182856",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 14",
+        "operatorComment": " SR 201 at MP 15",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "SR 201",
         "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-08-15T14:48:00",
-        "endTime": "2024-08-15T15:47:00",
-        "lastUpdated": "2024-08-15T14:48:00",
+        "linkDirection": "W",
+        "startTime": "2024-08-15T15:48:00",
+        "endTime": "2024-08-15T17:00:00",
+        "lastUpdated": "2024-08-15T15:48:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 at MP 14 (3000 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:47 PM",
+        "eventDescription": "Crash\nWB SR 201 at MP 15 (2000 W) Salt Lake Co.\nEst. Clearance Time: 5:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
