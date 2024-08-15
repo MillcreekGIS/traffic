@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.986244,
-          40.724357
+          -111.962907,
+          40.72606
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182849",
+        "itemId": "UT-Incident--182853",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " BANGERTER HWY 2101",
+        "operatorComment": " SR 201 at MP 14",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3",
-        "roadwayName": "BANGERTER HWY",
-        "linkDesignator": "BANGERTER HWY",
-        "linkDirection": "S",
-        "startTime": "2024-08-15T12:56:00",
-        "endTime": "2024-08-15T14:15:00",
-        "lastUpdated": "2024-08-15T12:57:00",
+        "lanesAffected": "",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "E",
+        "startTime": "2024-08-15T14:48:00",
+        "endTime": "2024-08-15T15:47:00",
+        "lastUpdated": "2024-08-15T14:48:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Bangerter Hwy at 2100 S Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 2:15 PM",
+        "eventDescription": "Crash\nEB SR 201 at MP 14 (3000 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:47 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
