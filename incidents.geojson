@@ -31,19 +31,68 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-215 W at MP 25",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "Lane 1",
         "roadwayName": "I-215 W",
         "linkDesignator": "I-215 W",
         "linkDirection": "S",
         "startTime": "2024-08-16T06:13:00",
         "endTime": "2024-08-16T07:13:00",
-        "lastUpdated": "2024-08-16T06:13:00",
+        "lastUpdated": "2024-08-16T06:38:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 25 (2100 N,) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 7:13 AM",
+        "eventDescription": "Crash\nSB I-215 W at MP 25 (2100 N,) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 7:13 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.793432,
+          40.622844
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182868",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " WASATCH BLVD at BIG COTTONWOOD CANYON RD/FORT*",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 2, Right Exit 1 (closest to mainline), Lane 1, Lane 2",
+        "roadwayName": "WASATCH BLVD",
+        "linkDesignator": "WASATCH BLVD",
+        "linkDirection": "S",
+        "startTime": "2024-08-16T06:26:00",
+        "endTime": "2024-08-16T07:25:00",
+        "lastUpdated": "2024-08-16T06:26:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB WASATCH BLVD at MIllrock\n Salt Lake Co.\nTraffic using median\nEst. Clearance Time: 7:25 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
