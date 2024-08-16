@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.124659,
-          40.771064
+          -111.913768,
+          40.763707
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182879",
+        "itemId": "UT-Incident--182880",
         "icon": {
           "size": [
             29,
@@ -78,25 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 108",
+        "operatorComment": " I-80 at MP 119",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 1, Lane 2",
+        "lanesAffected": "Lane 1",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
-        "linkDirection": "N",
-        "startTime": "2024-08-16T13:07:00",
-        "endTime": "2024-08-16T14:30:00",
-        "lastUpdated": "2024-08-16T13:07:00",
+        "linkDirection": "Ramp",
+        "startTime": "2024-08-16T13:24:00",
+        "endTime": "2024-08-16T14:22:00",
+        "lastUpdated": "2024-08-16T13:24:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Ramp/Lane Closure\nNB I-80 at MP 108  to NB I-15  \nSalt Lake Co.\nEst. Clearance Time: 2:30 PM",
+        "eventDescription": "Crash\nRamp EB I-80 Closed\nat MP 119 (I-15 Jct/Ramp to NB I-15) \nSalt Lake Co.\nUse Alt Route",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Lane Closure",
-        "eventSubTypeLongName": "Lane Closure"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
