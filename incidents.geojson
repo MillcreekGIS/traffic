@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.039659,
-          40.724933
+          -111.873941,
+          40.718459
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182893",
+        "itemId": "UT-Incident--182897",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 10",
+        "operatorComment": " I-80 at MP 124",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
         "linkDirection": "W",
-        "startTime": "2024-08-16T16:30:00",
-        "endTime": "2024-08-16T17:35:00",
-        "lastUpdated": "2024-08-16T16:30:00",
+        "startTime": "2024-08-16T17:17:00",
+        "endTime": "2024-08-16T18:30:00",
+        "lastUpdated": "2024-08-16T17:17:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 10 Off Ramp (5600 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:35 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
