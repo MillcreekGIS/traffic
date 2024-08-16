@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.873941,
-          40.718459
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182897",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 124",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-08-16T17:17:00",
-        "endTime": "2024-08-16T18:30:00",
-        "lastUpdated": "2024-08-16T17:17:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.953251,
           40.765438
         ]
@@ -80,19 +31,68 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-80 at MP 117",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "Right Exit 1 (closest to mainline)",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "E",
         "startTime": "2024-08-16T17:24:00",
         "endTime": "2024-08-16T18:30:00",
-        "lastUpdated": "2024-08-16T17:28:00",
+        "lastUpdated": "2024-08-16T17:31:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:30 PM",
+        "eventDescription": "Crash\nEB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.\nEst. Clearance Time: 6:30 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.949343,
+          40.775011
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182902",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 W at MP 23",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 3",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "N",
+        "startTime": "2024-08-16T17:41:00",
+        "endTime": "2024-08-16T18:55:00",
+        "lastUpdated": "2024-08-16T17:41:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-215 W at MP 23 Off Ramp (700 N) Salt Lake Co.\n Right Lanes Closed\nEst. Clearance Time: 6:55 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
