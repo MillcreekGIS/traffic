@@ -147,6 +147,55 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924688,
+          40.834209
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--182883",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 N at MP 28",
+        "areaName": "Davis County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 N",
+        "linkDesignator": "I-215 N",
+        "linkDirection": "W",
+        "startTime": "2024-08-16T14:23:00",
+        "endTime": "2024-08-16T15:23:00",
+        "lastUpdated": "2024-08-16T14:23:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB I-215 N at MP 28 (At I-15, SLC) Davis Co.\nRight Shoulder\nEst. Clearance Time: 3:23 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
