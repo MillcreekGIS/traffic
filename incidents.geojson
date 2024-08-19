@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.896336,
-          40.550055
+          -111.98151,
+          40.711643
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183029",
+        "itemId": "UT-Incident--183030",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 293",
+        "operatorComment": " Bangerter Hwy at MP 20",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "Ramp",
-        "startTime": "2024-08-19T14:07:00",
-        "endTime": "2024-08-19T15:06:00",
-        "lastUpdated": "2024-08-19T14:20:00",
+        "lanesAffected": "None",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "N",
+        "startTime": "2024-08-19T14:24:00",
+        "endTime": "2024-08-19T15:25:00",
+        "lastUpdated": "2024-08-19T14:24:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Off Ramp I-15 at MP 293 (10600 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 3:06 PM",
+        "eventDescription": "Crash\nNB Bangerter Hwy at MP 20 (2700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:25 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.879076,
+          40.897362
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183031",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Main St at 1100 N",
+        "areaName": "Davis County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3",
+        "roadwayName": "Main St",
+        "linkDesignator": "Main St",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-08-19T14:30:00",
+        "endTime": "2024-08-19T15:28:00",
+        "lastUpdated": "2024-08-19T14:30:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nBoth Directions Main St Closed at 1100 N (Bountiful) Davis Co.\nUse Alt Route",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
