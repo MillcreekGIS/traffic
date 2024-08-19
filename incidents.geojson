@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.674521,
-          40.740268
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--182992",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 136",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-08-18T20:11:00",
-        "endTime": "2024-08-18T21:09:00",
-        "lastUpdated": "2024-08-18T20:11:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 136 (Lambs Canyon) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:09 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.895376,
           40.634373
         ]
@@ -80,19 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-215 S at MP 11",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 1, Lane 2, Lane 5",
+        "lanesAffected": "Lane 1, Lane 2",
         "roadwayName": "I-215 S",
         "linkDesignator": "I-215 S",
         "linkDirection": "W",
         "startTime": "2024-08-18T20:01:00",
         "endTime": "2024-08-18T20:59:00",
-        "lastUpdated": "2024-08-18T20:01:00",
+        "lastUpdated": "2024-08-18T20:44:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-215 S at MP 11 (300 W) Salt Lake Co.\nEst. Clearance Time: 8:59 PM",
+        "eventDescription": "Crash\nWB I-215 S at MP 11 (300 W) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 8:59 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
