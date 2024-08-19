@@ -104,6 +104,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.001283,
+          40.725741
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183037",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 at MP 12",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-08-19T17:20:00",
+        "endTime": "2024-08-19T18:19:00",
+        "lastUpdated": "2024-08-19T17:21:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "WB SR 201 Closed\n at MP 12 (Bangerter Hwy) Salt Lake Co.\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.910735,
           40.777705
         ]
@@ -129,19 +178,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-15 at MP 309",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
+        "lanesAffected": "Lane 4",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
         "startTime": "2024-08-19T16:56:00",
         "endTime": "2024-08-19T17:55:00",
-        "lastUpdated": "2024-08-19T16:56:00",
+        "lastUpdated": "2024-08-19T17:30:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 309 (600 N) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 5:55 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 309 (600 N) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 5:55 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
