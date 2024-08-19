@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.546712,
-          40.728806
+          -111.942301,
+          40.840909
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183008",
+        "itemId": "UT-Incident--183015",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 144",
-        "areaName": "Summit County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-08-19T08:44:00",
-        "endTime": "2024-08-19T09:43:00",
-        "lastUpdated": "2024-08-19T09:53:00",
+        "operatorComment": " Legacy Pkwy at MP 1",
+        "areaName": "Davis County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "Legacy Pkwy",
+        "linkDesignator": "Legacy Pkwy",
+        "linkDirection": "S",
+        "startTime": "2024-08-19T10:04:00",
+        "endTime": "2024-08-19T11:15:00",
+        "lastUpdated": "2024-08-19T10:04:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at Exit 145 (Kimball Jct/ SR-224 Jct) Summit Co.\nRight Shoulder\nEst. Clearance Time: 9:43 AM",
+        "eventDescription": "Crash\nSB Legacy Pkwy at MP 1 (Center St) Davis Co.\nLeft Lane Closed Both Directions\nEst. Clearance Time: 11:15 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
