@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.953251,
-          40.765438
+          -111.910735,
+          40.777705
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--182995",
+        "itemId": "UT-Incident--182996",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 117",
+        "operatorComment": " I-15 at MP 309",
         "areaName": "Salt Lake County",
         "lanesAffected": "Lane 1",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "Ramp",
-        "startTime": "2024-08-18T22:52:00",
-        "endTime": "2024-08-18T23:51:00",
-        "lastUpdated": "2024-08-18T22:52:00",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-18T23:42:00",
+        "endTime": "2024-08-19T00:45:00",
+        "lastUpdated": "2024-08-18T23:42:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nRamp I-80 Closed\n at MP 117 (I-215 West Belt) Salt Lake Co.\nUse Alt Route",
+        "eventDescription": "Crash\nSB I-15 at MP 309 (600 N) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 8/19/2024 12:45 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
