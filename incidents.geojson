@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.529346,
-          40.723073
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183053",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 145",
-        "areaName": "Summit County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "Ramp",
-        "startTime": "2024-08-20T09:38:00",
-        "endTime": "2024-08-20T11:00:00",
-        "lastUpdated": "2024-08-20T10:24:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nRamp EB I-80 at MP 145 (Kimball Jct Exit) Summit Co.\nRight Shoulder\nEst. Clearance Time: 10:37 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.167011,
           40.727646
         ]
