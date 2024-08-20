@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.899489,
-          40.564298
+          -111.529346,
+          40.723073
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183050",
+        "itemId": "UT-Incident--183053",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 294",
-        "areaName": "Salt Lake County",
+        "operatorComment": " I-80 at MP 145",
+        "areaName": "Summit County",
         "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-20T08:38:00",
-        "endTime": "2024-08-20T09:45:00",
-        "lastUpdated": "2024-08-20T08:38:00",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "Ramp",
+        "startTime": "2024-08-20T09:38:00",
+        "endTime": "2024-08-20T10:37:00",
+        "lastUpdated": "2024-08-20T09:38:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 294 (10200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 9:45 AM",
+        "eventDescription": "Crash\nRamp EB I-80 at MP 145 (Kimball Jct Exit) Summit Co.\nRight Shoulder\nEst. Clearance Time: 10:37 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
