@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905403,
-          40.607173
+          -111.95315,
+          40.703296
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183034",
+        "itemId": "UT-Incident--183040",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 297",
+        "operatorComment": " I-215 W at MP 18",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-08-19T18:17:00",
+        "endTime": "2024-08-19T19:16:00",
+        "lastUpdated": "2024-08-19T18:18:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-215 W at MP 18 (2900 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:16 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.905066,
+          40.63583
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183039",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 299",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
-        "startTime": "2024-08-19T16:42:00",
-        "endTime": "2024-08-19T17:38:00",
-        "lastUpdated": "2024-08-19T16:42:00",
+        "startTime": "2024-08-19T18:05:00",
+        "endTime": "2024-08-19T19:05:00",
+        "lastUpdated": "2024-08-19T18:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 297 (7200 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:38 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:05 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -55,12 +104,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.001283,
-          40.725741
+          -111.850003,
+          40.625779
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183037",
+        "itemId": "UT-Incident--183042",
         "icon": {
           "size": [
             29,
@@ -78,70 +127,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 12",
+        "operatorComment": " FORT UNION BLVD 1435",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-08-19T17:20:00",
-        "endTime": "2024-08-19T18:19:00",
-        "lastUpdated": "2024-08-19T17:36:00",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "FORT UNION BLVD",
+        "linkDesignator": "FORT UNION BLVD",
+        "linkDirection": "E",
+        "startTime": "2024-08-19T18:53:00",
+        "endTime": "2024-08-19T19:52:00",
+        "lastUpdated": "2024-08-19T18:53:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 Closed\n at MP 12 (Bangerter Hwy) Salt Lake Co.\nUse Alt Route",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.910735,
-          40.777705
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183036",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 309",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-19T16:56:00",
-        "endTime": "2024-08-19T17:55:00",
-        "lastUpdated": "2024-08-19T17:30:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 309 (600 N) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 5:55 PM",
+        "eventDescription": "Crash\nEB FORT UNION BLVD at Park Center\nSalt Lake Co.\nEst. Clearance Time: 7:52 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
