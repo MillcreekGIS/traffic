@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.021413,
-          40.726164
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183085",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 EB X11 Off 5600 S Ramp at 5600 W",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "SR 201 EB X11 Off 5600 S Ramp",
-        "linkDesignator": "SR 201 EB X11 Off 5600 S Ramp",
-        "linkDirection": "W",
-        "startTime": "2024-08-21T05:23:00",
-        "endTime": "2024-08-21T09:30:00",
-        "lastUpdated": "2024-08-21T08:06:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 5600 S Off Ramp (Salt Lake Co)\nUse Alt Route\nEst. Clearance Time: 9:30 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.959031,
           40.727939
         ]
@@ -104,55 +55,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.900284,
-          40.578741
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183095",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 295",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-21T08:53:00",
-        "endTime": "2024-08-21T09:55:00",
-        "lastUpdated": "2024-08-21T08:53:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 295 (9000 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 9:55 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.904912,
           40.85851
         ]
@@ -191,6 +93,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nSB I-15 at MP 315 (2600 S, Woods X) Davis Co.\n4 Left Lanes Closed\nEst. Clearance Time: 8:45 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.966,
+          40.727593
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183097",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 WB X14 OFF 2100 S EB RAMP at 3230 W",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2",
+        "roadwayName": "SR 201 WB X14 OFF 2100 S EB RAMP",
+        "linkDesignator": "SR 201 WB X14 OFF 2100 S EB RAMP",
+        "linkDirection": "W",
+        "startTime": "2024-08-21T09:16:00",
+        "endTime": "2024-08-21T10:15:00",
+        "lastUpdated": "2024-08-21T09:16:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB West Davis Hwy/SR-177 at MP 8 (200 N Kaysville) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 10:15 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
