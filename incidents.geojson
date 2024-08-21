@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.896336,
-          40.550055
+          -111.892231,
+          40.89228
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183126",
+        "itemId": "UT-Incident--183128",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 293",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-08-21T17:31:00",
+        "operatorComment": " US 89 at MP 389",
+        "areaName": "Davis County",
+        "lanesAffected": "None",
+        "roadwayName": "US 89",
+        "linkDesignator": "US 89",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-08-21T17:36:00",
         "endTime": "2024-08-21T18:45:00",
-        "lastUpdated": "2024-08-21T17:31:00",
+        "lastUpdated": "2024-08-21T17:36:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 293 (10600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:45 PM",
+        "eventDescription": "Crash\nBoth Directions US 89 at MP 389 (250 N / Woods Cross) Davis Co.\nEst. Clearance Time: 6:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
