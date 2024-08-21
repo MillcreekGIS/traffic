@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.047728,
-          40.771168
+          -111.881739,
+          40.893686
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183109",
+        "itemId": "UT-Incident--183117",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 112",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
+        "operatorComment": " SR 106 at MP 1",
+        "areaName": "Davis County",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "SR 106",
+        "linkDesignator": "SR 106",
         "linkDirection": "W",
-        "startTime": "2024-08-21T14:30:00",
-        "endTime": "2024-08-21T15:35:00",
-        "lastUpdated": "2024-08-21T14:30:00",
+        "startTime": "2024-08-21T15:46:00",
+        "endTime": "2024-08-21T16:45:00",
+        "lastUpdated": "2024-08-21T15:48:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 112 (1 mi E of 7200 W) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 3:35 PM",
+        "eventDescription": "Crash\nWB SR 106 at MP 1 (460 W) Davis Co.\nRight Lane Closed\nEst. Clearance Time: 4:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
