@@ -49,55 +49,6 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.80718,
-          40.699842
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183110",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 171 at MP 15",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 171",
-        "linkDesignator": "SR 171",
-        "linkDirection": "W",
-        "startTime": "2024-08-21T14:35:00",
-        "endTime": "2024-08-21T15:30:00",
-        "lastUpdated": "2024-08-21T14:35:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 171 at MP 15 (2700 E (3300 S)) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
     }
   ]
 }
