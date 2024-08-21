@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.91569,
-          40.825133
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183088",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " US 89 at MP 384",
-        "areaName": "Davis County",
-        "lanesAffected": "None",
-        "roadwayName": "US 89",
-        "linkDesignator": "US 89",
-        "linkDirection": "S",
-        "startTime": "2024-08-21T07:09:00",
-        "endTime": "2024-08-21T08:15:00",
-        "lastUpdated": "2024-08-21T07:09:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB US 89 at MP 384 (800 S / North SLC) Davis Co.\nEst. Clearance Time: 8:15 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.021413,
           40.726164
         ]
@@ -85,14 +36,14 @@
         "linkDesignator": "SR 201 EB X11 Off 5600 S Ramp",
         "linkDirection": "W",
         "startTime": "2024-08-21T05:23:00",
-        "endTime": "2024-08-21T08:30:00",
-        "lastUpdated": "2024-08-21T05:57:00",
+        "endTime": "2024-08-21T09:30:00",
+        "lastUpdated": "2024-08-21T08:06:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 5600 S Off Ramp (Salt Lake Co)\nUse Alt Route\nEst. Clearance Time: 8:30 AM",
+        "eventDescription": "Crash\nWB SR 201 5600 S Off Ramp (Salt Lake Co)\nUse Alt Route\nEst. Clearance Time: 9:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -142,55 +93,6 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nSB West Davis Hwy/SR 177 at MP 7 (400 S Kaysville) Davis Co.\nRight Shoulder",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.980842,
-          40.550179
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183090",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " BANGERTER HWY at SOUTH JORDAN PKWY",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "BANGERTER HWY",
-        "linkDesignator": "BANGERTER HWY",
-        "linkDirection": "S",
-        "startTime": "2024-08-21T07:24:00",
-        "endTime": "2024-08-21T08:30:00",
-        "lastUpdated": "2024-08-21T07:28:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at 11000 S (South Jordan) Salt Lake Co.\nCleared at 7:26 AM\nEst. Clearance Time: 8:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
