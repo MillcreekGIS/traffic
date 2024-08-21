@@ -6,6 +6,153 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.024743,
+          40.68215
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183099",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 172 at MP 3",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2, Lane 3, Lane 4",
+        "roadwayName": "SR 172",
+        "linkDesignator": "SR 172",
+        "linkDirection": "S",
+        "startTime": "2024-08-21T09:59:00",
+        "endTime": "2024-08-21T10:53:00",
+        "lastUpdated": "2024-08-21T09:59:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB SR 172 Closed\n at MP 3 (1730 S) Salt Lake Co.\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.922481,
+          40.804836
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183100",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 311",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-21T10:00:00",
+        "endTime": "2024-08-21T11:00:00",
+        "lastUpdated": "2024-08-21T10:00:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 at MP 311 (2300 N) Salt Lake Co.\nEst. Clearance Time: 11:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.982034,
+          40.725733
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183101",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 at MP 13",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-08-21T10:05:00",
+        "endTime": "2024-08-21T11:03:00",
+        "lastUpdated": "2024-08-21T10:05:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB SR 201 at MP 13 (3200 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:03 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.959031,
           40.727939
         ]
@@ -44,104 +191,6 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nSB West Davis Hwy/SR 177 at MP 7 (400 S Kaysville) Davis Co.\nRight Shoulder",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.904912,
-          40.85851
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183091",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 315",
-        "areaName": "Davis County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-08-21T07:45:00",
-        "endTime": "2024-08-21T09:45:00",
-        "lastUpdated": "2024-08-21T09:36:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 315 (2600 S, Woods X) Davis Co.\n4 Left Lanes Closed\n",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.966,
-          40.727593
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183097",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 WB X14 OFF 2100 S EB RAMP at 3230 W",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2",
-        "roadwayName": "SR 201 WB X14 OFF 2100 S EB RAMP",
-        "linkDesignator": "SR 201 WB X14 OFF 2100 S EB RAMP",
-        "linkDirection": "W",
-        "startTime": "2024-08-21T09:16:00",
-        "endTime": "2024-08-21T10:15:00",
-        "lastUpdated": "2024-08-21T09:16:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB West Davis Hwy/SR-177 at MP 8 (200 N Kaysville) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 10:15 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
