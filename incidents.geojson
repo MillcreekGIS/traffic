@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.024743,
-          40.68215
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183099",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 172 at MP 3",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2, Lane 3, Lane 4",
-        "roadwayName": "SR 172",
-        "linkDesignator": "SR 172",
-        "linkDirection": "S",
-        "startTime": "2024-08-21T09:59:00",
-        "endTime": "2024-08-21T10:53:00",
-        "lastUpdated": "2024-08-21T09:59:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB SR 172 Closed\n at MP 3 (1730 S) Salt Lake Co.\nUse Alt Route",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.922481,
           40.804836
         ]
@@ -104,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.982034,
-          40.725733
+          -111.89856,
+          40.483208
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183101",
+        "itemId": "UT-Incident--183104",
         "icon": {
           "size": [
             29,
@@ -127,25 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 13",
+        "operatorComment": " I-15 NB X288 Off 14600 S WB Ramp at Highland Dr",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-08-21T10:05:00",
-        "endTime": "2024-08-21T11:03:00",
-        "lastUpdated": "2024-08-21T10:05:00",
+        "lanesAffected": "None",
+        "roadwayName": "I-15 NB X288 Off 14600 S WB Ramp",
+        "linkDesignator": "I-15 NB X288 Off 14600 S WB Ramp",
+        "linkDirection": "N",
+        "startTime": "2024-08-21T10:44:00",
+        "endTime": "2024-08-21T11:45:00",
+        "lastUpdated": "2024-08-21T10:44:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 13 (3200 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:03 AM",
+        "eventDescription": "Vehicle on fire\nNB I-15 X288 Off 14600 S  Ramp at Highland Dr Salt Lake Co.\nEst. Clearance Time: 11:45 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
       }
     },
     {
