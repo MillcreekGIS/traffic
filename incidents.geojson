@@ -31,68 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-15 at MP 314",
         "areaName": "Davis County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 3, Lane 4, Lane 5",
+        "lanesAffected": "Right Exit 1 (closest to mainline)",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
         "startTime": "2024-08-21T16:42:00",
         "endTime": "2024-08-21T18:30:00",
-        "lastUpdated": "2024-08-21T16:42:00",
+        "lastUpdated": "2024-08-21T16:52:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 314 (Main St, NSL) Davis Co.\n4 Right Lanes Closed\nEst. Clearance Time: 6:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.902881,
-          40.693589
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183118",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 303",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-21T16:12:00",
-        "endTime": "2024-08-21T17:00:00",
-        "lastUpdated": "2024-08-21T16:12:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 303 (3300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:00 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 314 (Main St, NSL) Davis Co.\nEst. Clearance Time: 6:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
