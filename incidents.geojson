@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888223,
+          40.758481
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183074",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " State St at 500 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3",
+        "roadwayName": "State St",
+        "linkDesignator": "State St",
+        "linkDirection": "S",
+        "startTime": "2024-08-20T17:53:00",
+        "endTime": "2024-08-20T20:00:00",
+        "lastUpdated": "2024-08-20T17:53:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB State St Blocked at 500 S Salt Lake Co.\nEst. Clearance Time: 8:00 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
