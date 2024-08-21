@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.981592,
-          40.68297
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183077",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 18",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 3",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "N",
-        "startTime": "2024-08-20T19:02:00",
-        "endTime": "2024-08-20T20:30:00",
-        "lastUpdated": "2024-08-20T19:02:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.726477,
           40.634786
         ]
