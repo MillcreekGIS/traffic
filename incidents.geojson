@@ -49,55 +49,6 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.959031,
-          40.727939
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183087",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 2760 W 1901",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "2760 W",
-        "linkDesignator": "2760 W",
-        "linkDirection": "S",
-        "startTime": "2024-08-21T06:58:00",
-        "endTime": "2024-08-21T12:55:00",
-        "lastUpdated": "2024-08-21T12:12:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB West Davis Hwy/SR 177 at MP 7 (400 S Kaysville) Davis Co.\nRight Shoulder",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
     }
   ]
 }
