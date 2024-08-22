@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.892231,
-          40.89228
+          -111.900284,
+          40.578741
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183128",
+        "itemId": "UT-Incident--183134",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,74 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " US 89 at MP 389",
-        "areaName": "Davis County",
-        "lanesAffected": "None",
-        "roadwayName": "US 89",
-        "linkDesignator": "US 89",
-        "linkDirection": "BOTHDIR",
-        "startTime": "2024-08-21T17:36:00",
-        "endTime": "2024-08-21T18:45:00",
-        "lastUpdated": "2024-08-21T17:36:00",
+        "operatorComment": " I-15 at MP 295",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-21T18:42:00",
+        "endTime": "2024-08-21T19:45:00",
+        "lastUpdated": "2024-08-21T18:56:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nBoth Directions US 89 at MP 389 (250 N / Woods Cross) Davis Co.\nEst. Clearance Time: 6:45 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 295 (9500 S) Salt Lake Co.\n3 Left Lanes Closed\nEst. Clearance Time: 7:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938837,
+          40.664118
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183136",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Redwood Rd at Murray Taylorsville Rd",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "Redwood Rd",
+        "linkDesignator": "Redwood Rd",
+        "linkDirection": "N",
+        "startTime": "2024-08-21T19:00:00",
+        "endTime": "2024-08-21T20:00:00",
+        "lastUpdated": "2024-08-21T19:00:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Debris\nNB Redwood Rd at Murray Taylorsville Rd Salt Lake Co.\n2 Right Lanes\nEst. Clearance Time: 8:00 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Debris",
+        "eventSubTypeLongName": "Debris"
       }
     }
   ]
