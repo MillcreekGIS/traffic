@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9815,
-          40.667559
+          -111.903876,
+          40.621691
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183191",
+        "itemId": "UT-Incident--183194",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at 4700 S",
+        "operatorComment": " I-15 at MP 298",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "N",
-        "startTime": "2024-08-22T19:05:00",
-        "endTime": "2024-08-22T20:00:00",
-        "lastUpdated": "2024-08-22T19:05:00",
+        "lanesAffected": "Right Exit 1 (closest to mainline)",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-22T20:02:00",
+        "endTime": "2024-08-22T21:00:00",
+        "lastUpdated": "2024-08-22T20:02:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Bangerter Hwy at 4700 S Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:00 PM",
+        "eventDescription": "Vehicle on fire\nSB I-15 at MP 298 (6900 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 9:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
       }
     },
     {
