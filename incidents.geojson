@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.903409,
-          40.637047
+          -112.143879,
+          40.770886
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183269",
+        "itemId": "UT-Incident--183271",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215S WB X12 TO I-15 NB RAMP at I-15 NB",
+        "operatorComment": " I-80 at MP 107",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-215S WB X12 TO I-15 NB RAMP",
-        "linkDesignator": "I-215S WB X12 TO I-15 NB RAMP",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
         "linkDirection": "W",
-        "startTime": "2024-08-24T17:40:00",
-        "endTime": "2024-08-24T18:45:00",
-        "lastUpdated": "2024-08-24T17:40:00",
+        "startTime": "2024-08-24T18:30:00",
+        "endTime": "2024-08-24T19:35:00",
+        "lastUpdated": "2024-08-24T18:30:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-215S  X12 TO I-15 RAMP at I-15 NB Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:45 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:35 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
