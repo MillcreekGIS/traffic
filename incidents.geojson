@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.894372,
+          40.864049
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183294",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " US 89 at MP 387",
+        "areaName": "Davis County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 4",
+        "roadwayName": "US 89",
+        "linkDesignator": "US 89",
+        "linkDirection": "N",
+        "startTime": "2024-08-25T12:07:00",
+        "endTime": "2024-08-25T13:05:00",
+        "lastUpdated": "2024-08-25T12:07:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB US 89 at MP 387 (2400 S / Woods Cross) \nDavis Co.\n2 Right Lanes Closed\nEst. Clearance Time: 1:05 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
