@@ -6,104 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.910467,
-          40.756265
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183300",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 EB X121 OFF 600 S RAMP at 600 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-80 EB X121 OFF 600 S RAMP",
-        "linkDesignator": "I-80 EB X121 OFF 600 S RAMP",
-        "linkDirection": "E",
-        "startTime": "2024-08-25T19:42:00",
-        "endTime": "2024-08-25T20:42:00",
-        "lastUpdated": "2024-08-25T19:42:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 X121 OFF 600 S RAMP at 600 S Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 8:42 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.90397,
-          40.707874
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183301",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 304",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-08-25T20:01:00",
-        "endTime": "2024-08-25T20:59:00",
-        "lastUpdated": "2024-08-25T20:01:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 304 (2400 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 8:59 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.982034,
           40.725733
         ]
@@ -134,8 +36,8 @@
         "linkDesignator": "SR 201",
         "linkDirection": "Ramp",
         "startTime": "2024-08-25T20:24:00",
-        "endTime": "2024-08-25T21:30:00",
-        "lastUpdated": "2024-08-25T20:43:00",
+        "endTime": "2024-08-25T21:55:00",
+        "lastUpdated": "2024-08-25T21:37:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
@@ -195,6 +97,55 @@
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Utility work",
         "eventSubTypeLongName": "Utility work"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.532215,
+          40.681162
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183306",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 224 at MP 8",
+        "areaName": "Summit County",
+        "lanesAffected": "Lane 2",
+        "roadwayName": "SR 224",
+        "linkDesignator": "SR 224",
+        "linkDirection": "N",
+        "startTime": "2024-08-25T21:36:00",
+        "endTime": "2024-08-25T22:33:00",
+        "lastUpdated": "2024-08-25T21:36:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB SR 224 at MP 8 (Brookside Ct) Summit Co.\nRight Lane Closed\nEst. Clearance Time: 10:33 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
