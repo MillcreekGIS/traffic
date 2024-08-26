@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.951326,
+          40.725613
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183309",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 W at MP 20",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 3, Lane 4",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-08-26T04:34:00",
+        "endTime": "2024-08-26T05:33:00",
+        "lastUpdated": "2024-08-26T04:34:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-215 W at MP 20 (SR-201) Salt Lake Co.\n2 Right Lanes Closed\nWB SR-201 to SB I-215W Ramp Also Closed\nEst. Clearance Time: 5:33 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
