@@ -129,23 +129,72 @@
         "organizationId": "UT-Incident",
         "operatorComment": " SR 201 at MP 13",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4, Lane 5",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 4, Lane 5",
         "roadwayName": "SR 201",
         "linkDesignator": "SR 201",
-        "linkDirection": "W",
+        "linkDirection": "Ramp",
         "startTime": "2024-08-25T20:24:00",
         "endTime": "2024-08-25T21:30:00",
-        "lastUpdated": "2024-08-25T20:24:00",
+        "lastUpdated": "2024-08-25T20:43:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 13 (3200 W) Salt Lake Co.\nCenter Lanes Closed\nEst. Clearance Time: 9:30 PM",
+        "eventDescription": "Crash\nRamp WB SR 201 at MP 13 (3200 W) Salt Lake Co.\nExit Closed\nEst. Clearance Time: 9:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938901,
+          40.696708
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183304",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Redwood Rd at 3500 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3",
+        "roadwayName": "Redwood Rd",
+        "linkDesignator": "Redwood Rd",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-08-25T20:49:00",
+        "endTime": "2024-08-26T21:43:00",
+        "lastUpdated": "2024-08-25T20:49:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Utility Emergency\nSB Redwood Rd Closed\nat 3500 S (Salt Lake Co)\nWB/EB 3500 S Closed\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Utility work",
+        "eventSubTypeLongName": "Utility work"
       }
     }
   ]
