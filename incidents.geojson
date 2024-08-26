@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.951326,
-          40.725613
+          -111.907094,
+          40.725568
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183309",
+        "itemId": "UT-Incident--183312",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 20",
+        "operatorComment": " 2100 S 597",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-08-26T04:34:00",
-        "endTime": "2024-08-26T06:00:00",
-        "lastUpdated": "2024-08-26T05:35:00",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 3, Lane 4, Lane 5, Lane 6",
+        "roadwayName": "2100 S",
+        "linkDesignator": "2100 S",
+        "linkDirection": "W",
+        "startTime": "2024-08-26T06:07:00",
+        "endTime": "2024-08-26T07:07:00",
+        "lastUpdated": "2024-08-26T06:39:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 20 (SR-201) Salt Lake Co.\n2 Right Lanes Closed\nWB SR-201 to SB I-215W Ramp Also Closed",
+        "eventDescription": "Crash\nWB 2100 S Closed at 600 W Salt Lake Co.\nEst. Clearance Time: 7:07 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
