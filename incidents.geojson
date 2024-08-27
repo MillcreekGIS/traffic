@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.914284,
+          40.763745
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183377",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 308",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-08-27T14:46:00",
+        "endTime": "2024-08-27T15:45:00",
+        "lastUpdated": "2024-08-27T14:46:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Debris\nNB I-15 at MP 308 (N Temple) Salt Lake Co.\nCenter Lanes Closed\nEst. Clearance Time: 3:45 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Debris",
+        "eventSubTypeLongName": "Debris"
+      }
+    }
+  ]
 }
