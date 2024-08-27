@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.989975,
-          40.739495
+          -111.891485,
+          40.492398
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183379",
+        "itemId": "UT-Incident--183384",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 22",
+        "operatorComment": " I-15 at MP 289",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "S",
-        "startTime": "2024-08-27T15:21:00",
-        "endTime": "2024-08-27T16:30:00",
-        "lastUpdated": "2024-08-27T15:21:00",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-08-27T16:24:00",
+        "endTime": "2024-08-27T17:30:00",
+        "lastUpdated": "2024-08-27T16:24:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at MP 22 (1000 S) Salt Lake Co.\nEst. Clearance Time: 4:30 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 5:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
