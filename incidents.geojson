@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.947201,
+          40.827468
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183376",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 N at MP 27",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-215 N",
+        "linkDesignator": "I-215 N",
+        "linkDirection": "N",
+        "startTime": "2024-08-27T13:46:00",
+        "endTime": "2024-08-27T14:46:00",
+        "lastUpdated": "2024-08-27T13:46:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-215 N at MP 27 (Redwood Rd, SLC) Salt Lake Co.\nEst. Clearance Time: 2:46 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
