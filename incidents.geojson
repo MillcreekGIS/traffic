@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.943886,
-          40.724124
+          -111.922695,
+          40.67194
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183349",
+        "itemId": "UT-Incident--183351",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 15",
+        "operatorComment": " TAYLORSVILLE EXPY 815",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
+        "lanesAffected": "None",
+        "roadwayName": "TAYLORSVILLE EXPY",
+        "linkDesignator": "TAYLORSVILLE EXPY",
         "linkDirection": "W",
-        "startTime": "2024-08-27T04:32:00",
-        "endTime": "2024-08-27T06:00:00",
-        "lastUpdated": "2024-08-27T05:05:00",
+        "startTime": "2024-08-27T06:31:00",
+        "endTime": "2024-08-27T07:30:00",
+        "lastUpdated": "2024-08-27T06:31:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nWB SR 201 at MP 15 (1300 W) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 6:00 AM",
+        "eventDescription": "Crash\nTaylorsville Expy at 4500 S (Taylorsville) Salt Lake Co.\nEst. Clearance Time: 7:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
