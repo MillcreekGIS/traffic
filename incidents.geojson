@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98629,
+          40.725407
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183367",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Bangerter Hwy at MP 21",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "N",
+        "startTime": "2024-08-27T10:42:00",
+        "endTime": "2024-08-27T11:41:00",
+        "lastUpdated": "2024-08-27T10:42:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB Bangerter Hwy at MP 21 (SR-201 Jct) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 11:41 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
