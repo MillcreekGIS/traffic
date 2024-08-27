@@ -31,68 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-15 at MP 311",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
+        "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
         "startTime": "2024-08-27T08:20:00",
-        "endTime": "2024-08-27T09:13:00",
-        "lastUpdated": "2024-08-27T08:20:00",
+        "endTime": "2024-08-27T10:13:00",
+        "lastUpdated": "2024-08-27T09:09:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 311 (2300 N) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 9:13 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.922695,
-          40.67194
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183351",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " TAYLORSVILLE EXPY 815",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "TAYLORSVILLE EXPY",
-        "linkDesignator": "TAYLORSVILLE EXPY",
-        "linkDirection": "W",
-        "startTime": "2024-08-27T06:31:00",
-        "endTime": "2024-08-27T09:00:00",
-        "lastUpdated": "2024-08-27T08:31:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nTaylorsville Expy at 4500 S (Taylorsville) Salt Lake Co.\nEst. Clearance Time: 7:30 AM",
+        "eventDescription": "Crash\nSB I-15 at MP 311 (2300 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:13 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
