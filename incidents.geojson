@@ -98,55 +98,6 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.976625,
-          40.640164
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183354",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 15",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Left Exit 2, Left Exit 1 (closest to mainline), Lane 2, Lane 3",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "BOTHDIR",
-        "startTime": "2024-08-27T07:16:00",
-        "endTime": "2024-08-27T08:14:00",
-        "lastUpdated": "2024-08-27T07:17:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Animal in traffic\nBoth Directions Bangerter Hwy at MP 15 (6100 S) Salt Lake Co.\nNB Right Lanes Closed\nSB Left Lane Closed\nEst. Clearance Time: 8:14 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Animal in traffic",
-        "eventSubTypeLongName": "Animal in traffic"
-      }
     }
   ]
 }
