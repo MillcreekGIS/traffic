@@ -85,63 +85,14 @@
         "linkDesignator": "TAYLORSVILLE EXPY",
         "linkDirection": "W",
         "startTime": "2024-08-27T06:31:00",
-        "endTime": "2024-08-27T08:30:00",
-        "lastUpdated": "2024-08-27T07:46:00",
+        "endTime": "2024-08-27T09:00:00",
+        "lastUpdated": "2024-08-27T08:31:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nTaylorsville Expy at 4500 S (Taylorsville) Salt Lake Co.\nEst. Clearance Time: 7:30 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.902252,
-          40.480607
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183355",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 288",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-08-27T07:23:00",
-        "endTime": "2024-08-27T08:30:00",
-        "lastUpdated": "2024-08-27T07:23:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 288 (14600 S) Salt Lake Co.\nEst. Clearance Time: 8:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
