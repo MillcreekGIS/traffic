@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.546712,
-          40.728806
+          -111.95315,
+          40.703296
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183399",
+        "itemId": "UT-Incident--183401",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 144",
-        "areaName": "Summit County",
-        "lanesAffected": "Right Exit 2, Right Exit 1 (closest to mainline), Lane 3",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-08-28T06:57:00",
-        "endTime": "2024-08-28T08:00:00",
-        "lastUpdated": "2024-08-28T06:57:00",
+        "operatorComment": " I-215 W at MP 18",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 5",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "N",
+        "startTime": "2024-08-28T07:57:00",
+        "endTime": "2024-08-28T09:00:00",
+        "lastUpdated": "2024-08-28T07:57:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 144 (Kimball Jct/ SR-224 Jct) Summit Co.\nRight Lane Closed\nEst. Clearance Time: 8:00 AM",
+        "eventDescription": "Crash\nNB I-215 W at MP 18 (2900 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 9:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90976,
+          40.74966
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183402",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 307",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-08-28T08:00:00",
+        "endTime": "2024-08-28T09:00:00",
+        "lastUpdated": "2024-08-28T08:00:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 at MP 307 (600 S) Salt Lake Co.\nEst. Clearance Time: 9:00 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
