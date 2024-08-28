@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.741641,
-          40.741134
+          -111.913768,
+          40.763707
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183417",
+        "itemId": "UT-Incident--183420",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 132",
+        "operatorComment": " I-80 at MP 119",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline)",
+        "lanesAffected": "Lane 1",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-08-28T13:08:00",
-        "endTime": "2024-08-28T14:00:00",
-        "lastUpdated": "2024-08-28T13:08:00",
+        "linkDirection": "W",
+        "startTime": "2024-08-28T14:15:00",
+        "endTime": "2024-08-28T14:30:00",
+        "lastUpdated": "2024-08-28T14:15:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 132 (1 mi E of the Quarry) Salt Lake Co.\nEst. Clearance Time: 2:00 PM",
+        "eventDescription": "Stalled Vehicle\nWB I-80 at MP 119 (I-15 Jct) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 2:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     }
   ]
