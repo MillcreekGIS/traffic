@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.950611,
+          40.757646
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183428",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 EB X117 ON TO I-215W SB RAMP at I-215W SB FWY",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-80 EB X117 ON TO I-215W SB RAMP",
+        "linkDesignator": "I-80 EB X117 ON TO I-215W SB RAMP",
+        "linkDirection": "E",
+        "startTime": "2024-08-28T16:10:00",
+        "endTime": "2024-08-28T17:00:00",
+        "lastUpdated": "2024-08-28T16:10:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 ramp to SB I-215W \nLeft Shoulder\nEst. Clearance Time: 5:00 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
