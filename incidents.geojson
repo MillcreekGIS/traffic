@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.9058,
-          40.616846
+          -111.949915,
+          40.731947
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183474",
+        "itemId": "UT-Incident--183478",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 SB COL RAMP at I-15 SB COL RAMP",
+        "operatorComment": " I-215 W at MP 20",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-15 SB COL RAMP",
-        "linkDesignator": "I-15 SB COL RAMP",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
         "linkDirection": "S",
-        "startTime": "2024-08-29T16:22:00",
-        "endTime": "2024-08-29T17:15:00",
-        "lastUpdated": "2024-08-29T16:25:00",
+        "startTime": "2024-08-29T16:41:00",
+        "endTime": "2024-08-29T17:45:00",
+        "lastUpdated": "2024-08-29T16:41:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 Collector at MP 297 (7500 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:15 PM",
+        "eventDescription": "Crash\nSB I-215 W at MP 20 (California Ave) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
