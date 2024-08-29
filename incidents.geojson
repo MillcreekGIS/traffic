@@ -49,6 +49,55 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.985003,
+          40.609471
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183458",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 7800 S 3931",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "7800 S",
+        "linkDesignator": "7800 S",
+        "linkDirection": "E",
+        "startTime": "2024-08-29T09:11:00",
+        "endTime": "2024-08-29T10:09:00",
+        "lastUpdated": "2024-08-29T09:11:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB 7800 S at 3600 W Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 10:09 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
