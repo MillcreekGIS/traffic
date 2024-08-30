@@ -49,6 +49,55 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.904912,
+          40.85851
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183496",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 315",
+        "areaName": "Davis County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-08-30T02:03:00",
+        "endTime": "2024-08-30T03:03:00",
+        "lastUpdated": "2024-08-30T02:03:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Stalled Vehicle\nNB I-15 at MP 315 (2600 S, Woods X) Davis Co.\nRight Shoulder\nEst. Clearance Time: 3:03 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
+      }
     }
   ]
 }
