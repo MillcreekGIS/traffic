@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90152,
-          40.664677
+          -111.891485,
+          40.492398
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183481",
+        "itemId": "UT-Incident--183483",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 301",
+        "operatorComment": " I-15 at MP 289",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
-        "startTime": "2024-08-29T17:36:00",
-        "endTime": "2024-08-29T18:45:00",
-        "lastUpdated": "2024-08-29T17:36:00",
+        "startTime": "2024-08-29T18:20:00",
+        "endTime": "2024-08-29T19:15:00",
+        "lastUpdated": "2024-08-29T18:20:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 301 (4500 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:45 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 289 (14200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 7:15 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5442,
+          40.69088
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183484",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 224 at MP 9",
+        "areaName": "Summit County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 4",
+        "roadwayName": "SR 224",
+        "linkDesignator": "SR 224",
+        "linkDirection": "N",
+        "startTime": "2024-08-29T18:36:00",
+        "endTime": "2024-08-29T19:30:00",
+        "lastUpdated": "2024-08-29T18:36:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB SR 224 at MP 9 (Silver Springs Dr) Summit Co.\nRight Lane Closed\nEst. Clearance Time: 7:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
