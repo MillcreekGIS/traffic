@@ -49,6 +49,55 @@
         "eventSubTypeName": "Vehicle on fire",
         "eventSubTypeLongName": "Vehicle on fire"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.989813,
+          40.743304
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183507",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " CALIFORNIA AVE at BANGERTER NB HWY",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "CALIFORNIA AVE",
+        "linkDesignator": "CALIFORNIA AVE",
+        "linkDirection": "W",
+        "startTime": "2024-08-30T13:54:00",
+        "endTime": "2024-08-30T14:52:00",
+        "lastUpdated": "2024-08-30T13:59:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Bangerter Hwy at California Ave Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:52 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
