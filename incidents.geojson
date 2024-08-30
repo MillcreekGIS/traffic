@@ -55,55 +55,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90152,
-          40.664677
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183519",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 301",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-08-30T15:56:00",
-        "endTime": "2024-08-30T17:00:00",
-        "lastUpdated": "2024-08-30T15:56:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 301 (4500 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 5:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.873941,
           40.718459
         ]
@@ -178,72 +129,23 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-80 at MP 107",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 1, Lane 2",
+        "lanesAffected": "",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "W",
         "startTime": "2024-08-30T11:45:00",
-        "endTime": "2024-08-30T15:44:00",
-        "lastUpdated": "2024-08-30T13:29:00",
+        "endTime": "2024-08-30T16:30:00",
+        "lastUpdated": "2024-08-30T16:23:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on Fire\nWB I-80 Closed\n at MP 111 (7200 W) Salt Lake Co\nUse Alt Route",
+        "eventDescription": "Vehicle on fire\nWB I-80 at MP 107 (3 mi E of Saltair) Salt Lake Co.\nCleared at 4:23 PM\nEst. Clearance Time: 4:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Vehicle on fire",
         "eventSubTypeLongName": "Vehicle on fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.039659,
-          40.724933
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183513",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 10",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-08-30T14:39:00",
-        "endTime": "2024-08-30T15:38:00",
-        "lastUpdated": "2024-08-30T14:39:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 10 (5600 W) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 3:38 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
       }
     },
     {
