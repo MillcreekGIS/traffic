@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902252,
-          40.480607
+          -111.939116,
+          40.764793
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183556",
+        "itemId": "UT-Incident--183560",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 288",
+        "operatorComment": " Redwood Rd at MP 59",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "Ramp",
-        "startTime": "2024-08-31T12:58:00",
-        "endTime": "2024-08-31T13:56:00",
-        "lastUpdated": "2024-08-31T12:58:00",
+        "lanesAffected": "",
+        "roadwayName": "Redwood Rd",
+        "linkDesignator": "Redwood Rd",
+        "linkDirection": "N",
+        "startTime": "2024-08-31T13:57:00",
+        "endTime": "2024-08-31T14:56:00",
+        "lastUpdated": "2024-08-31T13:57:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on Fire\nRamp SB I-15 Exit 288 (14600 S) Closed\n Salt Lake Co.",
+        "eventDescription": "Crash\nNB Redwood Rd at MP 59 ( I-80 , Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:56 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
