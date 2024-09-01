@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.020546,
-          40.72572
+          -111.639522,
+          40.747703
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183568",
+        "itemId": "UT-Incident--183570",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 11",
+        "operatorComment": " I-80 at MP 138",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline)",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-08-31T19:03:00",
-        "endTime": "2024-08-31T20:00:00",
-        "lastUpdated": "2024-08-31T19:03:00",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-08-31T20:15:00",
+        "endTime": "2024-08-31T21:35:00",
+        "lastUpdated": "2024-08-31T20:15:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 11 (5200 W) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:00 PM",
+        "eventDescription": "Stalled Vehicle\nEB I-80 at MP 138 (2 mi E of Lambs Canyon) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 9:35 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     }
   ]
