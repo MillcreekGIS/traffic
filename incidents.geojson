@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98612,
+          40.767964
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183588",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Bangerter Hwy at MP 24",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "S",
+        "startTime": "2024-09-01T16:26:00",
+        "endTime": "2024-09-01T17:25:00",
+        "lastUpdated": "2024-09-01T16:26:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Bangerter Hwy at MP 24 (Airport/I-80 Jct) \nSalt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:25 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
