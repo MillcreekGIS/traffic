@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.095201,
-          40.717582
+          -111.949053,
+          40.746426
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183608",
+        "itemId": "UT-Incident--183609",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 7",
+        "operatorComment": " I-215 W at MP 21",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-09-02T11:37:00",
-        "endTime": "2024-09-02T12:45:00",
-        "lastUpdated": "2024-09-02T11:44:00",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-02T12:06:00",
+        "endTime": "2024-09-02T13:03:00",
+        "lastUpdated": "2024-09-02T12:06:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 7 (8400 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 12:45 PM",
+        "eventDescription": "Fire affecting roadway\nRamp NB I-215 W at MP 21 (Redwood Rd Exit) Salt Lake Co.\nRamp Closed\nEst. Clearance Time: 1:03 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Fire affecting roadway",
+        "eventSubTypeLongName": "Fire affecting roadway"
       }
     },
     {
@@ -85,8 +85,8 @@
         "linkDesignator": "I-80",
         "linkDirection": "W",
         "startTime": "2024-09-02T11:16:00",
-        "endTime": "2024-09-02T12:15:00",
-        "lastUpdated": "2024-09-02T11:53:00",
+        "endTime": "2024-09-02T15:15:00",
+        "lastUpdated": "2024-09-02T12:24:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
