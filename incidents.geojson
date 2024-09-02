@@ -1,4 +1,103 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.986694,
+          40.753564
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183592",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Bangerter Hwy at MP 23",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "S",
+        "startTime": "2024-09-01T19:44:00",
+        "endTime": "2024-09-01T20:42:00",
+        "lastUpdated": "2024-09-01T19:44:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Fire Affecting The Road\nSB Bangerter Hwy Closed\n at MP 23 (700 S) Salt Lake Co.\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Fire affecting roadway",
+        "eventSubTypeLongName": "Fire affecting roadway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.904912,
+          40.85851
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183593",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 315",
+        "areaName": "Davis County",
+        "lanesAffected": "Right Exit 2",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-09-01T19:51:00",
+        "endTime": "2024-09-01T20:48:00",
+        "lastUpdated": "2024-09-01T19:51:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Stalled Vehicle\nNB I-15 at MP 315 (2600 S, Woods X) Davis Co.\nRight Lane Closed\nEst. Clearance Time: 8:48 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
+      }
+    }
+  ]
 }
