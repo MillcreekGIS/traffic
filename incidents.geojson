@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.986694,
-          40.753564
+          -111.90475,
+          40.736823
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183592",
+        "itemId": "UT-Incident--183595",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 23",
+        "operatorComment": " I-15 at MP 306",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
         "linkDirection": "S",
-        "startTime": "2024-09-01T19:44:00",
-        "endTime": "2024-09-01T20:42:00",
-        "lastUpdated": "2024-09-01T20:30:00",
+        "startTime": "2024-09-01T21:12:00",
+        "endTime": "2024-09-01T22:11:00",
+        "lastUpdated": "2024-09-01T21:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Fire affecting roadway\nSB Bangerter Hwy at MP 23 (700 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 8:42 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 306 (1300 S Collector) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:11 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Fire affecting roadway",
-        "eventSubTypeLongName": "Fire affecting roadway"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
