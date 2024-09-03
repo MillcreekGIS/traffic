@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.98612,
-          40.767964
+          -111.951947,
+          40.688869
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183672",
+        "itemId": "UT-Incident--183676",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 24",
+        "operatorComment": " I-215 W at MP 17",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
+        "lanesAffected": "None",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
         "linkDirection": "S",
-        "startTime": "2024-09-03T15:58:00",
-        "endTime": "2024-09-03T17:00:00",
-        "lastUpdated": "2024-09-03T16:03:00",
+        "startTime": "2024-09-03T16:35:00",
+        "endTime": "2024-09-03T17:45:00",
+        "lastUpdated": "2024-09-03T16:35:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at MP 24 (Airport/I-80 Jct) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:00 PM",
+        "eventDescription": "Crash\nSB I-215 W at MP 17 (3500 S) Salt Lake Co.\nEst. Clearance Time: 5:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
