@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.944098,
-          40.522275
+          -111.91596,
+          40.831692
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183637",
+        "itemId": "UT-Incident--183638",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " 12600 S 1831",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "12600 S",
-        "linkDesignator": "12600 S",
-        "linkDirection": "E",
-        "startTime": "2024-09-03T02:10:00",
-        "endTime": "2024-09-03T03:10:00",
-        "lastUpdated": "2024-09-03T02:10:00",
+        "operatorComment": " I-15 at MP 313",
+        "areaName": "Davis County",
+        "lanesAffected": "Lane 3, Lane 4",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-09-03T04:06:00",
+        "endTime": "2024-09-03T05:05:00",
+        "lastUpdated": "2024-09-03T04:06:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB 12600 S at 1831 W (Salt Lake Co)\nEst. Clearance Time: 3:10 AM",
+        "eventDescription": "Crash\nNB I-15 at MP 313 (I-15/I-215 N Jct) Davis Co.\n2 Right Lanes Closed\nEst. Clearance Time: 5:05 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
