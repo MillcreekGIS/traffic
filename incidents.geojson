@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.910735,
+          40.777705
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183660",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 309",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-09-03T13:24:00",
+        "endTime": "2024-09-03T14:22:00",
+        "lastUpdated": "2024-09-03T13:25:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 309 (600 N) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 2:22 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.986296,
           40.723535
         ]
