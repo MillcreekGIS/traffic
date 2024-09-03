@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.944098,
+          40.522275
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183637",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 12600 S 1831",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "12600 S",
+        "linkDesignator": "12600 S",
+        "linkDirection": "E",
+        "startTime": "2024-09-03T02:10:00",
+        "endTime": "2024-09-03T03:10:00",
+        "lastUpdated": "2024-09-03T02:10:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB 12600 S at 1831 W (Salt Lake Co)\nEst. Clearance Time: 3:10 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
