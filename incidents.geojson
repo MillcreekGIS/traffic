@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.95364,
-          40.717792
+          -111.741641,
+          40.741134
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183634",
+        "itemId": "UT-Incident--183635",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 19",
+        "operatorComment": " I-80 at MP 132",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3, Lane 4",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-09-02T23:34:00",
+        "lanesAffected": "None",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-02T23:55:00",
         "endTime": "2024-09-03T01:00:00",
-        "lastUpdated": "2024-09-02T23:34:00",
+        "lastUpdated": "2024-09-02T23:55:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nSB I-215 W at MP 19 (1900 S) Salt Lake Co.\nCenter Lanes Closed\nEst. Clearance Time: 9/3/2024 1:00 AM",
+        "eventDescription": "HAZMAT\nI-80 at MP 132 On Ramp  (Salt Lake Co)\nEst. Clearance Time: 9/3/2024 1:00 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Vehicle on fire",
-        "eventSubTypeLongName": "Vehicle on fire"
+        "eventSubTypeName": "HAZMAT",
+        "eventSubTypeLongName": "HAZMAT"
       }
     }
   ]
