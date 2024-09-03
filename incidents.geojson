@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.801151,
-          40.712086
+          -111.959739,
+          40.696689
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183607",
+        "itemId": "UT-Incident--183626",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,74 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 128",
+        "operatorComment": " 3500 S 2821",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "3500 S",
+        "linkDesignator": "3500 S",
         "linkDirection": "W",
-        "startTime": "2024-09-02T11:16:00",
-        "endTime": "2024-09-02T20:15:00",
-        "lastUpdated": "2024-09-02T18:13:00",
+        "startTime": "2024-09-02T19:52:00",
+        "endTime": "2024-09-02T20:51:00",
+        "lastUpdated": "2024-09-02T19:53:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nWB I-80 at MP 128 (I-215 South Belt) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:15 PM",
+        "eventDescription": "Crash\nEB 3500 S at 2700 W Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 8:51 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Vehicle on fire",
-        "eventSubTypeLongName": "Vehicle on fire"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902252,
+          40.480607
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183627",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 288",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-09-02T19:56:00",
+        "endTime": "2024-09-02T20:55:00",
+        "lastUpdated": "2024-09-02T19:56:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Stalled Vehicle\nSB I-15 at MP 288 (14600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:55 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     }
   ]
