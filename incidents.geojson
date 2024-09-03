@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.953308,
-          40.69802
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183654",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215w SB X18 Off 3500 S Ramp at 3500 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-215w SB X18 Off 3500 S Ramp",
-        "linkDesignator": "I-215w SB X18 Off 3500 S Ramp",
-        "linkDirection": "S",
-        "startTime": "2024-09-03T10:38:00",
-        "endTime": "2024-09-03T11:45:00",
-        "lastUpdated": "2024-09-03T10:38:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W On Ramp at 3500 S Salt Lake Co.\nEst. Clearance Time: 11:45 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.90475,
           40.736823
         ]
