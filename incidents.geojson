@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902181,
+          40.679062
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183703",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 302",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-09-04T08:31:00",
+        "endTime": "2024-09-04T09:30:00",
+        "lastUpdated": "2024-09-04T08:31:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 at MP 302 (4100 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:30 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
