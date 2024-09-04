@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.910735,
-          40.777705
+          -111.888207,
+          40.732423
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183726",
+        "itemId": "UT-Incident--183731",
         "icon": {
           "size": [
             29,
@@ -78,74 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 309",
+        "operatorComment": " State St at 1700 S",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-04T17:10:00",
-        "endTime": "2024-09-04T18:35:00",
-        "lastUpdated": "2024-09-04T17:10:00",
+        "lanesAffected": "Lane 3",
+        "roadwayName": "State St",
+        "linkDesignator": "State St",
+        "linkDirection": "S",
+        "startTime": "2024-09-04T17:43:00",
+        "endTime": "2024-09-04T18:30:00",
+        "lastUpdated": "2024-09-04T17:43:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 309 (600 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:35 PM",
+        "eventDescription": "Police Incident\nSB State St at 1700 S Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 6:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.904691,
-          40.722344
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183725",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 305",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-04T16:50:00",
-        "endTime": "2024-09-04T18:00:00",
-        "lastUpdated": "2024-09-04T16:50:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 305 (2100 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Police incident",
+        "eventSubTypeLongName": "Police incident"
       }
     }
   ]
