@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.922481,
-          40.804836
+          -112.039503,
+          40.615715
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183752",
+        "itemId": "UT-Incident--183753",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 311",
+        "operatorComment": " Mountain View Corr at MP 16",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
+        "lanesAffected": "None",
+        "roadwayName": "Mountain View Corr",
+        "linkDesignator": "Mountain View Corr",
         "linkDirection": "S",
-        "startTime": "2024-09-05T08:51:00",
-        "endTime": "2024-09-05T09:50:00",
-        "lastUpdated": "2024-09-05T08:51:00",
+        "startTime": "2024-09-05T09:28:00",
+        "endTime": "2024-09-05T10:26:00",
+        "lastUpdated": "2024-09-05T09:28:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 311 (2300 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:50 AM",
+        "eventDescription": "Crash\nSB Mountain View Corr at MP 16 (7300 S) Salt Lake Co.\nEst. Clearance Time: 10:26 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
