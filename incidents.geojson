@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891485,
-          40.492398
+          -111.900284,
+          40.578741
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183806",
+        "itemId": "UT-Incident--183807",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 289",
+        "operatorComment": " I-15 at MP 295",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-09-06T12:37:00",
-        "endTime": "2024-09-06T13:37:00",
-        "lastUpdated": "2024-09-06T12:37:00",
+        "startTime": "2024-09-06T13:03:00",
+        "endTime": "2024-09-06T14:02:00",
+        "lastUpdated": "2024-09-06T13:03:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 1:37 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 295 (I-215 Collector) Salt Lake Co.\nLeft Shoulder\nRight Shoulder\nEst. Clearance Time: 2:02 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
