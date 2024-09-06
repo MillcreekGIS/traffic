@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90236,
-          40.649847
+          -111.90475,
+          40.736823
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183823",
+        "itemId": "UT-Incident--183824",
         "icon": {
           "size": [
             29,
@@ -29,119 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 300",
+        "operatorComment": " I-15 at MP 306",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "S",
-        "startTime": "2024-09-06T17:17:00",
-        "endTime": "2024-09-06T18:15:00",
-        "lastUpdated": "2024-09-06T17:17:00",
+        "startTime": "2024-09-06T17:28:00",
+        "endTime": "2024-09-06T18:30:00",
+        "lastUpdated": "2024-09-06T17:28:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 300 (5400 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:15 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.949053,
-          40.746426
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183822",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 21",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-09-06T17:03:00",
-        "endTime": "2024-09-06T18:00:00",
-        "lastUpdated": "2024-09-06T17:08:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 21 (1100 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.891485,
-          40.492398
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183820",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 289",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-06T16:42:00",
-        "endTime": "2024-09-06T17:45:00",
-        "lastUpdated": "2024-09-06T16:42:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.\nEst. Clearance Time: 5:45 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 306 (1300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
