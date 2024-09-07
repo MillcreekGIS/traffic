@@ -86,17 +86,17 @@
         "linkDirection": "E",
         "startTime": "2024-09-07T15:40:00",
         "endTime": "2024-09-07T16:39:00",
-        "lastUpdated": "2024-09-07T15:40:00",
+        "lastUpdated": "2024-09-07T15:50:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nEB SR 201 at MP 14 (3200 W) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 4:39 PM",
+        "eventDescription": "Crash\nEB SR 201 at MP 14 (3200 W) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 4:39 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
