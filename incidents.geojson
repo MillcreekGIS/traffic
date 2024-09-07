@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.953251,
-          40.765438
+          -111.902495,
+          40.592858
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183851",
+        "itemId": "UT-Incident--183854",
         "icon": {
           "size": [
             29,
@@ -78,25 +78,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 117",
+        "operatorComment": " I-15 at MP 296",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-09-07T14:14:00",
-        "endTime": "2024-09-07T15:15:00",
-        "lastUpdated": "2024-09-07T14:14:00",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-09-07T15:12:00",
+        "endTime": "2024-09-07T16:09:00",
+        "lastUpdated": "2024-09-07T15:17:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 117 (2600 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:15 PM",
+        "eventDescription": "Stalled Vehicle\nNB I-15 at MP 296 (8000 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:09 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
       }
     },
     {
