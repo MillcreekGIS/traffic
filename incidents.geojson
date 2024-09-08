@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.964362,
-          40.764918
+          -111.961175,
+          40.76518
         ]
       },
       "properties": {
@@ -31,13 +31,13 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-215 SB To I-80 WB Ramp at I-80 WB Fwy",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "None",
         "roadwayName": "I-215 SB To I-80 WB Ramp",
         "linkDesignator": "I-215 SB To I-80 WB Ramp",
         "linkDirection": "Ramp",
         "startTime": "2024-09-08T02:35:00",
         "endTime": "2024-09-08T04:00:00",
-        "lastUpdated": "2024-09-08T02:35:00",
+        "lastUpdated": "2024-09-08T02:37:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
