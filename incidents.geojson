@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.964362,
+          40.764918
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183877",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 SB To I-80 WB Ramp at I-80 WB Fwy",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 SB To I-80 WB Ramp",
+        "linkDesignator": "I-215 SB To I-80 WB Ramp",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-08T02:35:00",
+        "endTime": "2024-09-08T04:00:00",
+        "lastUpdated": "2024-09-08T02:35:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nRamp From I-215 W To I-80 WB Fwy Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
