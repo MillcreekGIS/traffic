@@ -55,55 +55,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.005114,
-          40.511499
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--183896",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " MOUNTAIN VIEW CORRIDOR HWY",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Left Exit 2, Left Exit 1 (closest to mainline), Lane 1, Lane 2, Lane 3",
-        "roadwayName": "MOUNTAIN VIEW CORRIDOR HWY",
-        "linkDesignator": "MOUNTAIN VIEW CORRIDOR HWY",
-        "linkDirection": "S",
-        "startTime": "2024-09-08T22:09:00",
-        "endTime": "2024-09-08T23:07:00",
-        "lastUpdated": "2024-09-08T22:11:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nAll Directions MOUNTAIN VIEW CORRIDOR HWY at 13200 S Salt Lake Co.\nEB Right Lane Closed\nWB Closed\nEst. Clearance Time: 11:07 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.90475,
           40.736823
         ]
