@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.938953,
-          40.725883
+          -111.891485,
+          40.492398
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183923",
+        "itemId": "UT-Incident--183928",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Redwood Rd at 2100 S",
+        "operatorComment": " I-15 at MP 289",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "Redwood Rd",
-        "linkDesignator": "Redwood Rd",
-        "linkDirection": "BOTHDIR",
-        "startTime": "2024-09-09T15:24:00",
-        "endTime": "2024-09-09T16:22:00",
-        "lastUpdated": "2024-09-09T15:24:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-09-09T16:18:00",
+        "endTime": "2024-09-09T17:17:00",
+        "lastUpdated": "2024-09-09T16:18:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nBoth Directions Redwood Rd at 2200 S Salt Lake Co.\nNB right lane closed\nSB left lane closed\nEst. Clearance Time: 4:22 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 289 (Bngrtr Hwy) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 5:17 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
