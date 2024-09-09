@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.943886,
+          40.724124
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--183918",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 at MP 15",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 2, Right Exit 1 (closest to mainline)",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-09T12:54:00",
+        "endTime": "2024-09-09T14:00:00",
+        "lastUpdated": "2024-09-09T12:55:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nRamp EB SR 201 at MP 15 (Redwood Road Exit) Salt Lake Co.\nExit Closed\nEst. Clearance Time: 2:00 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
