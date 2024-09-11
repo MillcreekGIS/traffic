@@ -104,55 +104,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.910735,
-          40.777705
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184034",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 309",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-11T16:20:00",
-        "endTime": "2024-09-11T17:35:00",
-        "lastUpdated": "2024-09-11T16:20:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 309 (600 N) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 5:35 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -112.064646,
           40.718811
         ]
@@ -183,14 +134,14 @@
         "linkDesignator": "Hwy 201",
         "linkDirection": "All",
         "startTime": "2024-09-11T16:39:00",
-        "endTime": "2024-09-11T17:30:00",
-        "lastUpdated": "2024-09-11T17:11:00",
+        "endTime": "2024-09-11T18:30:00",
+        "lastUpdated": "2024-09-11T17:37:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Signal problems\nAll Directions Hwy 201 at 7200 W Salt Lake Co.\nEst. Clearance Time: 5:30 PM",
+        "eventDescription": "Signal problems\nAll Directions Hwy 201 at 7200 W Salt Lake Co.\nEst. Clearance Time: 6:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Signal problems",
@@ -227,13 +178,13 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-215 W at MP 18",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
+        "lanesAffected": "",
         "roadwayName": "I-215 W",
         "linkDesignator": "I-215 W",
         "linkDirection": "S",
         "startTime": "2024-09-11T17:17:00",
         "endTime": "2024-09-11T18:15:00",
-        "lastUpdated": "2024-09-11T17:19:00",
+        "lastUpdated": "2024-09-11T17:36:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
