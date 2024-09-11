@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902252,
-          40.480607
+          -111.890933,
+          40.526715
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184024",
+        "itemId": "UT-Incident--184026",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 288",
+        "operatorComment": " I-15 NB X291 Off 12300 S WB Ramp at 12300 S",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
+        "lanesAffected": "None",
+        "roadwayName": "I-15 NB X291 Off 12300 S WB Ramp",
+        "linkDesignator": "I-15 NB X291 Off 12300 S WB Ramp",
         "linkDirection": "N",
-        "startTime": "2024-09-11T10:23:00",
-        "endTime": "2024-09-11T11:35:00",
-        "lastUpdated": "2024-09-11T10:23:00",
+        "startTime": "2024-09-11T10:58:00",
+        "endTime": "2024-09-11T12:00:00",
+        "lastUpdated": "2024-09-11T11:02:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 288 Off Ramp (14600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:35 AM",
+        "eventDescription": "Vehicle on fire\nNB I-15 Off Ramp at 12300 S (Draper) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 12:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
       }
     }
   ]
