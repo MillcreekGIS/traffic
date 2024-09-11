@@ -31,117 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " Bangerter Hwy at MP 19",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 6",
+        "lanesAffected": "Left Exit 2",
         "roadwayName": "Bangerter Hwy",
         "linkDesignator": "Bangerter Hwy",
         "linkDirection": "S",
         "startTime": "2024-09-11T16:54:00",
         "endTime": "2024-09-11T18:00:00",
-        "lastUpdated": "2024-09-11T16:54:00",
+        "lastUpdated": "2024-09-11T17:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at MP 19 (3500 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 6:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.989975,
-          40.739495
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184031",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 22",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "S",
-        "startTime": "2024-09-11T16:02:00",
-        "endTime": "2024-09-11T17:00:00",
-        "lastUpdated": "2024-09-11T16:02:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at MP 22 (1400 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.801151,
-          40.712086
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184033",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 128",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-09-11T16:18:00",
-        "endTime": "2024-09-11T17:35:00",
-        "lastUpdated": "2024-09-11T16:18:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 128 (I-215 South Belt) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:35 PM",
+        "eventDescription": "Crash\nSB Bangerter Hwy at MP 19 (3200 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 6:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -202,8 +104,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.056887,
-          40.718554
+          -112.064646,
+          40.718811
         ]
       },
       "properties": {
@@ -225,25 +127,74 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 9",
+        "operatorComment": " Hwy 201 at 7200 W",
         "areaName": "Salt Lake County",
         "lanesAffected": "None",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
+        "roadwayName": "Hwy 201",
+        "linkDesignator": "Hwy 201",
         "linkDirection": "All",
         "startTime": "2024-09-11T16:39:00",
         "endTime": "2024-09-11T17:30:00",
-        "lastUpdated": "2024-09-11T16:39:00",
+        "lastUpdated": "2024-09-11T17:11:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Signal problems\nAll Directions SR 201 at MP 9 (7200 W) Salt Lake Co.\nEst. Clearance Time: 5:30 PM",
+        "eventDescription": "Signal problems\nAll Directions Hwy 201 at 7200 W Salt Lake Co.\nEst. Clearance Time: 5:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Signal problems",
         "eventSubTypeLongName": "Signal problems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.95315,
+          40.703296
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184039",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 W at MP 18",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-09-11T17:17:00",
+        "endTime": "2024-09-11T18:15:00",
+        "lastUpdated": "2024-09-11T17:19:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-215 W at MP 18 (3400 S) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 6:15 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
