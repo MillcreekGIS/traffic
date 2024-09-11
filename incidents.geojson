@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.916128,
-          40.791232
+          -112.029834,
+          40.603452
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--183994",
+        "itemId": "UT-Incident--183997",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 310",
+        "operatorComment": " Mountain View Corr at MP 15",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
+        "lanesAffected": "None",
+        "roadwayName": "Mountain View Corr",
+        "linkDesignator": "Mountain View Corr",
         "linkDirection": "N",
-        "startTime": "2024-09-10T17:50:00",
-        "endTime": "2024-09-10T19:00:00",
-        "lastUpdated": "2024-09-10T17:50:00",
+        "startTime": "2024-09-10T19:32:00",
+        "endTime": "2024-09-10T20:30:00",
+        "lastUpdated": "2024-09-10T19:32:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 310 (1000 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:00 PM",
+        "eventDescription": "Crash\nNB Mountain View Corr at MP 15 (8200 S) Salt Lake Co.\nEst. Clearance Time: 8:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
