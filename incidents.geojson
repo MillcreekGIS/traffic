@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.980508,
-          40.697345
+          -112.186308,
+          40.742835
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184038",
+        "itemId": "UT-Incident--184046",
         "icon": {
           "size": [
             29,
@@ -29,168 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 19",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Left Exit 2",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "S",
-        "startTime": "2024-09-11T16:54:00",
-        "endTime": "2024-09-11T18:00:00",
-        "lastUpdated": "2024-09-11T17:12:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at MP 19 (3200 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 6:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.90397,
-          40.707874
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184042",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 304",
+        "operatorComment": " I-80 at MP 104",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-09-11T17:47:00",
-        "endTime": "2024-09-11T19:00:00",
-        "lastUpdated": "2024-09-11T17:47:00",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-09-11T18:59:00",
+        "endTime": "2024-09-11T20:00:00",
+        "lastUpdated": "2024-09-11T18:59:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 304 (2700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.064646,
-          40.718811
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184035",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Hwy 201 at 7200 W",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "Hwy 201",
-        "linkDesignator": "Hwy 201",
-        "linkDirection": "All",
-        "startTime": "2024-09-11T16:39:00",
-        "endTime": "2024-09-11T18:30:00",
-        "lastUpdated": "2024-09-11T17:37:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Signal problems\nAll Directions Hwy 201 at 7200 W Salt Lake Co.\nEst. Clearance Time: 6:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Signal problems",
-        "eventSubTypeLongName": "Signal problems"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.95315,
-          40.703296
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184039",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 18",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-09-11T17:17:00",
-        "endTime": "2024-09-11T18:15:00",
-        "lastUpdated": "2024-09-11T17:36:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 18 (3400 S) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 6:15 PM",
+        "eventDescription": "Crash\nEB I-80 at MP 104 (SR-202 Exit / Saltair) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
