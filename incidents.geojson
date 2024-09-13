@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.962907,
-          40.72606
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184132",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 14",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline)",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-09-13T13:12:00",
-        "endTime": "2024-09-13T14:11:00",
-        "lastUpdated": "2024-09-13T13:12:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nEB SR 201 at MP 14 (Redwood Rd) Salt Lake Co.\nNB Redwood Rd Exit Closed\nEst. Clearance Time: 2:11 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.90397,
           40.707874
         ]
@@ -85,14 +36,14 @@
         "linkDesignator": "I-15",
         "linkDirection": "N",
         "startTime": "2024-09-13T13:08:00",
-        "endTime": "2024-09-13T14:08:00",
-        "lastUpdated": "2024-09-13T13:31:00",
+        "endTime": "2024-09-13T15:08:00",
+        "lastUpdated": "2024-09-13T14:02:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 304 (2700 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 2:08 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 304 (2700 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 3:08 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
