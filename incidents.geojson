@@ -55,8 +55,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.894817,
-          40.718121
+          -111.893095,
+          40.718332
         ]
       },
       "properties": {
@@ -78,15 +78,15 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 EB Fwy at State St",
+        "operatorComment": " I-80 at MP 123",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-80 EB Fwy",
-        "linkDesignator": "I-80 EB Fwy",
-        "linkDirection": "NE",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
         "startTime": "2024-09-13T10:42:00",
         "endTime": "2024-09-13T11:40:00",
-        "lastUpdated": "2024-09-13T10:43:00",
+        "lastUpdated": "2024-09-13T11:09:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
