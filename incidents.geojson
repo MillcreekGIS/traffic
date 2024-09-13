@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.951947,
+          40.688869
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184128",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 W at MP 17",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3, Lane 4",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
+        "linkDirection": "S",
+        "startTime": "2024-09-13T12:04:00",
+        "endTime": "2024-09-13T13:02:00",
+        "lastUpdated": "2024-09-13T12:06:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Vehicle on fire\nSB I-215 W 3500 S exit Closed\nSalt Lake Co.\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.893095,
           40.718332
         ]
@@ -44,55 +93,6 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nWB I-80 at MP 123 (I-15 Jct) Salt Lake Co.\nRight 2 Lanes Closed\nEst. Clearance Time: 12:50 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.893095,
-          40.718332
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184125",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 123",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-09-13T10:42:00",
-        "endTime": "2024-09-13T12:40:00",
-        "lastUpdated": "2024-09-13T11:38:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 collector to SB I-15 and WB SR-201  Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 12:40 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
