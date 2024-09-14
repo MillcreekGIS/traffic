@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.896336,
-          40.550055
+          -111.893095,
+          40.718332
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184182",
+        "itemId": "UT-Incident--184183",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 293",
+        "operatorComment": " I-80 at MP 123",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-09-14T13:52:00",
-        "endTime": "2024-09-14T14:51:00",
-        "lastUpdated": "2024-09-14T13:52:00",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-09-14T14:19:00",
+        "endTime": "2024-09-14T15:15:00",
+        "lastUpdated": "2024-09-14T14:19:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 293 (10600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:51 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 123 (I-15 Jct) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 3:15 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
