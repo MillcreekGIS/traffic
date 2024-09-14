@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.544709,
-          40.719592
+          -111.981592,
+          40.68297
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184185",
+        "itemId": "UT-Incident--184187",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 224 at MP 11",
-        "areaName": "Summit County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "SR 224",
-        "linkDesignator": "SR 224",
-        "linkDirection": "N",
-        "startTime": "2024-09-14T15:25:00",
-        "endTime": "2024-09-14T16:24:00",
-        "lastUpdated": "2024-09-14T15:25:00",
+        "operatorComment": " Bangerter Hwy at MP 18",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 3",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "S",
+        "startTime": "2024-09-14T16:06:00",
+        "endTime": "2024-09-14T17:00:00",
+        "lastUpdated": "2024-09-14T16:06:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB SR 224 at MP 11 (Newpark Town Center) Summit Co.\nLeft Lane Closed\nEst. Clearance Time: 4:24 PM",
+        "eventDescription": "Crash\nSB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.\nRight Lanes Closed\nEst. Clearance Time: 5:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
