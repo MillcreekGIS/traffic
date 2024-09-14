@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.98629,
-          40.725407
+          -111.587294,
+          40.755521
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184177",
+        "itemId": "UT-Incident--184179",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 21",
-        "areaName": "Salt Lake County",
+        "operatorComment": " I-80 at MP 141",
+        "areaName": "Summit County",
         "lanesAffected": "",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "N",
-        "startTime": "2024-09-14T10:17:00",
-        "endTime": "2024-09-14T11:17:00",
-        "lastUpdated": "2024-09-14T10:17:00",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-09-14T12:13:00",
+        "endTime": "2024-09-14T13:13:00",
+        "lastUpdated": "2024-09-14T12:13:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Bangerter Hwy at MP 21 (SR-201 Jct) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:17 AM",
+        "eventDescription": "Crash\nEB I-80 at MP 141 (Jeremy Ranch / Park City) Summit Co.\nRight Shoulder\nEst. Clearance Time: 1:13 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
