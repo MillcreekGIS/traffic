@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.953251,
-          40.765438
+          -111.685808,
+          40.575273
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184218",
+        "itemId": "UT-Incident--184220",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 117",
+        "operatorComment": " SR 210 at MP 9",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
+        "roadwayName": "SR 210",
+        "linkDesignator": "SR 210",
         "linkDirection": "E",
-        "startTime": "2024-09-15T13:46:00",
-        "endTime": "2024-09-15T14:45:00",
-        "lastUpdated": "2024-09-15T13:46:00",
+        "startTime": "2024-09-15T14:23:00",
+        "endTime": "2024-09-15T15:22:00",
+        "lastUpdated": "2024-09-15T14:23:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:45 PM",
+        "eventDescription": "Crash\nEB SR 210 at MP 9 (White Pine) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:22 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
