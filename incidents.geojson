@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.890899,
+          40.588029
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184222",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " State St at 9000 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "State St",
+        "linkDesignator": "State St",
+        "linkDirection": "S",
+        "startTime": "2024-09-15T15:42:00",
+        "endTime": "2024-09-15T16:41:00",
+        "lastUpdated": "2024-09-15T15:42:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB State St at 9000 S Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 4:41 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
