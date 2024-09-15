@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.899099,
-          40.884239
+          -111.934049,
+          40.765772
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184194",
+        "itemId": "UT-Incident--184195",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " 500 S at 700 W",
-        "areaName": "Davis County",
-        "lanesAffected": "None",
-        "roadwayName": "500 S",
-        "linkDesignator": "500 S",
-        "linkDirection": "Unknown",
-        "startTime": "2024-09-14T19:11:00",
-        "endTime": "2024-09-14T20:00:00",
-        "lastUpdated": "2024-09-14T19:11:00",
+        "operatorComment": " I-80 at MP 118",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-09-14T19:31:00",
+        "endTime": "2024-09-14T20:30:00",
+        "lastUpdated": "2024-09-14T19:31:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\n500 S at 700 W Davis Co.\nEst. Clearance Time: 8:00 PM",
+        "eventDescription": "Crash\nEB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 8:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
