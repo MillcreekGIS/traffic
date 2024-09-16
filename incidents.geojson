@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.981506,
-          40.668487
+          -111.891246,
+          40.52103
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184274",
+        "itemId": "UT-Incident--184277",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at MP 17",
+        "operatorComment": " I-15 at MP 291",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-09-16T17:09:00",
-        "endTime": "2024-09-16T18:10:00",
-        "lastUpdated": "2024-09-16T17:09:00",
+        "startTime": "2024-09-16T17:32:00",
+        "endTime": "2024-09-16T18:31:00",
+        "lastUpdated": "2024-09-16T17:32:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Bangerter Hwy at MP 17 (4700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:10 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 291 (12300 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 6:31 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
