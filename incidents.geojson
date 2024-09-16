@@ -49,55 +49,6 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.891485,
-          40.492398
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184232",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 289",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "Ramp",
-        "startTime": "2024-09-15T21:31:00",
-        "endTime": "2024-09-15T22:30:00",
-        "lastUpdated": "2024-09-15T21:44:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nRamp I-15 Closed\n at MP 289 (Bngrtr Hwy) Salt Lake Co.",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
     }
   ]
 }
