@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.949343,
-          40.775011
+          -112.028497,
+          40.771201
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184270",
+        "itemId": "UT-Incident--184273",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 23",
+        "operatorComment": " I-80 at MP 113",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
         "linkDirection": "Ramp",
-        "startTime": "2024-09-16T15:57:00",
-        "endTime": "2024-09-16T16:55:00",
-        "lastUpdated": "2024-09-16T15:57:00",
+        "startTime": "2024-09-16T16:49:00",
+        "endTime": "2024-09-16T17:47:00",
+        "lastUpdated": "2024-09-16T16:49:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Off Ramp I-215 W at MP 23 (700 N) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:55 PM",
+        "eventDescription": "Crash\nRamp EB I-80 at MP 113 (5600 W / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:47 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
