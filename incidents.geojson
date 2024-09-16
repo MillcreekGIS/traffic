@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.724705,
+          40.747119
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184246",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 133",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-09-16T07:55:00",
+        "endTime": "2024-09-16T09:00:00",
+        "lastUpdated": "2024-09-16T07:55:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 9:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.990093,
           40.522295
         ]
@@ -55,12 +104,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.003326,
-          40.494708
+          -111.891228,
+          40.506678
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184244",
+        "itemId": "UT-Incident--184247",
         "icon": {
           "size": [
             29,
@@ -78,21 +127,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Mountain View Corr at MP 7",
+        "operatorComment": " I-15 at MP 290",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "Mountain View Corr",
-        "linkDesignator": "Mountain View Corr",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
         "linkDirection": "S",
-        "startTime": "2024-09-16T07:14:00",
-        "endTime": "2024-09-16T08:35:00",
-        "lastUpdated": "2024-09-16T07:37:00",
+        "startTime": "2024-09-16T08:13:00",
+        "endTime": "2024-09-16T09:35:00",
+        "lastUpdated": "2024-09-16T08:13:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Mountain View Corr at MP 7 (1 mi W of Juniper Canyon) Salt Lake Co.\nCleared at 7:37 AM\nEst. Clearance Time: 8:35 AM",
+        "eventDescription": "Crash\nSB I-15 at MP 290 (13200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 9:35 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -109,7 +158,7 @@
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184245",
+        "itemId": "UT-Incident--184248",
         "icon": {
           "size": [
             29,
@@ -132,16 +181,16 @@
         "lanesAffected": "None",
         "roadwayName": "Bangerter Hwy",
         "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "S",
-        "startTime": "2024-09-16T07:27:00",
-        "endTime": "2024-09-16T08:30:00",
-        "lastUpdated": "2024-09-16T07:27:00",
+        "linkDirection": "N",
+        "startTime": "2024-09-16T08:14:00",
+        "endTime": "2024-09-16T09:15:00",
+        "lastUpdated": "2024-09-16T08:14:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.\nEst. Clearance Time: 8:30 AM",
+        "eventDescription": "Crash\nNB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.\nEst. Clearance Time: 9:15 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
