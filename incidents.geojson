@@ -1,4 +1,152 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.990093,
+          40.522295
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184243",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 12600 S 4331",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "12600 S",
+        "linkDesignator": "12600 S",
+        "linkDirection": "E",
+        "startTime": "2024-09-16T07:12:00",
+        "endTime": "2024-09-16T08:35:00",
+        "lastUpdated": "2024-09-16T07:12:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB 12600 S @ 4150 W Salt Lake Co.\nEst. Clearance Time: 8:35 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.003326,
+          40.494708
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184244",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Mountain View Corr at MP 7",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "Mountain View Corr",
+        "linkDesignator": "Mountain View Corr",
+        "linkDirection": "S",
+        "startTime": "2024-09-16T07:14:00",
+        "endTime": "2024-09-16T08:35:00",
+        "lastUpdated": "2024-09-16T07:14:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Mountain View Corr at MP 7 (1 mi W of Juniper Canyon) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 8:35 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.981592,
+          40.68297
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184245",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " Bangerter Hwy at MP 18",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "S",
+        "startTime": "2024-09-16T07:27:00",
+        "endTime": "2024-09-16T08:30:00",
+        "lastUpdated": "2024-09-16T07:27:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.\nEst. Clearance Time: 8:30 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
