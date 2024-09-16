@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.724705,
-          40.747119
+          -111.902252,
+          40.480607
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184246",
+        "itemId": "UT-Incident--184250",
         "icon": {
           "size": [
             29,
@@ -29,119 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 133",
+        "operatorComment": " I-15 at MP 288",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-09-16T07:55:00",
-        "endTime": "2024-09-16T09:00:00",
-        "lastUpdated": "2024-09-16T07:55:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 9:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.990093,
-          40.522295
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184243",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 12600 S 4331",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "12600 S",
-        "linkDesignator": "12600 S",
-        "linkDirection": "E",
-        "startTime": "2024-09-16T07:12:00",
-        "endTime": "2024-09-16T08:35:00",
-        "lastUpdated": "2024-09-16T07:12:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB 12600 S @ 4150 W Salt Lake Co.\nEst. Clearance Time: 8:35 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.891228,
-          40.506678
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184247",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 290",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "None",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-09-16T08:13:00",
-        "endTime": "2024-09-16T09:35:00",
-        "lastUpdated": "2024-09-16T08:13:00",
+        "linkDirection": "N",
+        "startTime": "2024-09-16T08:18:00",
+        "endTime": "2024-09-16T09:30:00",
+        "lastUpdated": "2024-09-16T08:18:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 290 (13200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 9:35 AM",
+        "eventDescription": "Crash\nNB I-15 at MP 288 (14600 S) Salt Lake Co.\nEst. Clearance Time: 9:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
