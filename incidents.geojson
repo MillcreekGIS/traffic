@@ -104,55 +104,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.949406,
-          40.803702
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184333",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 25",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "N",
-        "startTime": "2024-09-17T12:37:00",
-        "endTime": "2024-09-17T13:45:00",
-        "lastUpdated": "2024-09-17T12:37:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215 W at MP 25 (2100 N,) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 1:45 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.951068,
           40.760605
         ]
