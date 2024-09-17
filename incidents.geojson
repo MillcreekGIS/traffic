@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.949343,
-          40.775011
+          -111.982034,
+          40.725733
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184316",
+        "itemId": "UT-Incident--184325",
         "icon": {
           "size": [
             29,
@@ -29,70 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 23",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "N",
-        "startTime": "2024-09-17T09:06:00",
-        "endTime": "2024-09-17T10:15:00",
-        "lastUpdated": "2024-09-17T09:06:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215 W at MP 23 (700 N) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 10:15 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.90236,
-          40.649847
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184321",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 300",
+        "operatorComment": " SR 201 at MP 13",
         "areaName": "Salt Lake County",
         "lanesAffected": "None",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-17T09:24:00",
-        "endTime": "2024-09-17T10:30:00",
-        "lastUpdated": "2024-09-17T09:24:00",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-09-17T09:55:00",
+        "endTime": "2024-09-17T11:00:00",
+        "lastUpdated": "2024-09-17T09:55:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 300 (5200 S) Salt Lake Co.\nEst. Clearance Time: 10:30 AM",
+        "eventDescription": "Crash\nWB SR 201 at MP 13 (3200 W) Salt Lake Co.\nEst. Clearance Time: 11:00 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
