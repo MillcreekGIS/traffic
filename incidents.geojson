@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.953251,
-          40.765438
+          -111.914012,
+          40.636258
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184291",
+        "itemId": "UT-Incident--184297",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 117",
+        "operatorComment": " I-215 S at MP 12",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-09-17T07:01:00",
-        "endTime": "2024-09-17T08:00:00",
-        "lastUpdated": "2024-09-17T07:01:00",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "W",
+        "startTime": "2024-09-17T07:43:00",
+        "endTime": "2024-09-17T08:45:00",
+        "lastUpdated": "2024-09-17T07:43:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.\nEst. Clearance Time: 8:00 AM",
+        "eventDescription": "Crash\nWB I-215 S at MP 12 (1200 W) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 8:45 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -232,8 +232,8 @@
         "linkDesignator": "SR 201",
         "linkDirection": "Ramp",
         "startTime": "2024-09-17T06:03:00",
-        "endTime": "2024-09-17T07:30:00",
-        "lastUpdated": "2024-09-17T07:08:00",
+        "endTime": "2024-09-17T08:30:00",
+        "lastUpdated": "2024-09-17T07:34:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
