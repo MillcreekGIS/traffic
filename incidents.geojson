@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.896336,
-          40.550055
+          -111.91569,
+          40.825133
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184344",
+        "itemId": "UT-Incident--184349",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 293",
-        "areaName": "Salt Lake County",
+        "operatorComment": " US 89 at MP 384",
+        "areaName": "Davis County",
         "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
+        "roadwayName": "US 89",
+        "linkDesignator": "US 89",
         "linkDirection": "S",
-        "startTime": "2024-09-17T15:32:00",
-        "endTime": "2024-09-17T16:30:00",
-        "lastUpdated": "2024-09-17T15:32:00",
+        "startTime": "2024-09-17T16:41:00",
+        "endTime": "2024-09-17T17:45:00",
+        "lastUpdated": "2024-09-17T16:41:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 Offramp at MP 293 (10600 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:30 PM",
+        "eventDescription": "Crash\nSB US 89 at MP 384 (800 S / North SLC) Davis Co.\nRight Shoulder\nEst. Clearance Time: 5:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
