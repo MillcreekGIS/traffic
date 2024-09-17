@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.982034,
-          40.725733
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184325",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 13",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-09-17T09:55:00",
-        "endTime": "2024-09-17T11:00:00",
-        "lastUpdated": "2024-09-17T09:55:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 13 (3200 W) Salt Lake Co.\nEst. Clearance Time: 11:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.639522,
           40.747703
         ]
@@ -129,19 +80,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-80 at MP 123",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
+        "lanesAffected": "Right Exit 2, Right Exit 1 (closest to mainline), Lane 1, Lane 2, Lane 3",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "W",
         "startTime": "2024-09-17T10:48:00",
         "endTime": "2024-09-17T12:00:00",
-        "lastUpdated": "2024-09-17T10:51:00",
+        "lastUpdated": "2024-09-17T11:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 123 (I-15 Jct) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 12:00 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 123 On Ramp (I-15 Jct) Salt Lake Co.\nUse Alt \nEst. Clearance Time: 12:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
