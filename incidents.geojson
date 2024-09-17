@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90397,
-          40.707874
+          -111.981592,
+          40.68297
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184301",
+        "itemId": "UT-Incident--184313",
         "icon": {
           "size": [
             29,
@@ -29,70 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 304",
+        "operatorComment": " Bangerter Hwy at MP 18",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-09-17T08:08:00",
-        "endTime": "2024-09-17T09:15:00",
-        "lastUpdated": "2024-09-17T08:08:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 304 (2700 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:15 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.949988,
-          40.765333
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184303",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-215w SB X22 To I-80 EB Col Ramp at I-215w NB Fwy",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-215w SB X22 To I-80 EB Col Ramp",
-        "linkDesignator": "I-215w SB X22 To I-80 EB Col Ramp",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 6",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
         "linkDirection": "N",
-        "startTime": "2024-09-17T08:12:00",
-        "endTime": "2024-09-17T09:15:00",
-        "lastUpdated": "2024-09-17T08:12:00",
+        "startTime": "2024-09-17T08:51:00",
+        "endTime": "2024-09-17T10:00:00",
+        "lastUpdated": "2024-09-17T08:51:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215w Collector to EB I-80 Salt Lake Co.\nEst. Clearance Time: 9:15 AM",
+        "eventDescription": "Crash\nNB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 10:00 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
