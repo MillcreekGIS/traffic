@@ -104,12 +104,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.0315,
-          40.669943
+          -111.724705,
+          40.747119
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184310",
+        "itemId": "UT-Incident--184324",
         "icon": {
           "size": [
             29,
@@ -127,21 +127,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Mountain View Corr at MP 20",
+        "operatorComment": " I-80 at MP 133",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "Mountain View Corr",
-        "linkDesignator": "Mountain View Corr",
-        "linkDirection": "N",
-        "startTime": "2024-09-17T08:38:00",
-        "endTime": "2024-09-17T09:45:00",
-        "lastUpdated": "2024-09-17T08:38:00",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-09-17T09:46:00",
+        "endTime": "2024-09-17T10:46:00",
+        "lastUpdated": "2024-09-17T09:46:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Mountain View Corr at MP 20 (4100 S) Salt Lake Co.\nEst. Clearance Time: 9:45 AM",
+        "eventDescription": "Crash\nWB I-80 at MP 133 (Emigration Canyon) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 10:46 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
