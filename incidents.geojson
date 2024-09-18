@@ -55,55 +55,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.891228,
-          40.506678
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184389",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 290",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-09-18T12:08:00",
-        "endTime": "2024-09-18T13:15:00",
-        "lastUpdated": "2024-09-18T12:08:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Debris\nSB I-15 at MP 290 (13200 S) Salt Lake Co.\nCleared at 12:08 PM\nEst. Clearance Time: 1:15 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Debris",
-        "eventSubTypeLongName": "Debris"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.657734,
           40.74385
         ]
