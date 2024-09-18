@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.809813,
+          40.7186
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184367",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " FOOTHILL DR 2411",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "FOOTHILL DR",
+        "linkDesignator": "FOOTHILL DR",
+        "linkDirection": "S",
+        "startTime": "2024-09-17T23:02:00",
+        "endTime": "2024-09-18T00:15:00",
+        "lastUpdated": "2024-09-17T23:05:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB Foothill Dr at Parleys Way Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 9/18/2024 12:15 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
