@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.821002,
+          40.634375
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184376",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 S at MP 7",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "W",
+        "startTime": "2024-09-18T08:43:00",
+        "endTime": "2024-09-18T09:45:00",
+        "lastUpdated": "2024-09-18T08:45:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB I-215 S Off Ramp at MP 7 (2300 E) Salt Lake Co.\nEst. Clearance Time: 9:45 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
