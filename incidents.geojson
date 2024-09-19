@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.544667,
+          40.72187
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184434",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " HWY 224 6241",
+        "areaName": "Summit County",
+        "lanesAffected": "None",
+        "roadwayName": "HWY 224",
+        "linkDesignator": "HWY 224",
+        "linkDirection": "BOTHDIR",
+        "startTime": "2024-09-19T13:18:00",
+        "endTime": "2024-09-19T14:17:00",
+        "lastUpdated": "2024-09-19T13:22:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Stalled Vehicle\nNB HWY 224 at Olympic Pkwy Summit Co.\nCenter Turning Lane Closed\nEst. Clearance Time: 2:17 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Stalled Vehicle",
+        "eventSubTypeLongName": "Stalled Vehicle"
+      }
+    }
+  ]
 }
