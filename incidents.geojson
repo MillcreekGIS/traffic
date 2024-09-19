@@ -55,6 +55,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.904877,
+          40.720369
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184430",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 WB TO SR 201 WB RAMP at SR 201 WB",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "I-80 WB TO SR 201 WB RAMP",
+        "linkDesignator": "I-80 WB TO SR 201 WB RAMP",
+        "linkDirection": "W",
+        "startTime": "2024-09-19T09:47:00",
+        "endTime": "2024-09-19T11:00:00",
+        "lastUpdated": "2024-09-19T09:47:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Vehicle on fire\nWB I-80  TO SR 201  RAMP at SR 201 WB Salt Lake Co.\nUse Alt Route\nEst. Clearance Time: 11:00 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.821002,
           40.634375
         ]
@@ -93,6 +142,55 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nSB I-215 S at MP 7 (2300 E) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 10:35 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.114369,
+          40.71806
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184431",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 at MP 6",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 4",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "E",
+        "startTime": "2024-09-19T09:47:00",
+        "endTime": "2024-09-19T10:45:00",
+        "lastUpdated": "2024-09-19T09:47:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB SR 201 at MP 6 (9180 W) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 10:45 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
