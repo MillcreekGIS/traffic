@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.977077,
-          40.561915
+          -111.819005,
+          40.713146
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184423",
+        "itemId": "UT-Incident--184426",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 151 at MP 0",
+        "operatorComment": " I-80 at MP 127",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "SR 151",
-        "linkDesignator": "SR 151",
-        "linkDirection": "E",
-        "startTime": "2024-09-19T07:42:00",
-        "endTime": "2024-09-19T08:45:00",
-        "lastUpdated": "2024-09-19T07:42:00",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-09-19T08:06:00",
+        "endTime": "2024-09-19T09:15:00",
+        "lastUpdated": "2024-09-19T08:06:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 151 at MP 0 (Bangerter Hwy) Salt Lake Co.\nLeft Lanes Closed\nEst. Clearance Time: 8:45 AM",
+        "eventDescription": "Crash\nWB I-80 at MP 127 (2300 E / Holladay) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 9:15 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
