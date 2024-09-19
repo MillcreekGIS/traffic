@@ -6,104 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.708179,
-          40.750653
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184427",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 134",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-09-19T08:59:00",
-        "endTime": "2024-09-19T10:15:00",
-        "lastUpdated": "2024-09-19T09:10:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 134 (Emigration Canyon) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 10:15 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.904877,
-          40.720369
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184430",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 WB TO SR 201 WB RAMP at SR 201 WB",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "I-80 WB TO SR 201 WB RAMP",
-        "linkDesignator": "I-80 WB TO SR 201 WB RAMP",
-        "linkDirection": "W",
-        "startTime": "2024-09-19T09:47:00",
-        "endTime": "2024-09-19T11:00:00",
-        "lastUpdated": "2024-09-19T09:47:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nWB I-80  TO SR 201  RAMP at SR 201 WB Salt Lake Co.\nUse Alt Route\nEst. Clearance Time: 11:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Vehicle on fire",
-        "eventSubTypeLongName": "Vehicle on fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.821002,
           40.634375
         ]
@@ -129,19 +31,19 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-215 S at MP 7",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
+        "lanesAffected": "",
         "roadwayName": "I-215 S",
         "linkDesignator": "I-215 S",
         "linkDirection": "S",
         "startTime": "2024-09-19T09:38:00",
         "endTime": "2024-09-19T10:35:00",
-        "lastUpdated": "2024-09-19T09:41:00",
+        "lastUpdated": "2024-09-19T10:11:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 S at MP 7 (2300 E) Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 10:35 AM",
+        "eventDescription": "Crash\nSB I-215 S at MP 7 (2300 E) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:35 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
