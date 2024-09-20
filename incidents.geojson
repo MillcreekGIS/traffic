@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.893095,
-          40.718332
+          -111.819005,
+          40.713146
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184471",
+        "itemId": "UT-Incident--184474",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 123",
+        "operatorComment": " I-80 at MP 127",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "Lane 1",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "E",
-        "startTime": "2024-09-20T08:16:00",
-        "endTime": "2024-09-20T09:15:00",
-        "lastUpdated": "2024-09-20T08:16:00",
+        "startTime": "2024-09-20T09:13:00",
+        "endTime": "2024-09-20T10:12:00",
+        "lastUpdated": "2024-09-20T09:14:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 123 (I-15 Jct) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:15 AM",
+        "eventDescription": "Crash\nEB I-80 at MP 127 (2000 E / Holladay) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 10:12 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
