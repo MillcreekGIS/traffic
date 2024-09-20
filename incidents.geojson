@@ -147,6 +147,55 @@
         "eventSubTypeName": "Lane Closure",
         "eventSubTypeLongName": "Lane Closure"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.986402,
+          40.725559
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184480",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " BANGERTER HWY 2101",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "BANGERTER HWY",
+        "linkDesignator": "BANGERTER HWY",
+        "linkDirection": "S",
+        "startTime": "2024-09-20T11:14:00",
+        "endTime": "2024-09-20T12:12:00",
+        "lastUpdated": "2024-09-20T11:30:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB BANGERTER HWY (SR-201)\nSalt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 12:12 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
