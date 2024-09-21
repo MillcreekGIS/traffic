@@ -36,63 +36,14 @@
         "linkDesignator": "I-15",
         "linkDirection": "N",
         "startTime": "2024-09-20T14:39:00",
-        "endTime": "2024-09-20T15:40:00",
-        "lastUpdated": "2024-09-20T14:39:00",
+        "endTime": "2024-09-20T19:30:00",
+        "lastUpdated": "2024-09-20T17:49:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 302 (4100 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 3:40 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.892927,
-          40.53585
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184494",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 292",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-20T17:08:00",
-        "endTime": "2024-09-20T18:07:00",
-        "lastUpdated": "2024-09-20T17:08:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 292 (11400 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:07 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 302 (4100 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 7:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
