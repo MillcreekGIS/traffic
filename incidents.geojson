@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.888204,
-          40.718789
+          -111.949053,
+          40.746426
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184557",
+        "itemId": "UT-Incident--184558",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " STATE ST 2361",
+        "operatorComment": " I-215 W at MP 21",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Left Exit 1 (closest to mainline), Lane 1, Lane 2",
-        "roadwayName": "STATE ST",
-        "linkDesignator": "STATE ST",
+        "lanesAffected": "",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
         "linkDirection": "S",
-        "startTime": "2024-09-22T15:33:00",
-        "endTime": "2024-09-22T16:32:00",
-        "lastUpdated": "2024-09-22T15:33:00",
+        "startTime": "2024-09-22T16:40:00",
+        "endTime": "2024-09-22T17:39:00",
+        "lastUpdated": "2024-09-22T16:40:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB 2400 S Closed at State St Salt Lake Co.\nEst. Clearance Time: 4:32 PM",
+        "eventDescription": "Crash\nSB I-215 W at MP 21 (900 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:39 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
