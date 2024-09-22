@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.173226,
-          40.753538
+          -111.891246,
+          40.52103
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184532",
+        "itemId": "UT-Incident--184534",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 105",
+        "operatorComment": " I-15 at MP 291",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-09-21T21:13:00",
-        "endTime": "2024-09-21T22:04:00",
-        "lastUpdated": "2024-09-21T21:13:00",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-09-21T22:19:00",
+        "endTime": "2024-09-21T23:15:00",
+        "lastUpdated": "2024-09-21T22:19:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 105 (1 mi E of Saltair) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:04 PM",
+        "eventDescription": "Crash\nSB I-15 at MP 291 (12200 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:15 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
