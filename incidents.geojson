@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.914012,
-          40.636258
+          -111.930014,
+          40.874689
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184523",
+        "itemId": "UT-Incident--184530",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 12",
-        "areaName": "Salt Lake County",
+        "operatorComment": " Redwood Rd at 1500 S",
+        "areaName": "Davis County",
         "lanesAffected": "",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
+        "roadwayName": "Redwood Rd",
+        "linkDesignator": "Redwood Rd",
         "linkDirection": "W",
-        "startTime": "2024-09-21T17:19:00",
-        "endTime": "2024-09-21T18:15:00",
-        "lastUpdated": "2024-09-21T17:19:00",
+        "startTime": "2024-09-21T19:42:00",
+        "endTime": "2024-09-21T20:41:00",
+        "lastUpdated": "2024-09-21T19:45:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Lane Closure\nWB I-215 S at MP 12 (700 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:15 PM",
+        "eventDescription": "Crash\nWB Redwood Rd at 1500 S Davis Co.\nRight Shoulder\nEst. Clearance Time: 8:41 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Lane Closure",
-        "eventSubTypeLongName": "Lane Closure"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
