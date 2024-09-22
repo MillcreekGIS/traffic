@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888204,
+          40.718789
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184557",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " STATE ST 2361",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Left Exit 1 (closest to mainline), Lane 1, Lane 2",
+        "roadwayName": "STATE ST",
+        "linkDesignator": "STATE ST",
+        "linkDirection": "S",
+        "startTime": "2024-09-22T15:33:00",
+        "endTime": "2024-09-22T16:32:00",
+        "lastUpdated": "2024-09-22T15:33:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB 2400 S Closed at State St Salt Lake Co.\nEst. Clearance Time: 4:32 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
