@@ -1,4 +1,103 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938855,
+          40.679182
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184550",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " REDWOOD RD 4201",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "REDWOOD RD",
+        "linkDesignator": "REDWOOD RD",
+        "linkDirection": "S",
+        "startTime": "2024-09-22T12:15:00",
+        "endTime": "2024-09-22T13:12:00",
+        "lastUpdated": "2024-09-22T12:20:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Signal problems / treat as four way stop \nAll Directions Redwood Rd at 4200 S Salt Lake Co.\nEst. Clearance Time: 1:12 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Signal problems",
+        "eventSubTypeLongName": "Signal problems"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938855,
+          40.675731
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184551",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " REDWOOD RD 4271",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "REDWOOD RD",
+        "linkDesignator": "REDWOOD RD",
+        "linkDirection": "S",
+        "startTime": "2024-09-22T12:16:00",
+        "endTime": "2024-09-22T13:15:00",
+        "lastUpdated": "2024-09-22T12:19:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Signal problems / treat as four way stop \nAll Directions Redwood Rd at 4445 S Salt Lake Co.\nEst. Clearance Time: 1:15 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Signal problems",
+        "eventSubTypeLongName": "Signal problems"
+      }
+    }
+  ]
 }
