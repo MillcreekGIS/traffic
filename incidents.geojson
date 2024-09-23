@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.934324,
-          40.83705
+          -111.902495,
+          40.592858
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184584",
+        "itemId": "UT-Incident--184586",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 68 at MP 64",
-        "areaName": "Davis County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 68",
-        "linkDesignator": "SR 68",
+        "operatorComment": " I-15 at MP 296",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-09-23T09:00:00",
-        "endTime": "2024-09-23T10:00:00",
-        "lastUpdated": "2024-09-23T09:00:00",
+        "startTime": "2024-09-23T09:25:00",
+        "endTime": "2024-09-23T10:30:00",
+        "lastUpdated": "2024-09-23T09:25:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB SR 68 at MP 64 (I-215 N / North Salt Lake) Davis Co.\nEst. Clearance Time: 10:00 AM",
+        "eventDescription": "Crash\nNB I-15 at MP 296 (8000 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:30 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
