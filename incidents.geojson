@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.982604,
-          40.507551
+          -111.902495,
+          40.592858
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184594",
+        "itemId": "UT-Incident--184599",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " BANGERTER HWY at 13400 S",
+        "operatorComment": " I-15 at MP 296",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "BANGERTER HWY",
-        "linkDesignator": "BANGERTER HWY",
-        "linkDirection": "W",
-        "startTime": "2024-09-23T14:26:00",
-        "endTime": "2024-09-23T15:30:00",
-        "lastUpdated": "2024-09-23T14:27:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-23T16:03:00",
+        "endTime": "2024-09-23T17:05:00",
+        "lastUpdated": "2024-09-23T16:03:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nBangerter Hwy at 13400 S Salt Lake Co.\nAll Directions\nEst. Clearance Time: 3:30 PM",
+        "eventDescription": "Crash\nCollector Ramp I-15 at MP 296 (8000 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:05 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
