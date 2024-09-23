@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.899489,
-          40.564298
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184572",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 294",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-23T06:53:00",
-        "endTime": "2024-09-23T08:00:00",
-        "lastUpdated": "2024-09-23T06:53:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 294 (10200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 8:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.953251,
           40.765438
         ]
@@ -153,12 +104,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.938799,
-          40.653171
+          -111.929407,
+          40.64406
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184578",
+        "itemId": "UT-Incident--184581",
         "icon": {
           "size": [
             29,
@@ -176,70 +127,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Redwood Rd at 5400 S",
+        "operatorComment": " I-215 S at MP 13",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2",
-        "roadwayName": "Redwood Rd",
-        "linkDesignator": "Redwood Rd",
-        "linkDirection": "BOTHDIR",
-        "startTime": "2024-09-23T07:39:00",
-        "endTime": "2024-09-23T09:00:00",
-        "lastUpdated": "2024-09-23T07:39:00",
+        "lanesAffected": "",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-23T08:03:00",
+        "endTime": "2024-09-23T09:01:00",
+        "lastUpdated": "2024-09-23T08:03:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nBoth Directions Redwood Rd at 5400 S Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 9:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.896336,
-          40.550055
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184573",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 293",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-23T06:56:00",
-        "endTime": "2024-09-23T08:00:00",
-        "lastUpdated": "2024-09-23T07:22:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 293 (10600 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 8:00 AM",
+        "eventDescription": "Crash\nRamp I-215 S at MP 13 (Redwood Rd, SLC) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:01 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
