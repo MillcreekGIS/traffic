@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.001283,
-          40.725741
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184609",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 12",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "Ramp",
-        "startTime": "2024-09-23T23:43:00",
-        "endTime": "2024-09-24T01:00:00",
-        "lastUpdated": "2024-09-23T23:49:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nRamp SR 201 at MP 12 (Bangerter Hwy) Salt Lake Co.\nRIght lane Clsd\nEst. Clearance Time: 9/24/2024 1:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Vehicle on fire",
-        "eventSubTypeLongName": "Vehicle on fire"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.90475,
           40.736823
         ]
