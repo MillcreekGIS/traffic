@@ -49,6 +49,55 @@
         "eventSubTypeName": "Vehicle on fire",
         "eventSubTypeLongName": "Vehicle on fire"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90475,
+          40.736823
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184610",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 306",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 3, Right Exit 2, Right Exit 1 (closest to mainline), Lane 1, Lane 2, Lane 3, Lane 4, Lane 5",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-24T00:31:00",
+        "endTime": "2024-09-24T01:35:00",
+        "lastUpdated": "2024-09-24T00:31:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 306 On Ramp (1300 S) Salt Lake Co.\nOn Ramp Closed \nEst. Clearance Time: 1:35 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
