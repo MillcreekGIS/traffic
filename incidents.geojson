@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.02884,
-          40.735168
+          -112.114369,
+          40.71806
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184686",
+        "itemId": "UT-Incident--184690",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Mountain View Corr at MP 24",
+        "operatorComment": " SR 201 at MP 6",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "Mountain View Corr",
-        "linkDesignator": "Mountain View Corr",
-        "linkDirection": "Unknown",
-        "startTime": "2024-09-25T10:59:00",
-        "endTime": "2024-09-25T12:00:00",
-        "lastUpdated": "2024-09-25T11:00:00",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2",
+        "roadwayName": "SR 201",
+        "linkDesignator": "SR 201",
+        "linkDirection": "W",
+        "startTime": "2024-09-25T12:26:00",
+        "endTime": "2024-09-25T13:24:00",
+        "lastUpdated": "2024-09-25T12:26:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nMountain View Corr at California Ave Salt Lake Co.\nEst. Clearance Time: 12:00 PM",
+        "eventDescription": "Lane Closure\nWB SR 201 at MP 6 (9180 W) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 1:24 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Lane Closure",
+        "eventSubTypeLongName": "Lane Closure"
       }
     }
   ]
