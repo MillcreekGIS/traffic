@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902881,
-          40.693589
+          -111.902613,
+          40.72696
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184747",
+        "itemId": "UT-Incident--184749",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 303",
+        "operatorComment": " I-15 NB X305B ON 2100 S RAMP at 2100 S",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
+        "lanesAffected": "None",
+        "roadwayName": "I-15 NB X305B ON 2100 S RAMP",
+        "linkDesignator": "I-15 NB X305B ON 2100 S RAMP",
         "linkDirection": "N",
-        "startTime": "2024-09-26T12:45:00",
-        "endTime": "2024-09-26T13:44:00",
-        "lastUpdated": "2024-09-26T12:45:00",
+        "startTime": "2024-09-26T14:12:00",
+        "endTime": "2024-09-26T15:11:00",
+        "lastUpdated": "2024-09-26T14:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 303 (3300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 1:44 PM",
+        "eventDescription": "Crash\nNB I-15 2100 S ON RAMP Salt Lake Co.\nEst. Clearance Time: 3:11 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905066,
-          40.63583
+          -111.873941,
+          40.718459
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184744",
+        "itemId": "UT-Incident--184748",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 299",
+        "operatorComment": " I-80 at MP 124",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-26T12:33:00",
-        "endTime": "2024-09-26T13:32:00",
-        "lastUpdated": "2024-09-26T13:14:00",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-09-26T13:58:00",
+        "endTime": "2024-09-26T14:57:00",
+        "lastUpdated": "2024-09-26T13:58:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 1:32 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:57 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
