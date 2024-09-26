@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.892927,
-          40.53585
+          -111.986353,
+          40.722926
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184728",
+        "itemId": "UT-Incident--184729",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 292",
+        "operatorComment": " SOUTH FRONTAGE RD at BANGERTER HWY",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-26T07:49:00",
-        "endTime": "2024-09-26T08:48:00",
-        "lastUpdated": "2024-09-26T07:49:00",
+        "lanesAffected": "None",
+        "roadwayName": "SOUTH FRONTAGE RD",
+        "linkDesignator": "SOUTH FRONTAGE RD",
+        "linkDirection": "W",
+        "startTime": "2024-09-26T07:57:00",
+        "endTime": "2024-09-26T09:00:00",
+        "lastUpdated": "2024-09-26T08:16:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 292 (11400 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 8:48 AM",
+        "eventDescription": "Crash\nWB South Frontage Rd at Bangerter Hwy Salt Lake Co.\nEst. Clearance Time: 9:00 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
