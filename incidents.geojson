@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.934049,
-          40.765772
+          -111.90475,
+          40.736823
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184733",
+        "itemId": "UT-Incident--184735",
         "icon": {
           "size": [
             29,
@@ -29,70 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 118",
+        "operatorComment": " I-15 at MP 306",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-09-26T08:34:00",
-        "endTime": "2024-09-26T09:33:00",
-        "lastUpdated": "2024-09-26T08:34:00",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-09-26T08:53:00",
+        "endTime": "2024-09-26T09:51:00",
+        "lastUpdated": "2024-09-26T08:53:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 118 (Redwood Rd / SLC) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:33 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.888263,
-          40.674276
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184734",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " STATE ST at 4500 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "STATE ST",
-        "linkDesignator": "STATE ST",
-        "linkDirection": "S",
-        "startTime": "2024-09-26T08:35:00",
-        "endTime": "2024-09-26T09:30:00",
-        "lastUpdated": "2024-09-26T08:35:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nState St at 4500 S (Murray) Salt Lake Co.\nAll Directions\nEst. Clearance Time: 9:30 AM",
+        "eventDescription": "Crash\nNB I-15 at MP 306 (1300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:51 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
