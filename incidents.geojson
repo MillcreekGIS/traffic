@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.902881,
-          40.693589
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184820",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 303",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 1, Lane 2",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "Ramp",
-        "startTime": "2024-09-28T06:56:00",
-        "endTime": "2024-09-28T07:55:00",
-        "lastUpdated": "2024-09-28T07:02:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Medical\nNB Ramp I-15 at MP 303 (3300 S) Salt Lake Co.\nRamp Closed\nEst. Clearance Time: 7:55 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Medical",
-        "eventSubTypeLongName": "Medical"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.90475,
           40.736823
         ]
@@ -86,13 +37,13 @@
         "linkDirection": "S",
         "startTime": "2024-09-28T06:58:00",
         "endTime": "2024-09-28T07:55:00",
-        "lastUpdated": "2024-09-28T06:58:00",
+        "lastUpdated": "2024-09-28T07:27:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Police incident\nSB I-15 at MP 306 (1300 S) Salt Lake Co.\nCollector to 1300 S, EB I-80, WB SR-201 Closed\n1300 S to SB I-15 Clsd",
+        "eventDescription": "Police incident\nSB I-15 at MP 306 (1300 S Collector) Salt Lake Co.\nRight lanes clsd",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Police incident",
