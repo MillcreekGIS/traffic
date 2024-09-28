@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.938966,
-          40.721209
+          -111.902881,
+          40.693589
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184819",
+        "itemId": "UT-Incident--184820",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,74 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Redwood Rd at MP 56",
+        "operatorComment": " I-15 at MP 303",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 5, Lane 6",
-        "roadwayName": "Redwood Rd",
-        "linkDesignator": "Redwood Rd",
-        "linkDirection": "N",
-        "startTime": "2024-09-28T05:53:00",
-        "endTime": "2024-09-28T06:52:00",
-        "lastUpdated": "2024-09-28T05:53:00",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 2",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-09-28T06:56:00",
+        "endTime": "2024-09-28T07:55:00",
+        "lastUpdated": "2024-09-28T06:56:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Redwood Rd at MP 56 (1550 S / Salt Lake City) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 6:52 AM",
+        "eventDescription": "Medical\nRamp I-15 at MP 303 (3300 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 7:55 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Medical",
+        "eventSubTypeLongName": "Medical"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90475,
+          40.736823
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184821",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 306",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Right Exit 3, Right Exit 2, Right Exit 1 (closest to mainline)",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "S",
+        "startTime": "2024-09-28T06:58:00",
+        "endTime": "2024-09-28T07:55:00",
+        "lastUpdated": "2024-09-28T06:58:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Police incident\nSB I-15 at MP 306 (1300 S) Salt Lake Co.\nCollector to 1300 S, EB I-80, WB SR-201 Closed\n1300 S to SB I-15 Clsd",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Police incident",
+        "eventSubTypeLongName": "Police incident"
       }
     }
   ]
