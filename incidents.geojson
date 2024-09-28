@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.905066,
-          40.63583
+          -111.953251,
+          40.765438
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184827",
+        "itemId": "UT-Incident--184829",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 299",
+        "operatorComment": " I-80 at MP 117",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-28T11:01:00",
-        "endTime": "2024-09-28T12:00:00",
-        "lastUpdated": "2024-09-28T11:01:00",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "W",
+        "startTime": "2024-09-28T11:21:00",
+        "endTime": "2024-09-28T12:20:00",
+        "lastUpdated": "2024-09-28T11:21:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 299 (I-15/I-215 Jct) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 12:00 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 117 (I-215 West Belt) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 12:20 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
