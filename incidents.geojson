@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.95315,
-          40.703296
+          -111.905459,
+          40.674523
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184853",
+        "itemId": "UT-Incident--184855",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 18",
+        "operatorComment": " 500 W at 4500 S/Riverside Dr",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
-        "linkDirection": "S",
-        "startTime": "2024-09-29T02:53:00",
-        "endTime": "2024-09-29T03:52:00",
-        "lastUpdated": "2024-09-29T02:53:00",
+        "lanesAffected": "Lane 1, Lane 2",
+        "roadwayName": "500 W",
+        "linkDesignator": "500 W",
+        "linkDirection": "E",
+        "startTime": "2024-09-29T04:05:00",
+        "endTime": "2024-09-29T05:03:00",
+        "lastUpdated": "2024-09-29T04:19:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nSB I-215 W at MP 18 (2900 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 3:52 AM",
+        "eventDescription": "Police incident\nEB 500 W at 4500 S/Riverside Dr Salt Lake Co.\n2 Left Lanes Closed\nEst. Clearance Time: 5:03 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
+        "eventSubTypeName": "Police incident",
+        "eventSubTypeLongName": "Police incident"
       }
     },
     {
