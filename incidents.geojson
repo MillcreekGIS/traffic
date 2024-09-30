@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.906243,
+          40.634472
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184892",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215S EB X12 TO I-15 SB COL RAMP at I-15 NB",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2",
+        "roadwayName": "I-215S EB X12 TO I-15 SB COL RAMP",
+        "linkDesignator": "I-215S EB X12 TO I-15 SB COL RAMP",
+        "linkDirection": "E",
+        "startTime": "2024-09-30T12:20:00",
+        "endTime": "2024-09-30T13:35:00",
+        "lastUpdated": "2024-09-30T12:20:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Lane Closure\nEB I-215S X12 TO I-15 COL RAMP at I-15 NB Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 1:35 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Lane Closure",
+        "eventSubTypeLongName": "Lane Closure"
+      }
+    }
+  ]
 }
