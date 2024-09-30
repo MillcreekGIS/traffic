@@ -1,4 +1,103 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.906876,
+          40.725632
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184894",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 SB X305 ON 2100 S RAMP at 2100 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15 SB X305 ON 2100 S RAMP",
+        "linkDesignator": "I-15 SB X305 ON 2100 S RAMP",
+        "linkDirection": "S",
+        "startTime": "2024-09-30T13:29:00",
+        "endTime": "2024-09-30T14:35:00",
+        "lastUpdated": "2024-09-30T13:29:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB I-15 X305 ON 2100 S RAMP at 2100 S Salt Lake Co.\nRight Lane Blocked\nEst. Clearance Time: 2:35 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.801136,
+          40.710695
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184895",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215 E at MP 1",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 E",
+        "linkDesignator": "I-215 E",
+        "linkDirection": "N",
+        "startTime": "2024-09-30T13:33:00",
+        "endTime": "2024-09-30T14:45:00",
+        "lastUpdated": "2024-09-30T13:33:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-215 E at MP 1 (3300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 2:45 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
