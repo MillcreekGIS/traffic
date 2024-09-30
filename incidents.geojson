@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90397,
-          40.707874
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184898",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 304",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-09-30T15:02:00",
-        "endTime": "2024-09-30T16:00:00",
-        "lastUpdated": "2024-09-30T15:26:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 304 (2700 S) Salt Lake Co.\nCleared at 3:26 PM\nEst. Clearance Time: 4:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.95364,
           40.717792
         ]
@@ -86,13 +37,13 @@
         "linkDirection": "N",
         "startTime": "2024-09-30T15:42:00",
         "endTime": "2024-09-30T16:42:00",
-        "lastUpdated": "2024-09-30T15:42:00",
+        "lastUpdated": "2024-09-30T15:52:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-215 W at MP 19 (1900 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 4:42 PM",
+        "eventDescription": "Crash\nNB I-215 W at MP 19 (1900 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:42 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
