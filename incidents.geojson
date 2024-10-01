@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.951068,
-          40.760605
+          -111.913768,
+          40.763707
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184939",
+        "itemId": "UT-Incident--184941",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 W at MP 22",
+        "operatorComment": " I-80 at MP 119",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
-        "roadwayName": "I-215 W",
-        "linkDesignator": "I-215 W",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
         "linkDirection": "S",
-        "startTime": "2024-10-01T16:29:00",
-        "endTime": "2024-10-01T17:30:00",
-        "lastUpdated": "2024-10-01T16:32:00",
+        "startTime": "2024-10-01T17:02:00",
+        "endTime": "2024-10-01T18:00:00",
+        "lastUpdated": "2024-10-01T17:02:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-215 W at MP 22 (600 S) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 5:30 PM",
+        "eventDescription": "Lane Closure\nEB I-80 Collector to SB I-15 at MP 119 (600 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Lane Closure",
+        "eventSubTypeLongName": "Lane Closure"
       }
     }
   ]
