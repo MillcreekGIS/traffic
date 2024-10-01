@@ -49,55 +49,6 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.991516,
-          40.765165
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184927",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 115",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "E",
-        "startTime": "2024-10-01T12:48:00",
-        "endTime": "2024-10-01T13:45:00",
-        "lastUpdated": "2024-10-01T12:48:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 at MP 115 (40th W / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 1:45 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
     }
   ]
 }
