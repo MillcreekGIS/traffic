@@ -104,12 +104,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.911227,
-          40.467787
+          -111.899489,
+          40.564298
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184995",
+        "itemId": "UT-Incident--185000",
         "icon": {
           "size": [
             29,
@@ -127,21 +127,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 287",
+        "operatorComment": " I-15 at MP 294",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-10-02T16:26:00",
-        "endTime": "2024-10-02T17:25:00",
-        "lastUpdated": "2024-10-02T16:26:00",
+        "linkDirection": "S",
+        "startTime": "2024-10-02T17:03:00",
+        "endTime": "2024-10-02T18:00:00",
+        "lastUpdated": "2024-10-02T17:03:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 287 (15200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 5:25 PM",
+        "eventDescription": "Crash\nSB I-15 onramp at MP 294 (10400 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 6:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
