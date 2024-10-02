@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.852701,
+          40.721141
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184982",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 WB X126 ON 1300 E NB RAMP at 1300 E",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-80 WB X126 ON 1300 E NB RAMP",
+        "linkDesignator": "I-80 WB X126 ON 1300 E NB RAMP",
+        "linkDirection": "W",
+        "startTime": "2024-10-02T11:29:00",
+        "endTime": "2024-10-02T12:30:00",
+        "lastUpdated": "2024-10-02T11:29:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nWB I-80 On Ramp at 1300 E Salt Lake Co.\nEst. Clearance Time: 12:30 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
