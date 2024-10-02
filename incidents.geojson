@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.871058,
-          40.753903
+          -111.90397,
+          40.707874
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--184984",
+        "itemId": "UT-Incident--184990",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 71 at MP 22",
+        "operatorComment": " I-15 at MP 304",
         "areaName": "Salt Lake County",
         "lanesAffected": "None",
-        "roadwayName": "SR 71",
-        "linkDesignator": "SR 71",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-10-02T12:16:00",
-        "endTime": "2024-10-02T15:00:00",
-        "lastUpdated": "2024-10-02T13:12:00",
+        "startTime": "2024-10-02T15:04:00",
+        "endTime": "2024-10-02T16:15:00",
+        "lastUpdated": "2024-10-02T15:04:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB SR 71(700 E)  at MP 22 (400 S) Salt Lake Co.\nEst. Clearance Time: 3:00 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 304 (2700 S) Salt Lake Co.\nEst. Clearance Time: 4:15 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
