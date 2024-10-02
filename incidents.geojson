@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.911406,
-          40.781989
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184962",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 SB X309 On 600 N EB Ramp at 600 N",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-15 SB X309 On 600 N EB Ramp",
-        "linkDesignator": "I-15 SB X309 On 600 N EB Ramp",
-        "linkDirection": "S",
-        "startTime": "2024-10-02T06:53:00",
-        "endTime": "2024-10-02T09:15:00",
-        "lastUpdated": "2024-10-02T07:56:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 On Ramp at 600 N Ramp Salt Lake Co.\nEst. Clearance Time: 8:00 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.944651,
           40.832165
         ]
