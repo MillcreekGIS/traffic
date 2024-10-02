@@ -6,6 +6,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.90475,
+          40.736823
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--184986",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 306",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-10-02T13:14:00",
+        "endTime": "2024-10-02T14:35:00",
+        "lastUpdated": "2024-10-02T13:14:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 306 (1300 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 2:35 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.871058,
           40.753903
         ]
@@ -37,111 +86,13 @@
         "linkDirection": "N",
         "startTime": "2024-10-02T12:16:00",
         "endTime": "2024-10-02T15:00:00",
-        "lastUpdated": "2024-10-02T12:16:00",
+        "lastUpdated": "2024-10-02T13:12:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB SR 71 at MP 22 (400 S) Salt Lake Co.\nEst. Clearance Time: 3:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.852701,
-          40.721141
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184982",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 WB X126 ON 1300 E NB RAMP at 1300 E",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-80 WB X126 ON 1300 E NB RAMP",
-        "linkDesignator": "I-80 WB X126 ON 1300 E NB RAMP",
-        "linkDirection": "W",
-        "startTime": "2024-10-02T11:29:00",
-        "endTime": "2024-10-02T12:30:00",
-        "lastUpdated": "2024-10-02T11:29:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 On Ramp at 1300 E Salt Lake Co.\nEst. Clearance Time: 12:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.095201,
-          40.717582
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--184985",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 7",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-10-02T12:27:00",
-        "endTime": "2024-10-02T13:25:00",
-        "lastUpdated": "2024-10-02T12:27:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 at MP 7 (8400 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 1:25 PM",
+        "eventDescription": "Crash\nNB SR 71(700 E)  at MP 22 (400 S) Salt Lake Co.\nEst. Clearance Time: 3:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
