@@ -37,17 +37,17 @@
         "linkDirection": "N",
         "startTime": "2024-10-03T07:37:00",
         "endTime": "2024-10-03T08:45:00",
-        "lastUpdated": "2024-10-03T07:37:00",
+        "lastUpdated": "2024-10-03T08:32:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Debris\nNB I-15 at MP 288 (14600 S) Salt Lake Co.\nEst. Clearance Time: 8:45 AM",
+        "eventDescription": "HAZMAT\nNB I-15 at MP 288 (14600 S) Salt Lake Co.\nEst. Clearance Time: 8:45 AM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Debris",
-        "eventSubTypeLongName": "Debris"
+        "eventSubTypeName": "HAZMAT",
+        "eventSubTypeLongName": "HAZMAT"
       }
     }
   ]
