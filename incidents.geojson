@@ -6,61 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.947601,
-          40.765798
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--185010",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-80 WB Fwy at I-215w NB Fwy",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-80 WB Fwy",
-        "linkDesignator": "I-80 WB Fwy",
-        "linkDirection": "Ramp",
-        "startTime": "2024-10-02T19:55:00",
-        "endTime": "2024-10-02T20:30:00",
-        "lastUpdated": "2024-10-02T19:56:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Stalled Vehicle\nRamp I-80  Fwy at I-215w NB Fwy Salt Lake Co.\nEst. Clearance Time: 8:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Stalled Vehicle",
-        "eventSubTypeLongName": "Stalled Vehicle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.902881,
           40.693589
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185012",
+        "itemId": "UT-Incident--185014",
         "icon": {
           "size": [
             29,
@@ -80,23 +31,23 @@
         "organizationId": "UT-Incident",
         "operatorComment": " I-15 at MP 303",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 5",
+        "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-10-02T20:15:00",
-        "endTime": "2024-10-02T21:15:00",
-        "lastUpdated": "2024-10-02T20:15:00",
+        "startTime": "2024-10-02T20:38:00",
+        "endTime": "2024-10-02T21:45:00",
+        "lastUpdated": "2024-10-02T20:38:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Lane Closure\nNB I-15 at MP 303 (3400 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 9:15 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 303 (3300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 9:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Lane Closure",
-        "eventSubTypeLongName": "Lane Closure"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
