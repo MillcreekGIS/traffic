@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.914012,
-          40.636258
+          -111.892927,
+          40.53585
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185050",
+        "itemId": "UT-Incident--185054",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-215 S at MP 12",
+        "operatorComment": " I-15 at MP 292",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-215 S",
-        "linkDesignator": "I-215 S",
-        "linkDirection": "E",
-        "startTime": "2024-10-03T15:29:00",
-        "endTime": "2024-10-03T16:35:00",
-        "lastUpdated": "2024-10-03T15:29:00",
+        "lanesAffected": "Lane 3",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-10-03T16:07:00",
+        "endTime": "2024-10-03T17:30:00",
+        "lastUpdated": "2024-10-03T16:07:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-215 S at MP 12 (1200 W) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:35 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 292 (11400 S) Salt Lake Co.\nCenter Lane Closed\nEst. Clearance Time: 5:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
