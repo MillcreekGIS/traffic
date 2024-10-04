@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.657734,
-          40.74385
+          -111.981588,
+          40.682086
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185088",
+        "itemId": "UT-Incident--185092",
         "icon": {
           "size": [
             29,
@@ -29,123 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 137",
+        "operatorComment": " Bangerter Hwy at 4100 S",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-80",
-        "linkDesignator": "I-80",
-        "linkDirection": "W",
-        "startTime": "2024-10-04T09:31:00",
-        "endTime": "2024-10-04T10:30:00",
-        "lastUpdated": "2024-10-04T09:31:00",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "N",
+        "startTime": "2024-10-04T11:07:00",
+        "endTime": "2024-10-04T12:06:00",
+        "lastUpdated": "2024-10-04T11:07:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 137 (1 mi E of Lambs Canyon) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 10:30 AM",
+        "eventDescription": "Vehicle on fire\nNB Bangerter Hwy at 4100 S Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 12:06 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.982542,
-          40.507406
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--185089",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " BANGERTER HWY at 13400 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 1 (closest to mainline), Left Exit 2, Left Exit 1 (closest to mainline), Lane 1, Lane 2, Lane 3",
-        "roadwayName": "BANGERTER HWY",
-        "linkDesignator": "BANGERTER HWY",
-        "linkDirection": "W",
-        "startTime": "2024-10-04T09:40:00",
-        "endTime": "2024-10-04T10:38:00",
-        "lastUpdated": "2024-10-04T09:40:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Utility Work\nWB BANGERTER HWY Closed\n at 13400 S \nSB to EB Closed\nSalt Lake Co.\nUse Alt Route",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Utility work",
-        "eventSubTypeLongName": "Utility work"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.982034,
-          40.725733
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--185091",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 13",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "E",
-        "startTime": "2024-10-04T10:43:00",
-        "endTime": "2024-10-04T11:42:00",
-        "lastUpdated": "2024-10-04T10:43:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB SR 201 at MP 13 (3200 W) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 11:42 AM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Vehicle on fire",
+        "eventSubTypeLongName": "Vehicle on fire"
       }
     }
   ]
