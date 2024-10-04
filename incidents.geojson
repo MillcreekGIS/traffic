@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.981588,
-          40.682086
+          -111.90475,
+          40.736823
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185092",
+        "itemId": "UT-Incident--185093",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " Bangerter Hwy at 4100 S",
+        "operatorComment": " I-15 at MP 306",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 3",
-        "roadwayName": "Bangerter Hwy",
-        "linkDesignator": "Bangerter Hwy",
-        "linkDirection": "N",
-        "startTime": "2024-10-04T11:07:00",
-        "endTime": "2024-10-04T12:06:00",
-        "lastUpdated": "2024-10-04T11:38:00",
+        "lanesAffected": "Lane 2",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-10-04T12:06:00",
+        "endTime": "2024-10-04T13:04:00",
+        "lastUpdated": "2024-10-04T12:06:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Vehicle on fire\nNB Bangerter Hwy at 4100 S Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 12:06 PM",
+        "eventDescription": "Crash\nRamp I-15 at MP 306 (900 S Exit Ramp) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 1:04 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Vehicle on fire",
-        "eventSubTypeLongName": "Vehicle on fire"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
