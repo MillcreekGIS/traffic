@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.151144,
-          40.720834
+          -111.855009,
+          40.719771
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185070",
+        "itemId": "UT-Incident--185076",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 4",
+        "operatorComment": " I-80 at MP 125",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
         "linkDirection": "W",
-        "startTime": "2024-10-03T20:51:00",
-        "endTime": "2024-10-03T21:50:00",
-        "lastUpdated": "2024-10-03T20:52:00",
+        "startTime": "2024-10-03T22:32:00",
+        "endTime": "2024-10-03T23:30:00",
+        "lastUpdated": "2024-10-03T22:32:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 4 (E of SR-202) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 9:50 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:30 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.569589,
+          40.751955
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185075",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 142",
+        "areaName": "Summit County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-10-03T22:26:00",
+        "endTime": "2024-10-03T23:30:00",
+        "lastUpdated": "2024-10-03T22:26:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 142 (Jeremy Ranch) Summit Co.\nRight Shoulder\nEst. Clearance Time: 11:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
