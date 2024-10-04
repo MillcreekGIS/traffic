@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.855009,
-          40.719771
+          -111.873941,
+          40.718459
         ]
       },
       "properties": {
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 at MP 125",
+        "operatorComment": " I-80 at MP 124",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
+        "lanesAffected": "None",
         "roadwayName": "I-80",
         "linkDesignator": "I-80",
         "linkDirection": "W",
         "startTime": "2024-10-03T22:32:00",
         "endTime": "2024-10-03T23:30:00",
-        "lastUpdated": "2024-10-03T22:32:00",
+        "lastUpdated": "2024-10-03T22:44:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB I-80 at MP 125 (700 E / Salt Lake City) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 11:30 PM",
+        "eventDescription": "Crash\nWB I-80 at MP 124 (State St / Salt Lake City) Salt Lake Co.\nEst. Clearance Time: 11:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
