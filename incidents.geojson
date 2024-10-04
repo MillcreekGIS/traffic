@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90475,
-          40.736823
+          -111.957869,
+          40.653099
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185093",
+        "itemId": "UT-Incident--185096",
         "icon": {
           "size": [
             29,
@@ -29,70 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 306",
+        "operatorComment": " 5400 S at 2700 W",
         "areaName": "Salt Lake County",
-        "lanesAffected": "",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "Ramp",
-        "startTime": "2024-10-04T12:06:00",
-        "endTime": "2024-10-04T13:04:00",
-        "lastUpdated": "2024-10-04T12:35:00",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "5400 S",
+        "linkDesignator": "5400 S",
+        "linkDirection": "E",
+        "startTime": "2024-10-04T12:58:00",
+        "endTime": "2024-10-04T13:57:00",
+        "lastUpdated": "2024-10-04T12:58:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nRamp I-15 at MP 306 (900 S Exit Ramp) Salt Lake Co.\nRight Shoulder Closed\nEst. Clearance Time: 1:04 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.902181,
-          40.679062
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--185095",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 302",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4, Lane 5",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "N",
-        "startTime": "2024-10-04T12:51:00",
-        "endTime": "2024-10-04T13:50:00",
-        "lastUpdated": "2024-10-04T12:51:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 302 (4100 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 1:50 PM",
+        "eventDescription": "Crash\nEB 5400 S at 2700 W Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 1:57 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
