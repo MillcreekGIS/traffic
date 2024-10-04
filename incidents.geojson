@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.91569,
-          40.825133
+          -111.95364,
+          40.717792
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185105",
+        "itemId": "UT-Incident--185111",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " US 89 at MP 384",
-        "areaName": "Davis County",
-        "lanesAffected": "None",
-        "roadwayName": "US 89",
-        "linkDesignator": "US 89",
+        "operatorComment": " I-215 W at MP 19",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-215 W",
+        "linkDesignator": "I-215 W",
         "linkDirection": "N",
-        "startTime": "2024-10-04T15:10:00",
-        "endTime": "2024-10-04T16:15:00",
-        "lastUpdated": "2024-10-04T15:10:00",
+        "startTime": "2024-10-04T16:32:00",
+        "endTime": "2024-10-04T17:30:00",
+        "lastUpdated": "2024-10-04T16:32:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB US 89 at MP 384 (800 S / North SLC) Davis Co.\nLeft Shoulder\nEst. Clearance Time: 4:08 PM",
+        "eventDescription": "Crash\nNB I-215 W at MP 19 (1900 S) Salt Lake Co.\nEst. Clearance Time: 5:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
