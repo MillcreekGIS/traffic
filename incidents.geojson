@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90236,
-          40.649847
+          -111.902252,
+          40.480607
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185100",
+        "itemId": "UT-Incident--185104",
         "icon": {
           "size": [
             29,
@@ -78,21 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 300",
+        "operatorComment": " I-15 at MP 288",
         "areaName": "Salt Lake County",
         "lanesAffected": "",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-10-04T14:15:00",
-        "endTime": "2024-10-04T15:14:00",
-        "lastUpdated": "2024-10-04T14:15:00",
+        "linkDirection": "Ramp",
+        "startTime": "2024-10-04T15:08:00",
+        "endTime": "2024-10-04T16:07:00",
+        "lastUpdated": "2024-10-04T15:08:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 300 (5200 S) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 3:14 PM",
+        "eventDescription": "Crash\nRamp SB I-15 at MP 288 (14600 S Exit) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 4:07 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
