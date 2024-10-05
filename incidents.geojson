@@ -98,6 +98,104 @@
         "eventSubTypeName": "Crash",
         "eventSubTypeLongName": "Crash"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.90152,
+          40.664677
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185145",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 301",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "Ramp",
+        "startTime": "2024-10-05T14:15:00",
+        "endTime": "2024-10-05T15:14:00",
+        "lastUpdated": "2024-10-05T14:15:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nRamp NB I-15 at MP 301 (4500 S Exit) Salt Lake Co.\nEst. Clearance Time: 3:14 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.796038,
+          40.686997
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185143",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 3900 S at Wasatch Blvd",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "3900 S",
+        "linkDesignator": "3900 S",
+        "linkDirection": "All",
+        "startTime": "2024-10-05T13:58:00",
+        "endTime": "2024-10-05T14:57:00",
+        "lastUpdated": "2024-10-05T13:58:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nAll Directions 3900 S at Wasatch Blvd Salt Lake Co.\nEB Closed\nSB Right Lane Closed\nEst. Clearance Time: 2:57 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
     }
   ]
 }
