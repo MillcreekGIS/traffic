@@ -6,55 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.035576,
-          40.60943
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--185132",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " Mountain View Corridor Hwy at 7800 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1, Lane 2",
-        "roadwayName": "Mountain View Corridor Hwy",
-        "linkDesignator": "Mountain View Corridor Hwy",
-        "linkDirection": "N",
-        "startTime": "2024-10-05T07:33:00",
-        "endTime": "2024-10-05T08:32:00",
-        "lastUpdated": "2024-10-05T07:33:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB Mountain View Corridor Hwy Closed\n at 7800 S Salt Lake Co.\nUse Alt Route",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -111.90475,
           40.736823
         ]
