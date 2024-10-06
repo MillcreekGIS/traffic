@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.955781,
+          40.725987
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185164",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-215W SB X20 TO SR 201 WB RAMP at SR 201 EB",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-215W SB X20 TO SR 201 WB RAMP",
+        "linkDesignator": "I-215W SB X20 TO SR 201 WB RAMP",
+        "linkDirection": "S",
+        "startTime": "2024-10-05T23:51:00",
+        "endTime": "2024-10-06T00:45:00",
+        "lastUpdated": "2024-10-06T00:05:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nRamp SB I-215w To WB SR-201 (Salt Lake Co.)\nRight Shoulder\nEst. Clearance Time: 10/6/2024 12:45 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
