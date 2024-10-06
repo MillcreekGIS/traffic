@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.913981,
-          40.782381
+          -111.902252,
+          40.480607
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185153",
+        "itemId": "UT-Incident--185154",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 268 at MP 0",
+        "operatorComment": " I-15 at MP 288",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 1",
-        "roadwayName": "SR 268",
-        "linkDesignator": "SR 268",
-        "linkDirection": "W",
-        "startTime": "2024-10-05T17:20:00",
-        "endTime": "2024-10-05T18:19:00",
-        "lastUpdated": "2024-10-05T17:40:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-10-05T17:51:00",
+        "endTime": "2024-10-05T19:00:00",
+        "lastUpdated": "2024-10-05T17:51:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 268 at MP 0 (SR-268) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 6:19 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 288 (14500 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:00 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
