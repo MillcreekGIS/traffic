@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888065,
+          40.526771
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185160",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 12300 S at State St",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1, Lane 2, Lane 3",
+        "roadwayName": "12300 S",
+        "linkDesignator": "12300 S",
+        "linkDirection": "E",
+        "startTime": "2024-10-05T20:54:00",
+        "endTime": "2024-10-05T22:00:00",
+        "lastUpdated": "2024-10-05T20:54:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "EB 12300 S Closed\n at State St Salt Lake Co.\nUse Alt Route",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
