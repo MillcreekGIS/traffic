@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90397,
-          40.707874
+          -111.90152,
+          40.664677
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185175",
+        "itemId": "UT-Incident--185177",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,70 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 304",
+        "operatorComment": " I-15 at MP 301",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
+        "lanesAffected": "Lane 1",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-10-06T12:56:00",
-        "endTime": "2024-10-06T13:55:00",
-        "lastUpdated": "2024-10-06T12:56:00",
+        "startTime": "2024-10-06T13:13:00",
+        "endTime": "2024-10-06T14:11:00",
+        "lastUpdated": "2024-10-06T13:13:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 at MP 304 (2700 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 1:55 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 301 (4500 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 2:11 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902181,
+          40.679062
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185176",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 302",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 4, Lane 5",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-10-06T13:07:00",
+        "endTime": "2024-10-06T14:06:00",
+        "lastUpdated": "2024-10-06T13:07:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 302 (4100 S) Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 2:06 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
