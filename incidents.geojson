@@ -86,7 +86,7 @@
         "linkDirection": "E",
         "startTime": "2024-10-07T05:31:00",
         "endTime": "2024-10-07T06:35:00",
-        "lastUpdated": "2024-10-07T05:31:00",
+        "lastUpdated": "2024-10-07T05:42:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
@@ -95,8 +95,8 @@
         "eventDescription": "EB SR 201 Off Ramp Closed at MP 16 (900 W) Salt Lake Co.\nUse Alt Route",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Lane Closure",
-        "eventSubTypeLongName": "Lane Closure"
+        "eventSubTypeName": "Police incident",
+        "eventSubTypeLongName": "Police incident"
       }
     }
   ]
