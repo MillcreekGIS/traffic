@@ -36,8 +36,8 @@
         "linkDesignator": "US 89",
         "linkDirection": "N",
         "startTime": "2024-10-07T08:07:00",
-        "endTime": "2024-10-07T10:00:00",
-        "lastUpdated": "2024-10-07T09:03:00",
+        "endTime": "2024-10-07T10:45:00",
+        "lastUpdated": "2024-10-07T09:18:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
@@ -85,8 +85,8 @@
         "linkDesignator": "I-15",
         "linkDirection": "N",
         "startTime": "2024-10-07T08:19:00",
-        "endTime": "2024-10-07T09:18:00",
-        "lastUpdated": "2024-10-07T08:19:00",
+        "endTime": "2024-10-07T09:48:00",
+        "lastUpdated": "2024-10-07T09:17:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
@@ -153,6 +153,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.836246,
+          40.717537
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185211",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 126",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-10-07T09:16:00",
+        "endTime": "2024-10-07T10:15:00",
+        "lastUpdated": "2024-10-07T09:16:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 126 (1300 E / Sugar House) Salt Lake Co.\nEst. Clearance Time: 10:15 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.924637,
           40.724236
         ]
@@ -183,8 +232,8 @@
         "linkDesignator": "SR 201",
         "linkDirection": "E",
         "startTime": "2024-10-07T05:31:00",
-        "endTime": "2024-10-07T10:00:00",
-        "lastUpdated": "2024-10-07T09:03:00",
+        "endTime": "2024-10-07T12:00:00",
+        "lastUpdated": "2024-10-07T09:18:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
