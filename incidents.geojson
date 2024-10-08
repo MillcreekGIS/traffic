@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.90475,
-          40.736823
+          -111.929407,
+          40.64406
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185219",
+        "itemId": "UT-Incident--185221",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 306",
+        "operatorComment": " I-215 S at MP 13",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Right Exit 3",
-        "roadwayName": "I-15",
-        "linkDesignator": "I-15",
-        "linkDirection": "S",
-        "startTime": "2024-10-07T17:23:00",
-        "endTime": "2024-10-07T19:25:00",
-        "lastUpdated": "2024-10-07T18:06:00",
+        "lanesAffected": "Right Exit 1 (closest to mainline), Lane 1",
+        "roadwayName": "I-215 S",
+        "linkDesignator": "I-215 S",
+        "linkDirection": "Ramp",
+        "startTime": "2024-10-07T19:44:00",
+        "endTime": "2024-10-07T20:45:00",
+        "lastUpdated": "2024-10-07T19:44:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB I-15 at MP 306 (1300 S) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:25 PM",
+        "eventDescription": "WB Ramp I-215 S Closed\n at MP 13 (Redwood Rd, SLC) Salt Lake Co.\nUse Alt Route",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
