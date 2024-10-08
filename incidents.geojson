@@ -6,6 +6,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.90236,
+          40.649847
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185249",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 at MP 300",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 1",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-10-08T10:30:00",
+        "endTime": "2024-10-08T11:30:00",
+        "lastUpdated": "2024-10-08T10:33:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nNB I-15 at MP 300 (5200 S) Salt Lake Co.\nLeft Lane Closed\nEst. Clearance Time: 11:30 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.902314,
+          40.69996
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185248",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-15 SB X303 Off 3300 S EB Ramp at 3300 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Left Exit 2, Left Exit 1 (closest to mainline)",
+        "roadwayName": "I-15 SB X303 Off 3300 S EB Ramp",
+        "linkDesignator": "I-15 SB X303 Off 3300 S EB Ramp",
+        "linkDirection": "S",
+        "startTime": "2024-10-08T10:17:00",
+        "endTime": "2024-10-08T10:45:00",
+        "lastUpdated": "2024-10-08T10:17:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Lane Closure\nSB I-15 Off Ramp to EB 3300 S Salt Lake Co.\nClosed\nEst. Clearance Time: 10:45 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Lane Closure",
+        "eventSubTypeLongName": "Lane Closure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.90136,
           40.699155
         ]
