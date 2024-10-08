@@ -6,6 +6,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.972427,
+          40.764633
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185268",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " I-80 at MP 116",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "",
+        "roadwayName": "I-80",
+        "linkDesignator": "I-80",
+        "linkDirection": "E",
+        "startTime": "2024-10-08T16:26:00",
+        "endTime": "2024-10-08T17:25:00",
+        "lastUpdated": "2024-10-08T16:26:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nEB I-80 at MP 116 (Bangerter Hwy) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 5:25 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.024932,
+          40.754794
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185267",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " 5600 W at 700 S",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "Lane 2, Lane 3",
+        "roadwayName": "5600 W",
+        "linkDesignator": "5600 W",
+        "linkDirection": "S",
+        "startTime": "2024-10-08T16:24:00",
+        "endTime": "2024-10-08T17:30:00",
+        "lastUpdated": "2024-10-08T16:24:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB 5600 W at 700 S Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 5:30 PM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.917999,
           40.817596
         ]
@@ -44,55 +142,6 @@
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
         "eventDescription": "Crash\nNB I-15 at MP 312 (Beck St / US-89) Salt Lake Co.\nEst. Clearance Time: 4:30 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.893773,
-          40.543397
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--185259",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " I-15 NB X 292 Off 11400 S Ramp at 11400 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2",
-        "roadwayName": "I-15 NB X 292 Off 11400 S Ramp",
-        "linkDesignator": "I-15 NB X 292 Off 11400 S Ramp",
-        "linkDirection": "N",
-        "startTime": "2024-10-08T14:42:00",
-        "endTime": "2024-10-08T15:45:00",
-        "lastUpdated": "2024-10-08T14:53:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nNB I-15 Off Ramp at 11400 S Salt Lake Co.\nEst. Clearance Time: 3:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
