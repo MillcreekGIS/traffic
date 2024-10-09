@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.950981,
-          40.763222
+          -111.904691,
+          40.722344
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185316",
+        "itemId": "UT-Incident--185317",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-80 EB X117 To I-215w NB Ramp at I-215w NB",
+        "operatorComment": " I-15 at MP 305",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "I-80 EB X117 To I-215w NB Ramp",
-        "linkDesignator": "I-80 EB X117 To I-215w NB Ramp",
-        "linkDirection": "E",
-        "startTime": "2024-10-09T15:22:00",
+        "lanesAffected": "Lane 4",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-10-09T15:29:00",
         "endTime": "2024-10-09T16:30:00",
-        "lastUpdated": "2024-10-09T15:22:00",
+        "lastUpdated": "2024-10-09T15:36:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nEB I-80 Ramp To NB I-215w Salt Lake Co.\nEst. Clearance Time: 4:30 PM",
+        "eventDescription": "Lane Closure\nNB I-15 at MP 305 (2100 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 4:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
+        "eventSubTypeName": "Lane Closure",
+        "eventSubTypeLongName": "Lane Closure"
       }
     }
   ]
