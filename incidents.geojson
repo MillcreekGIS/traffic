@@ -1,4 +1,54 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.965962,
+          40.727514
+        ]
+      },
+      "properties": {
+        "itemId": "UT-Incident--185306",
+        "icon": {
+          "size": [
+            29,
+            35
+          ],
+          "anchor": [
+            14,
+            34
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": "",
+        "organizationCenterId": "UT-Incident",
+        "organizationId": "UT-Incident",
+        "operatorComment": " SR 201 WB X14 OFF 2100 S EB RAMP at 3230 W",
+        "areaName": "Salt Lake County",
+        "lanesAffected": "None",
+        "roadwayName": "SR 201 WB X14 OFF 2100 S EB RAMP",
+        "linkDesignator": "SR 201 WB X14 OFF 2100 S EB RAMP",
+        "linkDirection": "W",
+        "startTime": "2024-10-09T10:15:00",
+        "endTime": "2024-10-09T11:15:00",
+        "lastUpdated": "2024-10-09T10:15:00",
+        "headlineEventType": "accidentsAndIncidents",
+        "headlineEventSubType": "",
+        "isActive": true,
+        "isFullClosure": 0,
+        "typeCode": "accidentsAndIncidents",
+        "eventDescription": "Crash\nSB SR-177 (West Davis Corr) at MP 8 (200 N) Davis Co.\nEst. Clearance Time: 11:15 AM",
+        "eventTypeName": "Incidents",
+        "eventTypeLongName": "Incidents",
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
+      }
+    }
+  ]
 }
