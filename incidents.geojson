@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.962907,
-          40.72606
+          -111.914284,
+          40.763745
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185279",
+        "itemId": "UT-Incident--185282",
         "icon": {
           "size": [
             29,
@@ -29,21 +29,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " SR 201 at MP 14",
+        "operatorComment": " I-15 at MP 308",
         "areaName": "Salt Lake County",
-        "lanesAffected": "None",
-        "roadwayName": "SR 201",
-        "linkDesignator": "SR 201",
-        "linkDirection": "W",
-        "startTime": "2024-10-08T17:45:00",
-        "endTime": "2024-10-08T18:30:00",
-        "lastUpdated": "2024-10-08T17:45:00",
+        "lanesAffected": "",
+        "roadwayName": "I-15",
+        "linkDesignator": "I-15",
+        "linkDirection": "N",
+        "startTime": "2024-10-08T18:35:00",
+        "endTime": "2024-10-08T19:33:00",
+        "lastUpdated": "2024-10-08T18:35:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nWB SR 201 at MP 14 (2400 W) Salt Lake Co.\nLeft Shoulder\nEst. Clearance Time: 6:30 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 308 (N Temple) Salt Lake Co.\nRight Shoulder\nEst. Clearance Time: 7:33 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
@@ -55,12 +55,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.888226,
-          40.724355
+          -111.981592,
+          40.68297
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185278",
+        "itemId": "UT-Incident--185283",
         "icon": {
           "size": [
             29,
@@ -78,70 +78,21 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " US 89 at MP 376",
+        "operatorComment": " Bangerter Hwy at MP 18",
         "areaName": "Salt Lake County",
         "lanesAffected": "None",
-        "roadwayName": "US 89",
-        "linkDesignator": "US 89",
-        "linkDirection": "S",
-        "startTime": "2024-10-08T17:40:00",
-        "endTime": "2024-10-08T19:00:00",
-        "lastUpdated": "2024-10-08T17:40:00",
+        "roadwayName": "Bangerter Hwy",
+        "linkDesignator": "Bangerter Hwy",
+        "linkDirection": "N",
+        "startTime": "2024-10-08T18:38:00",
+        "endTime": "2024-10-08T19:45:00",
+        "lastUpdated": "2024-10-08T18:38:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB US 89 at MP 376 (2200 S / SLC) Salt Lake Co.\nEst. Clearance Time: 7:00 PM",
-        "eventTypeName": "Incidents",
-        "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Crash",
-        "eventSubTypeLongName": "Crash"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.024932,
-          40.754794
-        ]
-      },
-      "properties": {
-        "itemId": "UT-Incident--185267",
-        "icon": {
-          "size": [
-            29,
-            35
-          ],
-          "anchor": [
-            14,
-            34
-          ],
-          "zindex": 0,
-          "preventClustering": false,
-          "isClickable": true,
-          "rotation": 0
-        },
-        "title": "",
-        "organizationCenterId": "UT-Incident",
-        "organizationId": "UT-Incident",
-        "operatorComment": " 5600 W at 700 S",
-        "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 2, Lane 3",
-        "roadwayName": "5600 W",
-        "linkDesignator": "5600 W",
-        "linkDirection": "S",
-        "startTime": "2024-10-08T16:24:00",
-        "endTime": "2024-10-08T17:45:00",
-        "lastUpdated": "2024-10-08T17:31:00",
-        "headlineEventType": "accidentsAndIncidents",
-        "headlineEventSubType": "",
-        "isActive": true,
-        "isFullClosure": 0,
-        "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Crash\nSB 5600 W at 700 S Salt Lake Co.\n2 Right Lanes Closed\nEst. Clearance Time: 5:45 PM",
+        "eventDescription": "Crash\nNB Bangerter Hwy at MP 18 (4100 S) Salt Lake Co.\nEst. Clearance Time: 7:45 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
         "eventSubTypeName": "Crash",
