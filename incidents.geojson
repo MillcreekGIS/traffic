@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.904691,
-          40.722344
+          -111.902881,
+          40.693589
         ]
       },
       "properties": {
-        "itemId": "UT-Incident--185317",
+        "itemId": "UT-Incident--185318",
         "icon": {
           "size": [
             29,
@@ -29,25 +29,25 @@
         "title": "",
         "organizationCenterId": "UT-Incident",
         "organizationId": "UT-Incident",
-        "operatorComment": " I-15 at MP 305",
+        "operatorComment": " I-15 at MP 303",
         "areaName": "Salt Lake County",
-        "lanesAffected": "Lane 4",
+        "lanesAffected": "None",
         "roadwayName": "I-15",
         "linkDesignator": "I-15",
         "linkDirection": "N",
-        "startTime": "2024-10-09T15:29:00",
-        "endTime": "2024-10-09T16:30:00",
-        "lastUpdated": "2024-10-09T15:36:00",
+        "startTime": "2024-10-09T16:18:00",
+        "endTime": "2024-10-09T17:30:00",
+        "lastUpdated": "2024-10-09T16:18:00",
         "headlineEventType": "accidentsAndIncidents",
         "headlineEventSubType": "",
         "isActive": true,
         "isFullClosure": 0,
         "typeCode": "accidentsAndIncidents",
-        "eventDescription": "Lane Closure\nNB I-15 at MP 305 (2100 S) Salt Lake Co.\nRight Lane Closed\nEst. Clearance Time: 4:30 PM",
+        "eventDescription": "Crash\nNB I-15 at MP 303 (3300 S) Salt Lake Co.\nEst. Clearance Time: 5:30 PM",
         "eventTypeName": "Incidents",
         "eventTypeLongName": "Incidents",
-        "eventSubTypeName": "Lane Closure",
-        "eventSubTypeLongName": "Lane Closure"
+        "eventSubTypeName": "Crash",
+        "eventSubTypeLongName": "Crash"
       }
     }
   ]
