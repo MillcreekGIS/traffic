@@ -2,7 +2,7 @@ import requests
 import json
 
 # URL for Millcreek, UT weather forecast
-url = "https://api.weather.gov/gridpoints/OKX/36,36/forecast"
+url = "https://api.weather.gov/gridpoints/SLC/100,172/forecast"
 
 # Fetch the weather data
 response = requests.get(url)
